@@ -1,0 +1,253 @@
+name,app_id,reviews_count,price_usd,release_year,genres
+Terraria,105600,1120927,9.99,2011,Action
+Terraria,105600,1120927,9.99,2011,Adventure
+Terraria,105600,1120927,9.99,2011,Indie
+Terraria,105600,1120927,9.99,2011,RPG
+Garry's Mod,4000,996840,5.99,2006,Casual
+Garry's Mod,4000,996840,5.99,2006,Indie
+Garry's Mod,4000,996840,5.99,2006,Simulation
+Black Myth: Wukong,2358720,834392,59.99,2024,Action
+Black Myth: Wukong,2358720,834392,59.99,2024,Adventure
+Black Myth: Wukong,2358720,834392,59.99,2024,RPG
+The Witcher 3: Wild Hunt,292030,771818,39.99,2015,RPG
+Stardew Valley,413150,755165,14.99,2016,Indie
+Stardew Valley,413150,755165,14.99,2016,RPG
+Stardew Valley,413150,755165,14.99,2016,Simulation
+Left 4 Dead 2,550,732428,0.99,2009,Action
+Euro Truck Simulator 2,227300,685799,19.99,2012,Indie
+Euro Truck Simulator 2,227300,685799,19.99,2012,Simulation
+Baldur's Gate 3,1086940,669355,59.99,2023,Adventure
+Baldur's Gate 3,1086940,669355,59.99,2023,RPG
+Baldur's Gate 3,1086940,669355,59.99,2023,Strategy
+Phasmophobia,739630,625641,19.99,2020,Action
+Phasmophobia,739630,625641,19.99,2020,Indie
+Phasmophobia,739630,625641,19.99,2020,Early Access
+The Forest,242760,533126,19.99,2018,Action
+The Forest,242760,533126,19.99,2018,Adventure
+The Forest,242760,533126,19.99,2018,Indie
+The Forest,242760,533126,19.99,2018,Simulation
+Lethal Company,1966720,392376,9.99,2023,Action
+Lethal Company,1966720,392376,9.99,2023,Adventure
+Lethal Company,1966720,392376,9.99,2023,Indie
+Lethal Company,1966720,392376,9.99,2023,Early Access
+Hollow Knight,367520,369906,14.99,2017,Action
+Hollow Knight,367520,369906,14.99,2017,Adventure
+Hollow Knight,367520,369906,14.99,2017,Indie
+Portal 2,620,359554,1.99,2011,Action
+Portal 2,620,359554,1.99,2011,Adventure
+Dying Light,239140,342204,8.99,2025,Action
+Dying Light,239140,342204,8.99,2025,RPG
+Don't Starve Together,322330,341198,14.99,2016,Action
+Don't Starve Together,322330,341198,14.99,2016,Adventure
+Don't Starve Together,322330,341198,14.99,2016,Indie
+Don't Starve Together,322330,341198,14.99,2016,RPG
+Don't Starve Together,322330,341198,14.99,2016,Simulation
+Don't Starve Together,322330,341198,14.99,2016,Strategy
+Bloons TD 6,960090,312497,13.99,2018,Strategy
+The Binding of Isaac: Rebirth,250900,310107,14.99,2014,Action
+BeamNG.drive,284160,296115,24.99,2015,Racing
+BeamNG.drive,284160,296115,24.99,2015,Simulation
+BeamNG.drive,284160,296115,24.99,2015,Early Access
+Subnautica,264710,282436,29.99,2018,Adventure
+Subnautica,264710,282436,29.99,2018,Indie
+Deep Rock Galactic,548430,273520,29.99,2020,Action
+People Playground,1118200,263816,9.99,2019,Action
+People Playground,1118200,263816,9.99,2019,Casual
+People Playground,1118200,263816,9.99,2019,Indie
+People Playground,1118200,263816,9.99,2019,Simulation
+Hades,1145360,258254,24.99,2020,Action
+Hades,1145360,258254,24.99,2020,Indie
+Hades,1145360,258254,24.99,2020,RPG
+Undertale,391540,242510,2.49,2015,Indie
+Undertale,391540,242510,2.49,2015,RPG
+Vampire Survivors,1794680,237402,3.99,2022,Action
+Vampire Survivors,1794680,237402,3.99,2022,Casual
+Vampire Survivors,1794680,237402,3.99,2022,Indie
+Vampire Survivors,1794680,237402,3.99,2022,RPG
+Sekiro™: Shadows Die Twice - GOTY Edition,814380,234002,59.99,2019,Action
+Sekiro™: Shadows Die Twice - GOTY Edition,814380,234002,59.99,2019,Adventure
+Titanfall® 2,1237970,226520,29.99,2020,Action
+Satisfactory,526870,195714,39.99,2024,Adventure
+Satisfactory,526870,195714,39.99,2024,Indie
+Satisfactory,526870,195714,39.99,2024,Simulation
+Satisfactory,526870,195714,39.99,2024,Strategy
+Schedule I,3164500,184878,19.99,2025,Action
+Schedule I,3164500,184878,19.99,2025,Indie
+Schedule I,3164500,184878,19.99,2025,Simulation
+Schedule I,3164500,184878,19.99,2025,Strategy
+Schedule I,3164500,184878,19.99,2025,Early Access
+Fallout: New Vegas,22380,182667,9.99,2010,Action
+Fallout: New Vegas,22380,182667,9.99,2010,RPG
+It Takes Two,1426210,181055,39.99,2021,Action
+It Takes Two,1426210,181055,39.99,2021,Adventure
+Half-Life 2,220,180470,9.99,2004,Action
+RimWorld,294100,177928,34.99,2018,Indie
+RimWorld,294100,177928,34.99,2018,Simulation
+RimWorld,294100,177928,34.99,2018,Strategy
+Factorio,427520,174841,35.0,2020,Casual
+Factorio,427520,174841,35.0,2020,Indie
+Factorio,427520,174841,35.0,2020,Simulation
+Factorio,427520,174841,35.0,2020,Strategy
+Cuphead,268910,166421,19.99,2017,Action
+Cuphead,268910,166421,19.99,2017,Indie
+Divinity: Original Sin 2 - Definitive Edition,435150,166023,44.99,2017,Adventure
+Divinity: Original Sin 2 - Definitive Edition,435150,166023,44.99,2017,RPG
+Divinity: Original Sin 2 - Definitive Edition,435150,166023,44.99,2017,Strategy
+Counter-Strike,10,160058,9.99,2000,Action
+Slay the Spire,646570,157412,8.49,2019,Indie
+Slay the Spire,646570,157412,8.49,2019,Strategy
+Tomb Raider,203160,155265,14.99,2013,Action
+Tomb Raider,203160,155265,14.99,2013,Adventure
+Portal,400,153074,1.99,2007,Action
+ULTRAKILL,1229490,148805,24.99,2020,Action
+ULTRAKILL,1229490,148805,24.99,2020,Indie
+ULTRAKILL,1229490,148805,24.99,2020,Early Access
+R.E.P.O.,3241660,148031,9.99,2025,Action
+R.E.P.O.,3241660,148031,9.99,2025,Early Access
+American Truck Simulator,270880,146231,19.99,2016,Indie
+American Truck Simulator,270880,146231,19.99,2016,Simulation
+Detroit: Become Human,1222140,143762,11.99,2020,Action
+Detroit: Become Human,1222140,143762,11.99,2020,Adventure
+Dead Cells,588650,143307,24.99,2018,Action
+Dead Cells,588650,143307,24.99,2018,Adventure
+Dead Cells,588650,143307,24.99,2018,Indie
+DOOM,379720,142324,19.99,2016,Action
+Stray,1332010,139235,17.99,2022,Adventure
+Stray,1332010,139235,17.99,2022,Indie
+Mount & Blade: Warband,48700,130809,19.99,2010,Action
+Mount & Blade: Warband,48700,130809,19.99,2010,RPG
+Plants vs. Zombies GOTY Edition,3590,128250,4.99,2009,Strategy
+Totally Accurate Battle Simulator,508440,127112,19.99,2021,Indie
+Totally Accurate Battle Simulator,508440,127112,19.99,2021,Simulation
+Totally Accurate Battle Simulator,508440,127112,19.99,2021,Strategy
+Ori and the Will of the Wisps,1057090,127065,29.99,2020,Action
+Counter-Strike: Source,240,126166,9.99,2004,Action
+Sid Meier's Civilization® V,8930,123870,29.99,2010,Strategy
+Slime Rancher,433340,122287,19.99,2017,Action
+Slime Rancher,433340,122287,19.99,2017,Adventure
+Slime Rancher,433340,122287,19.99,2017,Indie
+Slime Rancher,433340,122287,19.99,2017,Simulation
+Balatro,2379780,122218,14.99,2024,Casual
+Balatro,2379780,122218,14.99,2024,Indie
+Balatro,2379780,122218,14.99,2024,Strategy
+Oxygen Not Included,457140,120198,24.99,2019,Indie
+Oxygen Not Included,457140,120198,24.99,2019,Simulation
+Inscryption,1092790,120185,7.99,2021,Adventure
+Inscryption,1092790,120185,7.99,2021,Indie
+Inscryption,1092790,120185,7.99,2021,Strategy
+Life is Strange - Episode 1,319630,120101,0.0,2015,Action
+Life is Strange - Episode 1,319630,120101,0.0,2015,Adventure
+Black Mesa,362890,118304,19.99,2020,Action
+Black Mesa,362890,118304,19.99,2020,Adventure
+Black Mesa,362890,118304,19.99,2020,Indie
+Resident Evil 2,883710,117990,39.99,2019,Action
+Resident Evil 4,2050650,117322,39.99,2023,Action
+Resident Evil 4,2050650,117322,39.99,2023,Adventure
+DAVE THE DIVER,1868140,116459,19.99,2023,Adventure
+DAVE THE DIVER,1868140,116459,19.99,2023,Casual
+DAVE THE DIVER,1868140,116459,19.99,2023,RPG
+DAVE THE DIVER,1868140,116459,19.99,2023,Simulation
+God of War,1593500,110718,49.99,2022,Action
+God of War,1593500,110718,49.99,2022,Adventure
+God of War,1593500,110718,49.99,2022,RPG
+Celeste,504230,107789,19.99,2018,Action
+Celeste,504230,107789,19.99,2018,Adventure
+Celeste,504230,107789,19.99,2018,Indie
+Half-Life,70,104850,9.99,1998,Action
+Kerbal Space Program,220200,103281,39.99,2015,Indie
+Kerbal Space Program,220200,103281,39.99,2015,Simulation
+Teardown,1167630,102073,29.99,2022,Action
+Teardown,1167630,102073,29.99,2022,Indie
+Teardown,1167630,102073,29.99,2022,Simulation
+Teardown,1167630,102073,29.99,2022,Strategy
+Devil May Cry 5,601150,99217,29.99,2019,Action
+POSTAL 2,223470,98660,9.99,2012,Action
+POSTAL 2,223470,98660,9.99,2012,Adventure
+POSTAL 2,223470,98660,9.99,2012,Indie
+MiSide,2527500,96682,14.99,2024,Adventure
+MiSide,2527500,96682,14.99,2024,Indie
+MiSide,2527500,96682,14.99,2024,RPG
+MiSide,2527500,96682,14.99,2024,Simulation
+Castle Crashers®,204360,96422,14.99,2012,Action
+Castle Crashers®,204360,96422,14.99,2012,Adventure
+Castle Crashers®,204360,96422,14.99,2012,Casual
+Castle Crashers®,204360,96422,14.99,2012,Indie
+Castle Crashers®,204360,96422,14.99,2012,RPG
+Don't Starve,219740,93359,9.99,2013,Adventure
+Don't Starve,219740,93359,9.99,2013,Indie
+Don't Starve,219740,93359,9.99,2013,Simulation
+Outlast,238320,92631,19.99,2013,Action
+Outlast,238320,92631,19.99,2013,Adventure
+Outlast,238320,92631,19.99,2013,Indie
+Brotato,1942280,92191,2.99,2023,Action
+Brotato,1942280,92191,2.99,2023,Casual
+Brotato,1942280,92191,2.99,2023,Indie
+Brotato,1942280,92191,2.99,2023,RPG
+Hotline Miami,219150,90010,1.99,2012,Action
+Hotline Miami,219150,90010,1.99,2012,Indie
+Cult of the Lamb,1313140,89517,24.99,2022,Action
+Cult of the Lamb,1313140,89517,24.99,2022,Adventure
+Cult of the Lamb,1313140,89517,24.99,2022,Indie
+Cult of the Lamb,1313140,89517,24.99,2022,Strategy
+Half-Life: Alyx,546560,85259,59.99,2020,Action
+Half-Life: Alyx,546560,85259,59.99,2020,Adventure
+Buckshot Roulette,2835570,83563,2.99,2024,Action
+Buckshot Roulette,2835570,83563,2.99,2024,Indie
+Buckshot Roulette,2835570,83563,2.99,2024,Simulation
+Age of Empires II (Retired),221380,83417,19.99,2013,Strategy
+Kenshi,233860,82424,29.99,2018,Action
+Kenshi,233860,82424,29.99,2018,Indie
+Kenshi,233860,82424,29.99,2018,RPG
+Kenshi,233860,82424,29.99,2018,Simulation
+Kenshi,233860,82424,29.99,2018,Strategy
+Resident Evil Village,1196590,80741,39.99,2021,Action
+Marvel’s Spider-Man Remastered,1817070,79404,59.99,2022,Action
+Marvel’s Spider-Man Remastered,1817070,79404,59.99,2022,Adventure
+Marvel’s Spider-Man Remastered,1817070,79404,59.99,2022,Casual
+Dyson Sphere Program,1366540,77381,19.99,2021,Indie
+Dyson Sphere Program,1366540,77381,19.99,2021,Simulation
+Dyson Sphere Program,1366540,77381,19.99,2021,Strategy
+Dyson Sphere Program,1366540,77381,19.99,2021,Early Access
+CarX Drift Racing Online,635260,77192,14.99,2017,Massively Multiplayer
+CarX Drift Racing Online,635260,77192,14.99,2017,Racing
+CarX Drift Racing Online,635260,77192,14.99,2017,Simulation
+CarX Drift Racing Online,635260,77192,14.99,2017,Sports
+Enter the Gungeon,311690,75496,14.99,2016,Action
+Enter the Gungeon,311690,75496,14.99,2016,Adventure
+Enter the Gungeon,311690,75496,14.99,2016,Indie
+Cookie Clicker,1454400,75021,4.99,2021,Casual
+Cookie Clicker,1454400,75021,4.99,2021,Indie
+Cookie Clicker,1454400,75021,4.99,2021,Simulation
+Cookie Clicker,1454400,75021,4.99,2021,Strategy
+GRIS,683320,72231,14.99,2018,Adventure
+GRIS,683320,72231,14.99,2018,Indie
+OMORI,1150690,72101,19.99,2020,Adventure
+OMORI,1150690,72101,19.99,2020,Indie
+OMORI,1150690,72101,19.99,2020,RPG
+Noita,881100,71701,19.99,2020,Action
+Noita,881100,71701,19.99,2020,Adventure
+Noita,881100,71701,19.99,2020,Indie
+Noita,881100,71701,19.99,2020,RPG
+Noita,881100,71701,19.99,2020,Simulation
+Outer Wilds,753640,70623,16.49,2020,Action
+Outer Wilds,753640,70623,16.49,2020,Adventure
+Clair Obscur: Expedition 33,1903340,70463,49.99,2025,Action
+Clair Obscur: Expedition 33,1903340,70463,49.99,2025,RPG
+Ravenfield,636480,70185,17.99,2017,Action
+Ravenfield,636480,70185,17.99,2017,Indie
+Ravenfield,636480,70185,17.99,2017,Early Access
+Persona 5 Royal,1687950,68333,59.99,2022,RPG
+Beat Saber,620980,68171,29.99,2019,Indie
+"Papers, Please",239030,67364,9.99,2013,Adventure
+"Papers, Please",239030,67364,9.99,2013,Indie
+Resident Evil 7 Biohazard,418370,66057,19.99,2017,Action
+Resident Evil 7 Biohazard,418370,66057,19.99,2017,Adventure
+Persona 4 Golden,1113000,65281,19.99,2020,RPG
+METAL GEAR RISING: REVENGEANCE,235460,64782,29.99,2014,Action
+To the Moon,206440,63543,2.99,2012,Adventure
+To the Moon,206440,63543,2.99,2012,Indie
+To the Moon,206440,63543,2.99,2012,RPG
+Dishonored,205100,62357,9.99,2012,Action
+Dishonored,205100,62357,9.99,2012,Adventure
+Katana ZERO,460950,62165,14.99,2019,Action
+Katana ZERO,460950,62165,14.99,2019,Indie
