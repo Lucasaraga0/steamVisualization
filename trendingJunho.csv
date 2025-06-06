@@ -1,301 +1,601 @@
-,Unnamed: 0,rank,app_id,name,peak_24h,avg_2weeks,price_usd,genres,release_year,metacritic_score,scrape_date
-0,0.0,1,730,Counter-Strike 2,1470932,,0.0,"Action, Free To Play",2012.0,,2025-05-29
-1,1.0,2,578080,PUBG: BATTLEGROUNDS,633653,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-05-29
-2,2.0,3,570,Dota 2,523963,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-05-29
-3,3.0,4,1172470,Apex Legends,213082,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-05-29
-4,4.0,5,3419430,Bongo Cat,189752,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-05-29
-5,5.0,6,553850,HELLDIVERS™ 2,132434,,39.99,Action,2024.0,,2025-05-29
-6,6.0,7,2507950,Delta Force,130352,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-05-29
-7,7.0,8,431960,Wallpaper Engine,109312,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-05-29
-8,8.0,9,1203220,NARAKA: BLADEPOINT,107109,,0.0,"Action, Adventure, Massively Multiplayer",2021.0,,2025-05-29
-9,9.0,10,252490,Rust,101890,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-05-29
-10,10.0,11,2923300,Banana,94010,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-05-29
-11,11.0,12,271590,Grand Theft Auto V Legacy,80361,,0.0,"Action, Adventure",2015.0,96.0,2025-05-29
-12,12.0,13,3432970,REMATCH BETA TEST,78619,,0.0,,2025.0,,2025-05-29
-13,13.0,14,1973530,Limbus Company,77507,,0.0,"Action, RPG, Strategy",2023.0,,2025-05-29
-14,14.0,15,413150,Stardew Valley,76456,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-05-29
-15,15.0,16,236390,War Thunder,73761,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-05-29
-16,16.0,17,2252570,Football Manager 2024,65415,,14.99,"Simulation, Sports, Strategy",2023.0,,2025-05-29
-17,17.0,18,2767030,Marvel Rivals,65223,,0.0,"Action, Free To Play",2024.0,,2025-05-29
-18,18.0,19,2246340,Monster Hunter Wilds,62426,,69.99,"Action, Adventure, RPG",2025.0,,2025-05-29
-19,19.0,20,1086940,Baldur's Gate 3,62195,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-05-29
-20,20.0,21,3240220,Grand Theft Auto V Enhanced,57393,,29.99,"Action, Adventure, Racing",2025.0,,2025-05-29
-21,21.0,22,381210,Dead by Daylight,57311,,19.99,Action,2016.0,,2025-05-29
-22,22.0,23,480,Spacewar,56265,,,,,,2025-05-29
-23,23.0,24,2669320,EA SPORTS FC 25,55752,,69.99,"Simulation, Sports",2024.0,,2025-05-29
-24,24.0,25,2993780,FANTASY LIFE i: The Girl Who Steals Time,53234,,59.99,RPG,2025.0,,2025-05-29
-25,25.0,26,230410,Warframe,50984,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-05-29
-26,26.0,27,359550,Tom Clancy's Rainbow Six Siege,48891,,7.99,Action,2015.0,,2025-05-29
-27,27.0,28,1903340,Clair Obscur: Expedition 33,48216,,49.99,"Action, RPG",2025.0,91.0,2025-05-29
-28,28.0,29,1174180,Red Dead Redemption 2,48105,,14.99,"Action, Adventure",2019.0,93.0,2025-05-29
-29,29.0,30,1366800,Crosshair X,47239,,8.99,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-05-29
-30,30.0,31,394360,Hearts of Iron IV,46871,,49.99,"Simulation, Strategy",2016.0,83.0,2025-05-29
-31,31.0,32,1938090,Call of Duty®,45659,,0.0,Action,2022.0,,2025-05-29
-32,32.0,33,2139460,Once Human,45124,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-05-29
-33,33.0,34,1245620,ELDEN RING,44199,,59.99,"Action, RPG",2022.0,94.0,2025-05-29
-34,34.0,35,3241660,R.E.P.O.,43239,,9.99,"Action, Early Access",2025.0,,2025-05-29
-35,35.0,36,440,Team Fortress 2,42722,,0.0,"Action, Free To Play",2007.0,92.0,2025-05-29
-36,36.0,37,2878980,NBA 2K25,42117,,69.99,"Simulation, Sports",2024.0,,2025-05-29
-37,37.0,38,322330,Don't Starve Together,41904,,14.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2016.0,83.0,2025-05-29
-38,38.0,39,322170,Geometry Dash,39284,,4.99,"Action, Indie",2014.0,,2025-05-29
-39,39.0,40,1281930,tModLoader,38871,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-05-29
-40,40.0,41,1091500,Cyberpunk 2077,38474,,59.99,RPG,2020.0,86.0,2025-05-29
-41,41.0,42,438100,VRChat,37616,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-05-29
-42,42.0,43,221100,DayZ,35796,,24.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-05-29
-43,43.0,44,289070,Sid Meier's Civilization VI,35292,,59.99,Strategy,2016.0,88.0,2025-05-29
-44,44.0,45,105600,Terraria,34445,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-05-29
-45,45.0,46,227300,Euro Truck Simulator 2,32703,,19.99,"Indie, Simulation",2012.0,79.0,2025-05-29
-46,46.0,47,346110,ARK: Survival Evolved,31623,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-05-29
-47,47.0,48,550,Left 4 Dead 2,31498,,0.99,Action,2009.0,89.0,2025-05-29
-48,48.0,49,1623730,Palworld,29959,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-05-29
-49,49.0,50,1364780,Street Fighter™ 6,28594,,39.99,"Action, Adventure",2023.0,92.0,2025-05-29
-50,50.0,51,2357570,Overwatch® 2,28497,,0.0,"Action, Free To Play",2023.0,,2025-05-29
-51,51.0,52,251570,7 Days to Die,28120,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-05-29
-52,52.0,53,3188910,Waifu,27331,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-05-29
-53,53.0,54,292030,The Witcher 3: Wild Hunt,26657,,39.99,RPG,2015.0,93.0,2025-05-29
-54,54.0,55,1222670,The Sims™ 4,26638,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-05-29
-55,55.0,56,108600,Project Zomboid,26369,,13.39,"Indie, RPG, Simulation, Early Access",2013.0,,2025-05-29
-56,56.0,57,294100,RimWorld,26196,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-05-29
-57,57.0,58,1142710,Total War: WARHAMMER III,25845,,20.39,"Action, Strategy",2022.0,86.0,2025-05-29
-58,58.0,59,2694490,Path of Exile 2,25409,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-05-29
-59,59.0,60,2300320,Farming Simulator 25,25029,,49.99,Simulation,2024.0,,2025-05-29
-60,60.0,61,1449850,Yu-Gi-Oh!  Master Duel,24721,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-05-29
-61,61.0,62,489830,The Elder Scrolls V: Skyrim Special Edition,23661,,39.99,RPG,2016.0,74.0,2025-05-29
-62,62.0,63,766570,Russian Fishing 4,23074,,0.0,"Adventure, Casual, Massively Multiplayer, RPG, Simulation, Sports, Free To Play",2021.0,,2025-05-29
-63,63.0,64,2358720,Black Myth: Wukong,22824,,59.99,"Action, Adventure, RPG",2024.0,,2025-05-29
-64,64.0,65,250900,The Binding of Isaac: Rebirth,22642,,14.99,Action,2014.0,,2025-05-29
-65,65.0,66,281990,Stellaris,22142,,39.99,"Simulation, Strategy",2016.0,78.0,2025-05-29
-66,66.0,67,1049590,Eternal Return,21615,,0.0,"Indie, Strategy, Free To Play",2023.0,,2025-05-29
-67,67.0,68,4000,Garry's Mod,21482,,5.99,"Casual, Indie, Simulation",2006.0,,2025-05-29
-68,68.0,69,261550,Mount & Blade II: Bannerlord,20838,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-05-29
-69,69.0,70,3164500,Schedule I,20813,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-05-29
-70,70.0,71,1085660,Destiny 2,20519,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-05-29
-71,71.0,72,218620,PAYDAY 2,20517,,9.99,"Action, RPG",2013.0,79.0,2025-05-29
-72,72.0,73,1905180,OBS Studio,20514,,0.0,"Utilities, Video Production",2022.0,,2025-05-29
-73,73.0,74,813780,Age of Empires II: Definitive Edition,19993,,34.99,Strategy,2019.0,84.0,2025-05-29
-74,74.0,75,1158310,Crusader Kings III,19719,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-05-29
-75,75.0,76,629520,Soundpad,19711,,4.99,"Audio Production, Utilities",2017.0,,2025-05-29
-76,76.0,77,1604030,V Rising,19663,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-05-29
-77,77.0,78,1203620,Enshrouded,19534,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-05-29
-78,78.0,79,2763740,Revolution Idle,19435,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-05-29
-79,79.0,80,39210,FINAL FANTASY XIV Online,19109,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-05-29
-80,80.0,81,582010,Monster Hunter: World,19081,,29.99,Action,2018.0,88.0,2025-05-29
-81,81.0,82,2429640,THRONE AND LIBERTY,18905,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-05-29
-82,82.0,83,646570,Slay the Spire,18896,,8.49,"Indie, Strategy",2019.0,89.0,2025-05-29
-83,83.0,84,1665460,eFootball™,18577,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-05-29
-84,84.0,85,1599340,Lost Ark,18444,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-05-29
-85,85.0,86,284160,BeamNG.drive,17927,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-05-29
-86,86.0,87,427520,Factorio,17814,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-05-29
-87,87.0,88,236850,Europa Universalis IV,17787,,49.99,"Simulation, Strategy",2013.0,87.0,2025-05-29
-88,88.0,89,1325860,VTube Studio,17509,,0.0,"Indie, Animation & Modeling, Video Production",2021.0,,2025-05-29
-89,89.0,90,892970,Valheim,17328,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-05-29
-90,90.0,91,2399830,ARK: Survival Ascended,17113,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-05-29
-91,91.0,92,2104890,RoadCraft,16619,,39.99,"Adventure, Simulation",2025.0,,2025-05-29
-92,92.0,93,1551360,Forza Horizon 5,15677,,59.99,"Action, Adventure, Racing, Simulation, Sports",2021.0,,2025-05-29
-93,93.0,94,393380,Squad,15588,,49.99,"Action, Indie, Massively Multiplayer, Strategy",2020.0,,2025-05-29
-94,94.0,95,1466060,Tainted Grail: The Fall of Avalon,15461,,44.99,"Action, Adventure, Indie, RPG",2025.0,,2025-05-29
-95,95.0,96,526870,Satisfactory,15203,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-05-29
-96,96.0,97,1771300,Kingdom Come: Deliverance II,14966,,59.99,"Action, Adventure, RPG",2025.0,89.0,2025-05-29
-97,97.0,98,2379780,Balatro,14926,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-05-29
-98,98.0,99,1329410,雀魂麻将(MahjongSoul),14685,,,,,,2025-05-29
-99,99.0,100,2623190,The Elder Scrolls IV: Oblivion Remastered,14404,,49.99,RPG,2025.0,,2025-05-29
-100,100.0,1,730,Counter-Strike 2,991749,,0.0,"Action, Free To Play",2012.0,,2025-06-02
-101,101.0,2,570,Dota 2,444664,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-02
-102,102.0,3,578080,PUBG: BATTLEGROUNDS,159050,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-02
-103,103.0,4,3419430,Bongo Cat,122049,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-02
-104,104.0,5,2767030,Marvel Rivals,118323,,0.0,"Action, Free To Play",2024.0,,2025-06-02
-105,105.0,6,2923300,Banana,106530,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-02
-106,106.0,7,252490,Rust,102718,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-02
-107,107.0,8,1938090,Call of Duty®,75112,,0.0,Action,2022.0,,2025-06-02
-108,108.0,9,1086940,Baldur's Gate 3,72508,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-02
-109,109.0,10,271590,Grand Theft Auto V Legacy,69137,,0.0,"Action, Adventure",2015.0,96.0,2025-06-02
-110,110.0,11,2252570,Football Manager 2024,68801,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-02
-111,111.0,12,1172470,Apex Legends,67800,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-02
-112,112.0,13,553850,HELLDIVERS™ 2,61536,,39.99,Action,2024.0,,2025-06-02
-113,113.0,14,359550,Tom Clancy's Rainbow Six Siege,59486,,7.99,Action,2015.0,,2025-06-02
-114,114.0,15,2669320,EA SPORTS FC 25,58689,,69.99,"Simulation, Sports",2024.0,,2025-06-02
-115,115.0,16,236390,War Thunder,53016,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-02
-116,116.0,17,480,Spacewar,52037,,,,,,2025-06-02
-117,117.0,18,3241660,R.E.P.O.,51057,,9.99,"Action, Early Access",2025.0,,2025-06-02
-118,118.0,19,381210,Dead by Daylight,49663,,19.99,Action,2016.0,,2025-06-02
-119,119.0,20,440,Team Fortress 2,49185,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-02
-120,120.0,21,1366800,Crosshair X,48675,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-02
-121,121.0,22,431960,Wallpaper Engine,47587,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-02
-122,122.0,23,1903340,Clair Obscur: Expedition 33,46136,,49.99,"Action, RPG",2025.0,91.0,2025-06-02
-123,123.0,24,413150,Stardew Valley,44892,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-02
-124,124.0,25,230410,Warframe,42716,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-02
-125,125.0,26,221100,DayZ,42487,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-02
-126,126.0,27,1174180,Red Dead Redemption 2,37410,,59.99,"Action, Adventure",2019.0,93.0,2025-06-02
-127,127.0,28,2507950,Delta Force,36573,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-02
-128,128.0,29,394360,Hearts of Iron IV,35460,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-02
-129,129.0,30,438100,VRChat,34676,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-02
-130,130.0,31,1245620,ELDEN RING,33968,,59.99,"Action, RPG",2022.0,94.0,2025-06-02
-131,131.0,32,3240220,Grand Theft Auto V Enhanced,33235,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-02
-132,132.0,33,322170,Geometry Dash,32592,,4.99,"Action, Indie",2014.0,,2025-06-02
-133,133.0,34,1222670,The Sims™ 4,31120,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-02
-134,134.0,35,489830,The Elder Scrolls V: Skyrim Special Edition,30009,,9.99,RPG,2016.0,74.0,2025-06-02
-135,135.0,36,3164500,Schedule I,29848,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-02
-136,136.0,37,108600,Project Zomboid,29295,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-02
-137,137.0,38,3188910,Waifu,28452,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-02
-138,138.0,39,1091500,Cyberpunk 2077,28243,,59.99,RPG,2020.0,86.0,2025-06-02
-139,139.0,40,550,Left 4 Dead 2,28001,,9.99,Action,2009.0,89.0,2025-06-02
-140,140.0,41,252950,Rocket League,27823,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-02
-141,141.0,42,2139460,Once Human,25248,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-02
-142,142.0,43,227300,Euro Truck Simulator 2,25144,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-02
-143,143.0,44,1085660,Destiny 2,25014,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-02
-144,144.0,45,289070,Sid Meier's Civilization VI,24961,,59.99,Strategy,2016.0,88.0,2025-06-02
-145,145.0,46,306130,The Elder Scrolls Online,23875,,4.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-02
-146,146.0,47,2357570,Overwatch® 2,23856,,0.0,"Action, Free To Play",2023.0,,2025-06-02
-147,147.0,48,1281930,tModLoader,23620,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-02
-148,148.0,49,1142710,Total War: WARHAMMER III,23034,,59.99,"Action, Strategy",2022.0,86.0,2025-06-02
-149,149.0,50,39210,FINAL FANTASY XIV Online,22945,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-02
-150,150.0,51,105600,Terraria,22857,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-02
-151,151.0,52,4000,Garry's Mod,22740,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-02
-152,152.0,53,346110,ARK: Survival Evolved,22672,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-02
-153,153.0,54,294100,RimWorld,22117,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-02
-154,154.0,55,2694490,Path of Exile 2,21862,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-02
-155,155.0,56,251570,7 Days to Die,21008,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-02
-156,156.0,57,892970,Valheim,20952,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-02
-157,157.0,58,2300320,Farming Simulator 25,20902,,49.99,Simulation,2024.0,,2025-06-02
-158,158.0,59,218620,PAYDAY 2,20554,,9.99,"Action, RPG",2013.0,79.0,2025-06-02
-159,159.0,60,427520,Factorio,20479,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-02
-160,160.0,61,629520,Soundpad,20179,,4.99,"Audio Production, Utilities",2017.0,,2025-06-02
-161,161.0,62,2993780,FANTASY LIFE i: The Girl Who Steals Time,20021,,59.99,RPG,2025.0,,2025-06-02
-162,162.0,63,2379780,Balatro,19711,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-02
-163,163.0,64,250900,The Binding of Isaac: Rebirth,19412,,14.99,Action,2014.0,,2025-06-02
-164,164.0,65,2623190,The Elder Scrolls IV: Oblivion Remastered,18924,,39.99,RPG,2025.0,,2025-06-02
-165,165.0,66,1158310,Crusader Kings III,18742,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-02
-166,166.0,67,281990,Stellaris,18246,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-02
-167,167.0,68,284160,BeamNG.drive,18224,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-02
-168,168.0,69,813780,Age of Empires II: Definitive Edition,17999,,34.99,Strategy,2019.0,84.0,2025-06-02
-169,169.0,70,1599340,Lost Ark,17448,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-02
-170,170.0,71,2429640,THRONE AND LIBERTY,17403,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-02
-171,171.0,72,236850,Europa Universalis IV,17204,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-02
-172,172.0,73,1604030,V Rising,16840,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-02
-173,173.0,74,1623730,Palworld,16595,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-02
-174,174.0,75,292030,The Witcher 3: Wild Hunt,16536,,39.99,RPG,2015.0,93.0,2025-06-02
-175,175.0,76,1203620,Enshrouded,16322,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-02
-176,176.0,77,582660,Black Desert,16299,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-02
-177,177.0,78,2399830,ARK: Survival Ascended,16143,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-06-02
-178,178.0,79,2878980,NBA 2K25,16086,,69.99,"Simulation, Sports",2024.0,,2025-06-02
-179,179.0,80,526870,Satisfactory,15977,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-02
-180,180.0,81,291550,Brawlhalla,15467,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-02
-181,181.0,82,8930,Sid Meier's Civilization V,14902,,29.99,Strategy,2010.0,90.0,2025-06-02
-182,182.0,83,2104890,RoadCraft,14685,,39.99,"Adventure, Simulation",2025.0,,2025-06-02
-183,183.0,84,2763740,Revolution Idle,14663,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-02
-184,184.0,85,2073850,THE FINALS,14369,,0.0,"Action, Free To Play",2023.0,,2025-06-02
-185,185.0,86,1466060,Tainted Grail: The Fall of Avalon,14072,,44.99,"Action, Adventure, Indie, RPG",2025.0,,2025-06-02
-186,186.0,87,1905180,OBS Studio,13991,,0.0,"Utilities, Video Production",2022.0,,2025-06-02
-187,187.0,88,261550,Mount & Blade II: Bannerlord,13949,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-02
-188,188.0,89,1665460,eFootball™,13878,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-02
-189,189.0,90,1973530,Limbus Company,13699,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-02
-190,190.0,91,739630,Phasmophobia,13485,,19.99,"Action, Indie, Early Access",2020.0,,2025-06-02
-191,191.0,92,1623660,MIR4,13271,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2021.0,,2025-06-02
-192,192.0,93,1874880,Arma Reforger,13098,,39.99,"Action, Simulation, Strategy",2023.0,,2025-06-02
-193,193.0,94,377160,Fallout 4,13094,,19.99,RPG,2015.0,84.0,2025-06-02
-194,194.0,95,1476970,Legends of Idleon MMO,12489,,0.0,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access",2021.0,,2025-06-02
-195,195.0,96,1771300,Kingdom Come: Deliverance II,12463,,59.99,"Action, Adventure, RPG",2025.0,89.0,2025-06-02
-196,196.0,97,1237950,STAR WARS™ Battlefront™ II,12045,,39.99,"Action, Adventure",2020.0,,2025-06-02
-197,197.0,98,393380,Squad,12011,,49.99,"Action, Indie, Massively Multiplayer, Strategy",2020.0,,2025-06-02
-198,198.0,99,1449850,Yu-Gi-Oh!  Master Duel,11957,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-02
-199,199.0,100,244210,Assetto Corsa,11908,,19.99,"Indie, Racing, Simulation, Sports",2014.0,85.0,2025-06-02
-200,,1,730,Counter-Strike 2,789444,,0.0,"Action, Free To Play",2012.0,,2025-06-03
-201,,2,570,Dota 2,362254,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-03
-202,,3,3419430,Bongo Cat,127308,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-03
-203,,4,2767030,Marvel Rivals,115437,,0.0,"Action, Free To Play",2024.0,,2025-06-03
-204,,5,578080,PUBG: BATTLEGROUNDS,114145,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-03
-205,,6,2923300,Banana,95290,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-03
-206,,7,252490,Rust,81344,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-03
-207,,8,1172470,Apex Legends,77904,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-03
-208,,9,1938090,Call of Duty®,66861,,0.0,Action,2022.0,,2025-06-03
-209,,10,1086940,Baldur's Gate 3,61434,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-03
-210,,11,271590,Grand Theft Auto V Legacy,61232,,0.0,"Action, Adventure",2015.0,96.0,2025-06-03
-211,,12,553850,HELLDIVERS™ 2,56096,,39.99,Action,2024.0,,2025-06-03
-212,,13,2252570,Football Manager 2024,54455,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-03
-213,,14,381210,Dead by Daylight,54136,,19.99,Action,2016.0,,2025-06-03
-214,,15,359550,Tom Clancy's Rainbow Six Siege,54095,,19.99,Action,2015.0,,2025-06-03
-215,,16,2669320,EA SPORTS FC 25,47940,,69.99,"Simulation, Sports",2024.0,,2025-06-03
-216,,17,1366800,Crosshair X,47900,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-03
-217,,18,431960,Wallpaper Engine,44524,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-03
-218,,19,480,Spacewar,43992,,,,,,2025-06-03
-219,,20,236390,War Thunder,43094,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-03
-220,,21,413150,Stardew Valley,40008,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-03
-221,,22,440,Team Fortress 2,39746,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-03
-222,,23,3241660,R.E.P.O.,39075,,9.99,"Action, Early Access",2025.0,,2025-06-03
-223,,24,230410,Warframe,38088,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-03
-224,,25,221100,DayZ,38037,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-03
-225,,26,1903340,Clair Obscur: Expedition 33,35356,,49.99,"Action, RPG",2025.0,91.0,2025-06-03
-226,,27,1085660,Destiny 2,32592,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-03
-227,,28,1174180,Red Dead Redemption 2,32063,,59.99,"Action, Adventure",2019.0,93.0,2025-06-03
-228,,29,2507950,Delta Force,31468,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-03
-229,,30,1245620,ELDEN RING,31097,,59.99,"Action, RPG",2022.0,94.0,2025-06-03
-230,,31,394360,Hearts of Iron IV,29623,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-03
-231,,32,3240220,Grand Theft Auto V Enhanced,28553,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-03
-232,,33,1222670,The Sims™ 4,28446,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-03
-233,,34,322170,Geometry Dash,28039,,4.99,"Action, Indie",2014.0,,2025-06-03
-234,,35,3188910,Waifu,27376,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-03
-235,,36,489830,The Elder Scrolls V: Skyrim Special Edition,27162,,9.99,RPG,2016.0,74.0,2025-06-03
-236,,37,438100,VRChat,26713,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-03
-237,,38,105600,Terraria,26384,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-03
-238,,39,550,Left 4 Dead 2,25769,,9.99,Action,2009.0,89.0,2025-06-03
-239,,40,3164500,Schedule I,25589,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-03
-240,,41,108600,Project Zomboid,25080,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-03
-241,,42,1091500,Cyberpunk 2077,24096,,59.99,RPG,2020.0,86.0,2025-06-03
-242,,43,252950,Rocket League,23306,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-03
-243,,44,2357570,Overwatch® 2,22543,,0.0,"Action, Free To Play",2023.0,,2025-06-03
-244,,45,39210,FINAL FANTASY XIV Online,22005,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-03
-245,,46,2139460,Once Human,21583,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-03
-246,,47,289070,Sid Meier's Civilization VI,21304,,59.99,Strategy,2016.0,88.0,2025-06-03
-247,,48,4000,Garry's Mod,19917,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-03
-248,,49,294100,RimWorld,19840,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-03
-249,,50,346110,ARK: Survival Evolved,19757,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-03
-250,,51,227300,Euro Truck Simulator 2,18911,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-03
-251,,52,306130,The Elder Scrolls Online,18834,,4.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-03
-252,,53,2379780,Balatro,18655,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-03
-253,,54,1142710,Total War: WARHAMMER III,18620,,59.99,"Action, Strategy",2022.0,86.0,2025-06-03
-254,,55,2694490,Path of Exile 2,18272,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-03
-255,,56,251570,7 Days to Die,18260,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-03
-256,,57,427520,Factorio,17842,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-03
-257,,58,629520,Soundpad,17840,,4.99,"Audio Production, Utilities",2017.0,,2025-06-03
-258,,59,250900,The Binding of Isaac: Rebirth,16985,,14.99,Action,2014.0,,2025-06-03
-259,,60,2993780,FANTASY LIFE i: The Girl Who Steals Time,16931,,59.99,RPG,2025.0,,2025-06-03
-260,,61,892970,Valheim,16879,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-03
-261,,62,284160,BeamNG.drive,16374,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-03
-262,,63,2623190,The Elder Scrolls IV: Oblivion Remastered,16273,,39.99,RPG,2025.0,,2025-06-03
-263,,64,2300320,Farming Simulator 25,16061,,49.99,Simulation,2024.0,,2025-06-03
-264,,65,1158310,Crusader Kings III,15633,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-03
-265,,66,582660,Black Desert,15581,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-03
-266,,67,281990,Stellaris,15241,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-03
-267,,68,2399830,ARK: Survival Ascended,15060,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-06-03
-268,,69,1281930,tModLoader,14960,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-03
-269,,70,291550,Brawlhalla,14942,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-03
-270,,71,813780,Age of Empires II: Definitive Edition,14902,,34.99,Strategy,2019.0,84.0,2025-06-03
-271,,72,2878980,NBA 2K25,14745,,69.99,"Simulation, Sports",2024.0,,2025-06-03
-272,,73,1623730,Palworld,14486,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-03
-273,,74,236850,Europa Universalis IV,14336,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-03
-274,,75,2763740,Revolution Idle,14300,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-03
-275,,76,1599340,Lost Ark,14082,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-03
-276,,77,292030,The Witcher 3: Wild Hunt,13998,,39.99,RPG,2015.0,93.0,2025-06-03
-277,,78,2429640,THRONE AND LIBERTY,13500,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-03
-278,,79,1604030,V Rising,13459,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-03
-279,,80,526870,Satisfactory,13272,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-03
-280,,81,1623660,MIR4,13180,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2021.0,,2025-06-03
-281,,82,8930,Sid Meier's Civilization V,12877,,29.99,Strategy,2010.0,90.0,2025-06-03
-282,,83,1973530,Limbus Company,12757,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-03
-283,,84,2073850,THE FINALS,12493,,0.0,"Action, Free To Play",2023.0,,2025-06-03
-284,,85,1690940,DELTARUNE (Chapter 1 & 2 DEMO),12481,,0.0,,2021.0,,2025-06-03
-285,,86,218620,PAYDAY 2,12415,,9.99,"Action, RPG",2013.0,79.0,2025-06-03
-286,,87,1665460,eFootball™,12355,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-03
-287,,88,1203620,Enshrouded,12301,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-03
-288,,89,1905180,OBS Studio,12266,,0.0,"Utilities, Video Production",2022.0,,2025-06-03
-289,,90,1476970,Legends of Idleon MMO,11975,,0.0,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access",2021.0,,2025-06-03
-290,,91,261550,Mount & Blade II: Bannerlord,11937,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-03
-291,,92,1874880,Arma Reforger,11880,,39.99,"Action, Simulation, Strategy",2023.0,,2025-06-03
-292,,93,377160,Fallout 4,11829,,19.99,RPG,2015.0,84.0,2025-06-03
-293,,94,1151340,Fallout 76,11426,,39.99,RPG,2020.0,,2025-06-03
-294,,95,1449850,Yu-Gi-Oh!  Master Duel,11265,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-03
-295,,96,739630,Phasmophobia,11042,,19.99,"Action, Indie, Early Access",2020.0,,2025-06-03
-296,,97,2221490,Tom Clancy's The Division 2,10974,,2.99,"Action, Adventure, RPG",2023.0,84.0,2025-06-03
-297,,98,1466060,Tainted Grail: The Fall of Avalon,10950,,44.99,"Action, Adventure, Indie, RPG",2025.0,,2025-06-03
-298,,99,2104890,RoadCraft,10727,,39.99,"Adventure, Simulation",2025.0,,2025-06-03
-299,,100,1237950,STAR WARS™ Battlefront™ II,10678,,39.99,"Action, Adventure",2020.0,,2025-06-03
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,rank,app_id,name,peak_24h,avg_2weeks,price_usd,genres,release_year,metacritic_score,scrape_date
+0,0.0,0.0,0.0,0.0,1,730,Counter-Strike 2,1470932,,0.0,"Action, Free To Play",2012.0,,2025-05-29
+1,1.0,1.0,1.0,1.0,2,578080,PUBG: BATTLEGROUNDS,633653,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-05-29
+2,2.0,2.0,2.0,2.0,3,570,Dota 2,523963,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-05-29
+3,3.0,3.0,3.0,3.0,4,1172470,Apex Legends,213082,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-05-29
+4,4.0,4.0,4.0,4.0,5,3419430,Bongo Cat,189752,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-05-29
+5,5.0,5.0,5.0,5.0,6,553850,HELLDIVERS™ 2,132434,,39.99,Action,2024.0,,2025-05-29
+6,6.0,6.0,6.0,6.0,7,2507950,Delta Force,130352,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-05-29
+7,7.0,7.0,7.0,7.0,8,431960,Wallpaper Engine,109312,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-05-29
+8,8.0,8.0,8.0,8.0,9,1203220,NARAKA: BLADEPOINT,107109,,0.0,"Action, Adventure, Massively Multiplayer",2021.0,,2025-05-29
+9,9.0,9.0,9.0,9.0,10,252490,Rust,101890,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-05-29
+10,10.0,10.0,10.0,10.0,11,2923300,Banana,94010,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-05-29
+11,11.0,11.0,11.0,11.0,12,271590,Grand Theft Auto V Legacy,80361,,0.0,"Action, Adventure",2015.0,96.0,2025-05-29
+12,12.0,12.0,12.0,12.0,13,3432970,REMATCH BETA TEST,78619,,0.0,,2025.0,,2025-05-29
+13,13.0,13.0,13.0,13.0,14,1973530,Limbus Company,77507,,0.0,"Action, RPG, Strategy",2023.0,,2025-05-29
+14,14.0,14.0,14.0,14.0,15,413150,Stardew Valley,76456,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-05-29
+15,15.0,15.0,15.0,15.0,16,236390,War Thunder,73761,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-05-29
+16,16.0,16.0,16.0,16.0,17,2252570,Football Manager 2024,65415,,14.99,"Simulation, Sports, Strategy",2023.0,,2025-05-29
+17,17.0,17.0,17.0,17.0,18,2767030,Marvel Rivals,65223,,0.0,"Action, Free To Play",2024.0,,2025-05-29
+18,18.0,18.0,18.0,18.0,19,2246340,Monster Hunter Wilds,62426,,69.99,"Action, Adventure, RPG",2025.0,,2025-05-29
+19,19.0,19.0,19.0,19.0,20,1086940,Baldur's Gate 3,62195,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-05-29
+20,20.0,20.0,20.0,20.0,21,3240220,Grand Theft Auto V Enhanced,57393,,29.99,"Action, Adventure, Racing",2025.0,,2025-05-29
+21,21.0,21.0,21.0,21.0,22,381210,Dead by Daylight,57311,,19.99,Action,2016.0,,2025-05-29
+22,22.0,22.0,22.0,22.0,23,480,Spacewar,56265,,,,,,2025-05-29
+23,23.0,23.0,23.0,23.0,24,2669320,EA SPORTS FC 25,55752,,69.99,"Simulation, Sports",2024.0,,2025-05-29
+24,24.0,24.0,24.0,24.0,25,2993780,FANTASY LIFE i: The Girl Who Steals Time,53234,,59.99,RPG,2025.0,,2025-05-29
+25,25.0,25.0,25.0,25.0,26,230410,Warframe,50984,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-05-29
+26,26.0,26.0,26.0,26.0,27,359550,Tom Clancy's Rainbow Six Siege,48891,,7.99,Action,2015.0,,2025-05-29
+27,27.0,27.0,27.0,27.0,28,1903340,Clair Obscur: Expedition 33,48216,,49.99,"Action, RPG",2025.0,91.0,2025-05-29
+28,28.0,28.0,28.0,28.0,29,1174180,Red Dead Redemption 2,48105,,14.99,"Action, Adventure",2019.0,93.0,2025-05-29
+29,29.0,29.0,29.0,29.0,30,1366800,Crosshair X,47239,,8.99,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-05-29
+30,30.0,30.0,30.0,30.0,31,394360,Hearts of Iron IV,46871,,49.99,"Simulation, Strategy",2016.0,83.0,2025-05-29
+31,31.0,31.0,31.0,31.0,32,1938090,Call of Duty®,45659,,0.0,Action,2022.0,,2025-05-29
+32,32.0,32.0,32.0,32.0,33,2139460,Once Human,45124,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-05-29
+33,33.0,33.0,33.0,33.0,34,1245620,ELDEN RING,44199,,59.99,"Action, RPG",2022.0,94.0,2025-05-29
+34,34.0,34.0,34.0,34.0,35,3241660,R.E.P.O.,43239,,9.99,"Action, Early Access",2025.0,,2025-05-29
+35,35.0,35.0,35.0,35.0,36,440,Team Fortress 2,42722,,0.0,"Action, Free To Play",2007.0,92.0,2025-05-29
+36,36.0,36.0,36.0,36.0,37,2878980,NBA 2K25,42117,,69.99,"Simulation, Sports",2024.0,,2025-05-29
+37,37.0,37.0,37.0,37.0,38,322330,Don't Starve Together,41904,,14.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2016.0,83.0,2025-05-29
+38,38.0,38.0,38.0,38.0,39,322170,Geometry Dash,39284,,4.99,"Action, Indie",2014.0,,2025-05-29
+39,39.0,39.0,39.0,39.0,40,1281930,tModLoader,38871,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-05-29
+40,40.0,40.0,40.0,40.0,41,1091500,Cyberpunk 2077,38474,,59.99,RPG,2020.0,86.0,2025-05-29
+41,41.0,41.0,41.0,41.0,42,438100,VRChat,37616,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-05-29
+42,42.0,42.0,42.0,42.0,43,221100,DayZ,35796,,24.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-05-29
+43,43.0,43.0,43.0,43.0,44,289070,Sid Meier's Civilization VI,35292,,59.99,Strategy,2016.0,88.0,2025-05-29
+44,44.0,44.0,44.0,44.0,45,105600,Terraria,34445,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-05-29
+45,45.0,45.0,45.0,45.0,46,227300,Euro Truck Simulator 2,32703,,19.99,"Indie, Simulation",2012.0,79.0,2025-05-29
+46,46.0,46.0,46.0,46.0,47,346110,ARK: Survival Evolved,31623,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-05-29
+47,47.0,47.0,47.0,47.0,48,550,Left 4 Dead 2,31498,,0.99,Action,2009.0,89.0,2025-05-29
+48,48.0,48.0,48.0,48.0,49,1623730,Palworld,29959,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-05-29
+49,49.0,49.0,49.0,49.0,50,1364780,Street Fighter™ 6,28594,,39.99,"Action, Adventure",2023.0,92.0,2025-05-29
+50,50.0,50.0,50.0,50.0,51,2357570,Overwatch® 2,28497,,0.0,"Action, Free To Play",2023.0,,2025-05-29
+51,51.0,51.0,51.0,51.0,52,251570,7 Days to Die,28120,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-05-29
+52,52.0,52.0,52.0,52.0,53,3188910,Waifu,27331,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-05-29
+53,53.0,53.0,53.0,53.0,54,292030,The Witcher 3: Wild Hunt,26657,,39.99,RPG,2015.0,93.0,2025-05-29
+54,54.0,54.0,54.0,54.0,55,1222670,The Sims™ 4,26638,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-05-29
+55,55.0,55.0,55.0,55.0,56,108600,Project Zomboid,26369,,13.39,"Indie, RPG, Simulation, Early Access",2013.0,,2025-05-29
+56,56.0,56.0,56.0,56.0,57,294100,RimWorld,26196,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-05-29
+57,57.0,57.0,57.0,57.0,58,1142710,Total War: WARHAMMER III,25845,,20.39,"Action, Strategy",2022.0,86.0,2025-05-29
+58,58.0,58.0,58.0,58.0,59,2694490,Path of Exile 2,25409,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-05-29
+59,59.0,59.0,59.0,59.0,60,2300320,Farming Simulator 25,25029,,49.99,Simulation,2024.0,,2025-05-29
+60,60.0,60.0,60.0,60.0,61,1449850,Yu-Gi-Oh!  Master Duel,24721,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-05-29
+61,61.0,61.0,61.0,61.0,62,489830,The Elder Scrolls V: Skyrim Special Edition,23661,,39.99,RPG,2016.0,74.0,2025-05-29
+62,62.0,62.0,62.0,62.0,63,766570,Russian Fishing 4,23074,,0.0,"Adventure, Casual, Massively Multiplayer, RPG, Simulation, Sports, Free To Play",2021.0,,2025-05-29
+63,63.0,63.0,63.0,63.0,64,2358720,Black Myth: Wukong,22824,,59.99,"Action, Adventure, RPG",2024.0,,2025-05-29
+64,64.0,64.0,64.0,64.0,65,250900,The Binding of Isaac: Rebirth,22642,,14.99,Action,2014.0,,2025-05-29
+65,65.0,65.0,65.0,65.0,66,281990,Stellaris,22142,,39.99,"Simulation, Strategy",2016.0,78.0,2025-05-29
+66,66.0,66.0,66.0,66.0,67,1049590,Eternal Return,21615,,0.0,"Indie, Strategy, Free To Play",2023.0,,2025-05-29
+67,67.0,67.0,67.0,67.0,68,4000,Garry's Mod,21482,,5.99,"Casual, Indie, Simulation",2006.0,,2025-05-29
+68,68.0,68.0,68.0,68.0,69,261550,Mount & Blade II: Bannerlord,20838,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-05-29
+69,69.0,69.0,69.0,69.0,70,3164500,Schedule I,20813,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-05-29
+70,70.0,70.0,70.0,70.0,71,1085660,Destiny 2,20519,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-05-29
+71,71.0,71.0,71.0,71.0,72,218620,PAYDAY 2,20517,,9.99,"Action, RPG",2013.0,79.0,2025-05-29
+72,72.0,72.0,72.0,72.0,73,1905180,OBS Studio,20514,,0.0,"Utilities, Video Production",2022.0,,2025-05-29
+73,73.0,73.0,73.0,73.0,74,813780,Age of Empires II: Definitive Edition,19993,,34.99,Strategy,2019.0,84.0,2025-05-29
+74,74.0,74.0,74.0,74.0,75,1158310,Crusader Kings III,19719,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-05-29
+75,75.0,75.0,75.0,75.0,76,629520,Soundpad,19711,,4.99,"Audio Production, Utilities",2017.0,,2025-05-29
+76,76.0,76.0,76.0,76.0,77,1604030,V Rising,19663,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-05-29
+77,77.0,77.0,77.0,77.0,78,1203620,Enshrouded,19534,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-05-29
+78,78.0,78.0,78.0,78.0,79,2763740,Revolution Idle,19435,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-05-29
+79,79.0,79.0,79.0,79.0,80,39210,FINAL FANTASY XIV Online,19109,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-05-29
+80,80.0,80.0,80.0,80.0,81,582010,Monster Hunter: World,19081,,29.99,Action,2018.0,88.0,2025-05-29
+81,81.0,81.0,81.0,81.0,82,2429640,THRONE AND LIBERTY,18905,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-05-29
+82,82.0,82.0,82.0,82.0,83,646570,Slay the Spire,18896,,8.49,"Indie, Strategy",2019.0,89.0,2025-05-29
+83,83.0,83.0,83.0,83.0,84,1665460,eFootball™,18577,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-05-29
+84,84.0,84.0,84.0,84.0,85,1599340,Lost Ark,18444,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-05-29
+85,85.0,85.0,85.0,85.0,86,284160,BeamNG.drive,17927,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-05-29
+86,86.0,86.0,86.0,86.0,87,427520,Factorio,17814,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-05-29
+87,87.0,87.0,87.0,87.0,88,236850,Europa Universalis IV,17787,,49.99,"Simulation, Strategy",2013.0,87.0,2025-05-29
+88,88.0,88.0,88.0,88.0,89,1325860,VTube Studio,17509,,0.0,"Indie, Animation & Modeling, Video Production",2021.0,,2025-05-29
+89,89.0,89.0,89.0,89.0,90,892970,Valheim,17328,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-05-29
+90,90.0,90.0,90.0,90.0,91,2399830,ARK: Survival Ascended,17113,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-05-29
+91,91.0,91.0,91.0,91.0,92,2104890,RoadCraft,16619,,39.99,"Adventure, Simulation",2025.0,,2025-05-29
+92,92.0,92.0,92.0,92.0,93,1551360,Forza Horizon 5,15677,,59.99,"Action, Adventure, Racing, Simulation, Sports",2021.0,,2025-05-29
+93,93.0,93.0,93.0,93.0,94,393380,Squad,15588,,49.99,"Action, Indie, Massively Multiplayer, Strategy",2020.0,,2025-05-29
+94,94.0,94.0,94.0,94.0,95,1466060,Tainted Grail: The Fall of Avalon,15461,,44.99,"Action, Adventure, Indie, RPG",2025.0,,2025-05-29
+95,95.0,95.0,95.0,95.0,96,526870,Satisfactory,15203,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-05-29
+96,96.0,96.0,96.0,96.0,97,1771300,Kingdom Come: Deliverance II,14966,,59.99,"Action, Adventure, RPG",2025.0,89.0,2025-05-29
+97,97.0,97.0,97.0,97.0,98,2379780,Balatro,14926,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-05-29
+98,98.0,98.0,98.0,98.0,99,1329410,雀魂麻将(MahjongSoul),14685,,,,,,2025-05-29
+99,99.0,99.0,99.0,99.0,100,2623190,The Elder Scrolls IV: Oblivion Remastered,14404,,49.99,RPG,2025.0,,2025-05-29
+100,100.0,100.0,100.0,100.0,1,730,Counter-Strike 2,991749,,0.0,"Action, Free To Play",2012.0,,2025-06-02
+101,101.0,101.0,101.0,101.0,2,570,Dota 2,444664,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-02
+102,102.0,102.0,102.0,102.0,3,578080,PUBG: BATTLEGROUNDS,159050,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-02
+103,103.0,103.0,103.0,103.0,4,3419430,Bongo Cat,122049,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-02
+104,104.0,104.0,104.0,104.0,5,2767030,Marvel Rivals,118323,,0.0,"Action, Free To Play",2024.0,,2025-06-02
+105,105.0,105.0,105.0,105.0,6,2923300,Banana,106530,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-02
+106,106.0,106.0,106.0,106.0,7,252490,Rust,102718,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-02
+107,107.0,107.0,107.0,107.0,8,1938090,Call of Duty®,75112,,0.0,Action,2022.0,,2025-06-02
+108,108.0,108.0,108.0,108.0,9,1086940,Baldur's Gate 3,72508,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-02
+109,109.0,109.0,109.0,109.0,10,271590,Grand Theft Auto V Legacy,69137,,0.0,"Action, Adventure",2015.0,96.0,2025-06-02
+110,110.0,110.0,110.0,110.0,11,2252570,Football Manager 2024,68801,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-02
+111,111.0,111.0,111.0,111.0,12,1172470,Apex Legends,67800,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-02
+112,112.0,112.0,112.0,112.0,13,553850,HELLDIVERS™ 2,61536,,39.99,Action,2024.0,,2025-06-02
+113,113.0,113.0,113.0,113.0,14,359550,Tom Clancy's Rainbow Six Siege,59486,,7.99,Action,2015.0,,2025-06-02
+114,114.0,114.0,114.0,114.0,15,2669320,EA SPORTS FC 25,58689,,69.99,"Simulation, Sports",2024.0,,2025-06-02
+115,115.0,115.0,115.0,115.0,16,236390,War Thunder,53016,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-02
+116,116.0,116.0,116.0,116.0,17,480,Spacewar,52037,,,,,,2025-06-02
+117,117.0,117.0,117.0,117.0,18,3241660,R.E.P.O.,51057,,9.99,"Action, Early Access",2025.0,,2025-06-02
+118,118.0,118.0,118.0,118.0,19,381210,Dead by Daylight,49663,,19.99,Action,2016.0,,2025-06-02
+119,119.0,119.0,119.0,119.0,20,440,Team Fortress 2,49185,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-02
+120,120.0,120.0,120.0,120.0,21,1366800,Crosshair X,48675,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-02
+121,121.0,121.0,121.0,121.0,22,431960,Wallpaper Engine,47587,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-02
+122,122.0,122.0,122.0,122.0,23,1903340,Clair Obscur: Expedition 33,46136,,49.99,"Action, RPG",2025.0,91.0,2025-06-02
+123,123.0,123.0,123.0,123.0,24,413150,Stardew Valley,44892,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-02
+124,124.0,124.0,124.0,124.0,25,230410,Warframe,42716,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-02
+125,125.0,125.0,125.0,125.0,26,221100,DayZ,42487,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-02
+126,126.0,126.0,126.0,126.0,27,1174180,Red Dead Redemption 2,37410,,59.99,"Action, Adventure",2019.0,93.0,2025-06-02
+127,127.0,127.0,127.0,127.0,28,2507950,Delta Force,36573,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-02
+128,128.0,128.0,128.0,128.0,29,394360,Hearts of Iron IV,35460,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-02
+129,129.0,129.0,129.0,129.0,30,438100,VRChat,34676,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-02
+130,130.0,130.0,130.0,130.0,31,1245620,ELDEN RING,33968,,59.99,"Action, RPG",2022.0,94.0,2025-06-02
+131,131.0,131.0,131.0,131.0,32,3240220,Grand Theft Auto V Enhanced,33235,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-02
+132,132.0,132.0,132.0,132.0,33,322170,Geometry Dash,32592,,4.99,"Action, Indie",2014.0,,2025-06-02
+133,133.0,133.0,133.0,133.0,34,1222670,The Sims™ 4,31120,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-02
+134,134.0,134.0,134.0,134.0,35,489830,The Elder Scrolls V: Skyrim Special Edition,30009,,9.99,RPG,2016.0,74.0,2025-06-02
+135,135.0,135.0,135.0,135.0,36,3164500,Schedule I,29848,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-02
+136,136.0,136.0,136.0,136.0,37,108600,Project Zomboid,29295,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-02
+137,137.0,137.0,137.0,137.0,38,3188910,Waifu,28452,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-02
+138,138.0,138.0,138.0,138.0,39,1091500,Cyberpunk 2077,28243,,59.99,RPG,2020.0,86.0,2025-06-02
+139,139.0,139.0,139.0,139.0,40,550,Left 4 Dead 2,28001,,9.99,Action,2009.0,89.0,2025-06-02
+140,140.0,140.0,140.0,140.0,41,252950,Rocket League,27823,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-02
+141,141.0,141.0,141.0,141.0,42,2139460,Once Human,25248,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-02
+142,142.0,142.0,142.0,142.0,43,227300,Euro Truck Simulator 2,25144,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-02
+143,143.0,143.0,143.0,143.0,44,1085660,Destiny 2,25014,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-02
+144,144.0,144.0,144.0,144.0,45,289070,Sid Meier's Civilization VI,24961,,59.99,Strategy,2016.0,88.0,2025-06-02
+145,145.0,145.0,145.0,145.0,46,306130,The Elder Scrolls Online,23875,,4.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-02
+146,146.0,146.0,146.0,146.0,47,2357570,Overwatch® 2,23856,,0.0,"Action, Free To Play",2023.0,,2025-06-02
+147,147.0,147.0,147.0,147.0,48,1281930,tModLoader,23620,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-02
+148,148.0,148.0,148.0,148.0,49,1142710,Total War: WARHAMMER III,23034,,59.99,"Action, Strategy",2022.0,86.0,2025-06-02
+149,149.0,149.0,149.0,149.0,50,39210,FINAL FANTASY XIV Online,22945,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-02
+150,150.0,150.0,150.0,150.0,51,105600,Terraria,22857,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-02
+151,151.0,151.0,151.0,151.0,52,4000,Garry's Mod,22740,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-02
+152,152.0,152.0,152.0,152.0,53,346110,ARK: Survival Evolved,22672,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-02
+153,153.0,153.0,153.0,153.0,54,294100,RimWorld,22117,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-02
+154,154.0,154.0,154.0,154.0,55,2694490,Path of Exile 2,21862,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-02
+155,155.0,155.0,155.0,155.0,56,251570,7 Days to Die,21008,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-02
+156,156.0,156.0,156.0,156.0,57,892970,Valheim,20952,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-02
+157,157.0,157.0,157.0,157.0,58,2300320,Farming Simulator 25,20902,,49.99,Simulation,2024.0,,2025-06-02
+158,158.0,158.0,158.0,158.0,59,218620,PAYDAY 2,20554,,9.99,"Action, RPG",2013.0,79.0,2025-06-02
+159,159.0,159.0,159.0,159.0,60,427520,Factorio,20479,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-02
+160,160.0,160.0,160.0,160.0,61,629520,Soundpad,20179,,4.99,"Audio Production, Utilities",2017.0,,2025-06-02
+161,161.0,161.0,161.0,161.0,62,2993780,FANTASY LIFE i: The Girl Who Steals Time,20021,,59.99,RPG,2025.0,,2025-06-02
+162,162.0,162.0,162.0,162.0,63,2379780,Balatro,19711,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-02
+163,163.0,163.0,163.0,163.0,64,250900,The Binding of Isaac: Rebirth,19412,,14.99,Action,2014.0,,2025-06-02
+164,164.0,164.0,164.0,164.0,65,2623190,The Elder Scrolls IV: Oblivion Remastered,18924,,39.99,RPG,2025.0,,2025-06-02
+165,165.0,165.0,165.0,165.0,66,1158310,Crusader Kings III,18742,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-02
+166,166.0,166.0,166.0,166.0,67,281990,Stellaris,18246,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-02
+167,167.0,167.0,167.0,167.0,68,284160,BeamNG.drive,18224,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-02
+168,168.0,168.0,168.0,168.0,69,813780,Age of Empires II: Definitive Edition,17999,,34.99,Strategy,2019.0,84.0,2025-06-02
+169,169.0,169.0,169.0,169.0,70,1599340,Lost Ark,17448,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-02
+170,170.0,170.0,170.0,170.0,71,2429640,THRONE AND LIBERTY,17403,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-02
+171,171.0,171.0,171.0,171.0,72,236850,Europa Universalis IV,17204,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-02
+172,172.0,172.0,172.0,172.0,73,1604030,V Rising,16840,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-02
+173,173.0,173.0,173.0,173.0,74,1623730,Palworld,16595,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-02
+174,174.0,174.0,174.0,174.0,75,292030,The Witcher 3: Wild Hunt,16536,,39.99,RPG,2015.0,93.0,2025-06-02
+175,175.0,175.0,175.0,175.0,76,1203620,Enshrouded,16322,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-02
+176,176.0,176.0,176.0,176.0,77,582660,Black Desert,16299,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-02
+177,177.0,177.0,177.0,177.0,78,2399830,ARK: Survival Ascended,16143,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-06-02
+178,178.0,178.0,178.0,178.0,79,2878980,NBA 2K25,16086,,69.99,"Simulation, Sports",2024.0,,2025-06-02
+179,179.0,179.0,179.0,179.0,80,526870,Satisfactory,15977,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-02
+180,180.0,180.0,180.0,180.0,81,291550,Brawlhalla,15467,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-02
+181,181.0,181.0,181.0,181.0,82,8930,Sid Meier's Civilization V,14902,,29.99,Strategy,2010.0,90.0,2025-06-02
+182,182.0,182.0,182.0,182.0,83,2104890,RoadCraft,14685,,39.99,"Adventure, Simulation",2025.0,,2025-06-02
+183,183.0,183.0,183.0,183.0,84,2763740,Revolution Idle,14663,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-02
+184,184.0,184.0,184.0,184.0,85,2073850,THE FINALS,14369,,0.0,"Action, Free To Play",2023.0,,2025-06-02
+185,185.0,185.0,185.0,185.0,86,1466060,Tainted Grail: The Fall of Avalon,14072,,44.99,"Action, Adventure, Indie, RPG",2025.0,,2025-06-02
+186,186.0,186.0,186.0,186.0,87,1905180,OBS Studio,13991,,0.0,"Utilities, Video Production",2022.0,,2025-06-02
+187,187.0,187.0,187.0,187.0,88,261550,Mount & Blade II: Bannerlord,13949,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-02
+188,188.0,188.0,188.0,188.0,89,1665460,eFootball™,13878,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-02
+189,189.0,189.0,189.0,189.0,90,1973530,Limbus Company,13699,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-02
+190,190.0,190.0,190.0,190.0,91,739630,Phasmophobia,13485,,19.99,"Action, Indie, Early Access",2020.0,,2025-06-02
+191,191.0,191.0,191.0,191.0,92,1623660,MIR4,13271,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2021.0,,2025-06-02
+192,192.0,192.0,192.0,192.0,93,1874880,Arma Reforger,13098,,39.99,"Action, Simulation, Strategy",2023.0,,2025-06-02
+193,193.0,193.0,193.0,193.0,94,377160,Fallout 4,13094,,19.99,RPG,2015.0,84.0,2025-06-02
+194,194.0,194.0,194.0,194.0,95,1476970,Legends of Idleon MMO,12489,,0.0,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access",2021.0,,2025-06-02
+195,195.0,195.0,195.0,195.0,96,1771300,Kingdom Come: Deliverance II,12463,,59.99,"Action, Adventure, RPG",2025.0,89.0,2025-06-02
+196,196.0,196.0,196.0,196.0,97,1237950,STAR WARS™ Battlefront™ II,12045,,39.99,"Action, Adventure",2020.0,,2025-06-02
+197,197.0,197.0,197.0,197.0,98,393380,Squad,12011,,49.99,"Action, Indie, Massively Multiplayer, Strategy",2020.0,,2025-06-02
+198,198.0,198.0,198.0,198.0,99,1449850,Yu-Gi-Oh!  Master Duel,11957,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-02
+199,199.0,199.0,199.0,199.0,100,244210,Assetto Corsa,11908,,19.99,"Indie, Racing, Simulation, Sports",2014.0,85.0,2025-06-02
+200,200.0,200.0,200.0,,1,730,Counter-Strike 2,789444,,0.0,"Action, Free To Play",2012.0,,2025-06-03
+201,201.0,201.0,201.0,,2,570,Dota 2,362254,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-03
+202,202.0,202.0,202.0,,3,3419430,Bongo Cat,127308,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-03
+203,203.0,203.0,203.0,,4,2767030,Marvel Rivals,115437,,0.0,"Action, Free To Play",2024.0,,2025-06-03
+204,204.0,204.0,204.0,,5,578080,PUBG: BATTLEGROUNDS,114145,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-03
+205,205.0,205.0,205.0,,6,2923300,Banana,95290,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-03
+206,206.0,206.0,206.0,,7,252490,Rust,81344,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-03
+207,207.0,207.0,207.0,,8,1172470,Apex Legends,77904,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-03
+208,208.0,208.0,208.0,,9,1938090,Call of Duty®,66861,,0.0,Action,2022.0,,2025-06-03
+209,209.0,209.0,209.0,,10,1086940,Baldur's Gate 3,61434,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-03
+210,210.0,210.0,210.0,,11,271590,Grand Theft Auto V Legacy,61232,,0.0,"Action, Adventure",2015.0,96.0,2025-06-03
+211,211.0,211.0,211.0,,12,553850,HELLDIVERS™ 2,56096,,39.99,Action,2024.0,,2025-06-03
+212,212.0,212.0,212.0,,13,2252570,Football Manager 2024,54455,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-03
+213,213.0,213.0,213.0,,14,381210,Dead by Daylight,54136,,19.99,Action,2016.0,,2025-06-03
+214,214.0,214.0,214.0,,15,359550,Tom Clancy's Rainbow Six Siege,54095,,19.99,Action,2015.0,,2025-06-03
+215,215.0,215.0,215.0,,16,2669320,EA SPORTS FC 25,47940,,69.99,"Simulation, Sports",2024.0,,2025-06-03
+216,216.0,216.0,216.0,,17,1366800,Crosshair X,47900,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-03
+217,217.0,217.0,217.0,,18,431960,Wallpaper Engine,44524,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-03
+218,218.0,218.0,218.0,,19,480,Spacewar,43992,,,,,,2025-06-03
+219,219.0,219.0,219.0,,20,236390,War Thunder,43094,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-03
+220,220.0,220.0,220.0,,21,413150,Stardew Valley,40008,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-03
+221,221.0,221.0,221.0,,22,440,Team Fortress 2,39746,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-03
+222,222.0,222.0,222.0,,23,3241660,R.E.P.O.,39075,,9.99,"Action, Early Access",2025.0,,2025-06-03
+223,223.0,223.0,223.0,,24,230410,Warframe,38088,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-03
+224,224.0,224.0,224.0,,25,221100,DayZ,38037,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-03
+225,225.0,225.0,225.0,,26,1903340,Clair Obscur: Expedition 33,35356,,49.99,"Action, RPG",2025.0,91.0,2025-06-03
+226,226.0,226.0,226.0,,27,1085660,Destiny 2,32592,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-03
+227,227.0,227.0,227.0,,28,1174180,Red Dead Redemption 2,32063,,59.99,"Action, Adventure",2019.0,93.0,2025-06-03
+228,228.0,228.0,228.0,,29,2507950,Delta Force,31468,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-03
+229,229.0,229.0,229.0,,30,1245620,ELDEN RING,31097,,59.99,"Action, RPG",2022.0,94.0,2025-06-03
+230,230.0,230.0,230.0,,31,394360,Hearts of Iron IV,29623,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-03
+231,231.0,231.0,231.0,,32,3240220,Grand Theft Auto V Enhanced,28553,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-03
+232,232.0,232.0,232.0,,33,1222670,The Sims™ 4,28446,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-03
+233,233.0,233.0,233.0,,34,322170,Geometry Dash,28039,,4.99,"Action, Indie",2014.0,,2025-06-03
+234,234.0,234.0,234.0,,35,3188910,Waifu,27376,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-03
+235,235.0,235.0,235.0,,36,489830,The Elder Scrolls V: Skyrim Special Edition,27162,,9.99,RPG,2016.0,74.0,2025-06-03
+236,236.0,236.0,236.0,,37,438100,VRChat,26713,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-03
+237,237.0,237.0,237.0,,38,105600,Terraria,26384,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-03
+238,238.0,238.0,238.0,,39,550,Left 4 Dead 2,25769,,9.99,Action,2009.0,89.0,2025-06-03
+239,239.0,239.0,239.0,,40,3164500,Schedule I,25589,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-03
+240,240.0,240.0,240.0,,41,108600,Project Zomboid,25080,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-03
+241,241.0,241.0,241.0,,42,1091500,Cyberpunk 2077,24096,,59.99,RPG,2020.0,86.0,2025-06-03
+242,242.0,242.0,242.0,,43,252950,Rocket League,23306,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-03
+243,243.0,243.0,243.0,,44,2357570,Overwatch® 2,22543,,0.0,"Action, Free To Play",2023.0,,2025-06-03
+244,244.0,244.0,244.0,,45,39210,FINAL FANTASY XIV Online,22005,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-03
+245,245.0,245.0,245.0,,46,2139460,Once Human,21583,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-03
+246,246.0,246.0,246.0,,47,289070,Sid Meier's Civilization VI,21304,,59.99,Strategy,2016.0,88.0,2025-06-03
+247,247.0,247.0,247.0,,48,4000,Garry's Mod,19917,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-03
+248,248.0,248.0,248.0,,49,294100,RimWorld,19840,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-03
+249,249.0,249.0,249.0,,50,346110,ARK: Survival Evolved,19757,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-03
+250,250.0,250.0,250.0,,51,227300,Euro Truck Simulator 2,18911,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-03
+251,251.0,251.0,251.0,,52,306130,The Elder Scrolls Online,18834,,4.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-03
+252,252.0,252.0,252.0,,53,2379780,Balatro,18655,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-03
+253,253.0,253.0,253.0,,54,1142710,Total War: WARHAMMER III,18620,,59.99,"Action, Strategy",2022.0,86.0,2025-06-03
+254,254.0,254.0,254.0,,55,2694490,Path of Exile 2,18272,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-03
+255,255.0,255.0,255.0,,56,251570,7 Days to Die,18260,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-03
+256,256.0,256.0,256.0,,57,427520,Factorio,17842,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-03
+257,257.0,257.0,257.0,,58,629520,Soundpad,17840,,4.99,"Audio Production, Utilities",2017.0,,2025-06-03
+258,258.0,258.0,258.0,,59,250900,The Binding of Isaac: Rebirth,16985,,14.99,Action,2014.0,,2025-06-03
+259,259.0,259.0,259.0,,60,2993780,FANTASY LIFE i: The Girl Who Steals Time,16931,,59.99,RPG,2025.0,,2025-06-03
+260,260.0,260.0,260.0,,61,892970,Valheim,16879,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-03
+261,261.0,261.0,261.0,,62,284160,BeamNG.drive,16374,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-03
+262,262.0,262.0,262.0,,63,2623190,The Elder Scrolls IV: Oblivion Remastered,16273,,39.99,RPG,2025.0,,2025-06-03
+263,263.0,263.0,263.0,,64,2300320,Farming Simulator 25,16061,,49.99,Simulation,2024.0,,2025-06-03
+264,264.0,264.0,264.0,,65,1158310,Crusader Kings III,15633,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-03
+265,265.0,265.0,265.0,,66,582660,Black Desert,15581,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-03
+266,266.0,266.0,266.0,,67,281990,Stellaris,15241,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-03
+267,267.0,267.0,267.0,,68,2399830,ARK: Survival Ascended,15060,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-06-03
+268,268.0,268.0,268.0,,69,1281930,tModLoader,14960,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-03
+269,269.0,269.0,269.0,,70,291550,Brawlhalla,14942,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-03
+270,270.0,270.0,270.0,,71,813780,Age of Empires II: Definitive Edition,14902,,34.99,Strategy,2019.0,84.0,2025-06-03
+271,271.0,271.0,271.0,,72,2878980,NBA 2K25,14745,,69.99,"Simulation, Sports",2024.0,,2025-06-03
+272,272.0,272.0,272.0,,73,1623730,Palworld,14486,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-03
+273,273.0,273.0,273.0,,74,236850,Europa Universalis IV,14336,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-03
+274,274.0,274.0,274.0,,75,2763740,Revolution Idle,14300,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-03
+275,275.0,275.0,275.0,,76,1599340,Lost Ark,14082,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-03
+276,276.0,276.0,276.0,,77,292030,The Witcher 3: Wild Hunt,13998,,39.99,RPG,2015.0,93.0,2025-06-03
+277,277.0,277.0,277.0,,78,2429640,THRONE AND LIBERTY,13500,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-03
+278,278.0,278.0,278.0,,79,1604030,V Rising,13459,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-03
+279,279.0,279.0,279.0,,80,526870,Satisfactory,13272,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-03
+280,280.0,280.0,280.0,,81,1623660,MIR4,13180,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2021.0,,2025-06-03
+281,281.0,281.0,281.0,,82,8930,Sid Meier's Civilization V,12877,,29.99,Strategy,2010.0,90.0,2025-06-03
+282,282.0,282.0,282.0,,83,1973530,Limbus Company,12757,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-03
+283,283.0,283.0,283.0,,84,2073850,THE FINALS,12493,,0.0,"Action, Free To Play",2023.0,,2025-06-03
+284,284.0,284.0,284.0,,85,1690940,DELTARUNE (Chapter 1 & 2 DEMO),12481,,0.0,,2021.0,,2025-06-03
+285,285.0,285.0,285.0,,86,218620,PAYDAY 2,12415,,9.99,"Action, RPG",2013.0,79.0,2025-06-03
+286,286.0,286.0,286.0,,87,1665460,eFootball™,12355,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-03
+287,287.0,287.0,287.0,,88,1203620,Enshrouded,12301,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-03
+288,288.0,288.0,288.0,,89,1905180,OBS Studio,12266,,0.0,"Utilities, Video Production",2022.0,,2025-06-03
+289,289.0,289.0,289.0,,90,1476970,Legends of Idleon MMO,11975,,0.0,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access",2021.0,,2025-06-03
+290,290.0,290.0,290.0,,91,261550,Mount & Blade II: Bannerlord,11937,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-03
+291,291.0,291.0,291.0,,92,1874880,Arma Reforger,11880,,39.99,"Action, Simulation, Strategy",2023.0,,2025-06-03
+292,292.0,292.0,292.0,,93,377160,Fallout 4,11829,,19.99,RPG,2015.0,84.0,2025-06-03
+293,293.0,293.0,293.0,,94,1151340,Fallout 76,11426,,39.99,RPG,2020.0,,2025-06-03
+294,294.0,294.0,294.0,,95,1449850,Yu-Gi-Oh!  Master Duel,11265,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-03
+295,295.0,295.0,295.0,,96,739630,Phasmophobia,11042,,19.99,"Action, Indie, Early Access",2020.0,,2025-06-03
+296,296.0,296.0,296.0,,97,2221490,Tom Clancy's The Division 2,10974,,2.99,"Action, Adventure, RPG",2023.0,84.0,2025-06-03
+297,297.0,297.0,297.0,,98,1466060,Tainted Grail: The Fall of Avalon,10950,,44.99,"Action, Adventure, Indie, RPG",2025.0,,2025-06-03
+298,298.0,298.0,298.0,,99,2104890,RoadCraft,10727,,39.99,"Adventure, Simulation",2025.0,,2025-06-03
+299,299.0,299.0,299.0,,100,1237950,STAR WARS™ Battlefront™ II,10678,,39.99,"Action, Adventure",2020.0,,2025-06-03
+300,300.0,300.0,,,1,730,Counter-Strike 2,947220,,0.0,"Action, Free To Play",2012.0,,2025-06-04
+301,301.0,301.0,,,2,570,Dota 2,361579,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-04
+302,302.0,302.0,,,3,2622380,ELDEN RING NIGHTREIGN,182322,,39.99,"Action, RPG",2025.0,,2025-06-04
+303,303.0,303.0,,,4,3419430,Bongo Cat,148911,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-04
+304,304.0,304.0,,,5,578080,PUBG: BATTLEGROUNDS,121313,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-04
+305,305.0,305.0,,,6,2767030,Marvel Rivals,105871,,0.0,"Action, Free To Play",2024.0,,2025-06-04
+306,306.0,306.0,,,7,2923300,Banana,103860,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-04
+307,307.0,307.0,,,8,1172470,Apex Legends,92806,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-04
+308,308.0,308.0,,,9,252490,Rust,73748,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-04
+309,309.0,309.0,,,10,1938090,Call of Duty®,66714,,0.0,Action,2022.0,,2025-06-04
+310,310.0,310.0,,,11,271590,Grand Theft Auto V Legacy,61822,,0.0,"Action, Adventure",2015.0,96.0,2025-06-04
+311,311.0,311.0,,,12,1086940,Baldur's Gate 3,58826,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-04
+312,312.0,312.0,,,13,2252570,Football Manager 2024,55598,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-04
+313,313.0,313.0,,,14,359550,Tom Clancy's Rainbow Six Siege,54642,,19.99,Action,2015.0,,2025-06-04
+314,314.0,314.0,,,15,553850,HELLDIVERS™ 2,51917,,39.99,Action,2024.0,,2025-06-04
+315,315.0,315.0,,,16,2669320,EA SPORTS FC 25,50163,,69.99,"Simulation, Sports",2024.0,,2025-06-04
+316,316.0,316.0,,,17,381210,Dead by Daylight,49940,,19.99,Action,2016.0,,2025-06-04
+317,317.0,317.0,,,18,1366800,Crosshair X,47450,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-04
+318,318.0,318.0,,,19,431960,Wallpaper Engine,44662,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-04
+319,319.0,319.0,,,20,480,Spacewar,44041,,,,,,2025-06-04
+320,320.0,320.0,,,21,236390,War Thunder,43562,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-04
+321,321.0,321.0,,,22,221100,DayZ,41507,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-04
+322,322.0,322.0,,,23,413150,Stardew Valley,39491,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-04
+323,323.0,323.0,,,24,230410,Warframe,37962,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-04
+324,324.0,324.0,,,25,3241660,R.E.P.O.,37919,,9.99,"Action, Early Access",2025.0,,2025-06-04
+325,325.0,325.0,,,26,438100,VRChat,32935,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-04
+326,326.0,326.0,,,27,1903340,Clair Obscur: Expedition 33,32675,,49.99,"Action, RPG",2025.0,91.0,2025-06-04
+327,327.0,327.0,,,28,2507950,Delta Force,32555,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-04
+328,328.0,328.0,,,29,440,Team Fortress 2,30966,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-04
+329,329.0,329.0,,,30,1245620,ELDEN RING,30900,,59.99,"Action, RPG",2022.0,94.0,2025-06-04
+330,330.0,330.0,,,31,1174180,Red Dead Redemption 2,30699,,59.99,"Action, Adventure",2019.0,93.0,2025-06-04
+331,331.0,331.0,,,32,394360,Hearts of Iron IV,30028,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-04
+332,332.0,332.0,,,33,322170,Geometry Dash,29174,,4.99,"Action, Indie",2014.0,,2025-06-04
+333,333.0,333.0,,,34,3188910,Waifu,28988,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-04
+334,334.0,334.0,,,35,3240220,Grand Theft Auto V Enhanced,28400,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-04
+335,335.0,335.0,,,36,1222670,The Sims™ 4,26432,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-04
+336,336.0,336.0,,,37,489830,The Elder Scrolls V: Skyrim Special Edition,26407,,9.99,RPG,2016.0,74.0,2025-06-04
+337,337.0,337.0,,,38,1085660,Destiny 2,26022,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-04
+338,338.0,338.0,,,39,550,Left 4 Dead 2,25089,,9.99,Action,2009.0,89.0,2025-06-04
+339,339.0,339.0,,,40,108600,Project Zomboid,24773,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-04
+340,340.0,340.0,,,41,3164500,Schedule I,24392,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-04
+341,341.0,341.0,,,42,1091500,Cyberpunk 2077,23626,,59.99,RPG,2020.0,86.0,2025-06-04
+342,342.0,342.0,,,43,252950,Rocket League,23179,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-04
+343,343.0,343.0,,,44,218620,PAYDAY 2,21517,,9.99,"Action, RPG",2013.0,79.0,2025-06-04
+344,344.0,344.0,,,45,289070,Sid Meier's Civilization VI,21163,,59.99,Strategy,2016.0,88.0,2025-06-04
+345,345.0,345.0,,,46,2357570,Overwatch® 2,21127,,0.0,"Action, Free To Play",2023.0,,2025-06-04
+346,346.0,346.0,,,47,2139460,Once Human,21007,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-04
+347,347.0,347.0,,,48,1281930,tModLoader,20526,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-04
+348,348.0,348.0,,,49,39210,FINAL FANTASY XIV Online,20210,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-04
+349,349.0,349.0,,,50,105600,Terraria,20200,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-04
+350,350.0,350.0,,,51,227300,Euro Truck Simulator 2,20051,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-04
+351,351.0,351.0,,,52,4000,Garry's Mod,20011,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-04
+352,352.0,352.0,,,53,294100,RimWorld,19786,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-04
+353,353.0,353.0,,,54,346110,ARK: Survival Evolved,19147,,14.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-04
+354,354.0,354.0,,,55,1142710,Total War: WARHAMMER III,18734,,59.99,"Action, Strategy",2022.0,86.0,2025-06-04
+355,355.0,355.0,,,56,251570,7 Days to Die,18214,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-04
+356,356.0,356.0,,,57,1599340,Lost Ark,18153,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-04
+357,357.0,357.0,,,58,427520,Factorio,18084,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-04
+358,358.0,358.0,,,59,2379780,Balatro,17759,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-04
+359,359.0,359.0,,,60,629520,Soundpad,17720,,4.99,"Audio Production, Utilities",2017.0,,2025-06-04
+360,360.0,360.0,,,61,2694490,Path of Exile 2,17590,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-04
+361,361.0,361.0,,,62,306130,The Elder Scrolls Online,17471,,4.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-04
+362,362.0,362.0,,,63,284160,BeamNG.drive,16496,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-04
+363,363.0,363.0,,,64,892970,Valheim,16409,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-04
+364,364.0,364.0,,,65,250900,The Binding of Isaac: Rebirth,15960,,14.99,Action,2014.0,,2025-06-04
+365,365.0,365.0,,,66,2300320,Farming Simulator 25,15811,,49.99,Simulation,2024.0,,2025-06-04
+366,366.0,366.0,,,67,2993780,FANTASY LIFE i: The Girl Who Steals Time,15667,,59.99,RPG,2025.0,,2025-06-04
+367,367.0,367.0,,,68,1158310,Crusader Kings III,15528,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-04
+368,368.0,368.0,,,69,1449850,Yu-Gi-Oh!  Master Duel,15293,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-04
+369,369.0,369.0,,,70,2623190,The Elder Scrolls IV: Oblivion Remastered,15197,,39.99,RPG,2025.0,,2025-06-04
+370,370.0,370.0,,,71,281990,Stellaris,14888,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-04
+371,371.0,371.0,,,72,1973530,Limbus Company,14821,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-04
+372,372.0,372.0,,,73,813780,Age of Empires II: Definitive Edition,14785,,34.99,Strategy,2019.0,84.0,2025-06-04
+373,373.0,373.0,,,74,291550,Brawlhalla,14768,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-04
+374,374.0,374.0,,,75,2399830,ARK: Survival Ascended,14589,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-06-04
+375,375.0,375.0,,,76,2878980,NBA 2K25,14560,,69.99,"Simulation, Sports",2024.0,,2025-06-04
+376,376.0,376.0,,,77,582660,Black Desert,14546,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-04
+377,377.0,377.0,,,78,1623730,Palworld,14329,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-04
+378,378.0,378.0,,,79,236850,Europa Universalis IV,14222,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-04
+379,379.0,379.0,,,80,292030,The Witcher 3: Wild Hunt,14173,,39.99,RPG,2015.0,93.0,2025-06-04
+380,380.0,380.0,,,81,2429640,THRONE AND LIBERTY,13565,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-04
+381,381.0,381.0,,,82,2763740,Revolution Idle,13555,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-04
+382,382.0,382.0,,,83,526870,Satisfactory,13018,,39.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-04
+383,383.0,383.0,,,84,1623660,MIR4,13008,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2021.0,,2025-06-04
+384,384.0,384.0,,,85,8930,Sid Meier's Civilization V,12897,,29.99,Strategy,2010.0,90.0,2025-06-04
+385,385.0,385.0,,,86,2073850,THE FINALS,12738,,0.0,"Action, Free To Play",2023.0,,2025-06-04
+386,386.0,386.0,,,87,1604030,V Rising,12734,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-04
+387,387.0,387.0,,,88,1665460,eFootball™,12680,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-04
+388,388.0,388.0,,,89,1364780,Street Fighter™ 6,12437,,39.99,"Action, Adventure",2023.0,92.0,2025-06-04
+389,389.0,389.0,,,90,1905180,OBS Studio,12305,,0.0,"Utilities, Video Production",2022.0,,2025-06-04
+390,390.0,390.0,,,91,275850,No Man's Sky,12208,,23.99,"Action, Adventure",2016.0,61.0,2025-06-04
+391,391.0,391.0,,,92,1874880,Arma Reforger,12043,,39.99,"Action, Simulation, Strategy",2023.0,,2025-06-04
+392,392.0,392.0,,,93,377160,Fallout 4,11868,,19.99,RPG,2015.0,84.0,2025-06-04
+393,393.0,393.0,,,94,261550,Mount & Blade II: Bannerlord,11862,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-04
+394,394.0,394.0,,,95,1476970,Legends of Idleon MMO,11713,,0.0,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access",2021.0,,2025-06-04
+395,395.0,395.0,,,96,1203620,Enshrouded,11705,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-04
+396,396.0,396.0,,,97,739630,Phasmophobia,11132,,19.99,"Action, Indie, Early Access",2020.0,,2025-06-04
+397,397.0,397.0,,,98,304930,Unturned,10979,,0.0,"Action, Adventure, Casual, Indie, Free To Play",2017.0,,2025-06-04
+398,398.0,398.0,,,99,1237950,STAR WARS™ Battlefront™ II,10943,,39.99,"Action, Adventure",2020.0,,2025-06-04
+399,399.0,399.0,,,100,2221490,Tom Clancy's The Division 2,10906,,29.99,"Action, Adventure, RPG",2023.0,84.0,2025-06-04
+400,400.0,,,,1,730,Counter-Strike 2,1196262,,0.0,"Action, Free To Play",2012.0,,2025-06-05
+401,401.0,,,,2,570,Dota 2,486232,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-05
+402,402.0,,,,3,578080,PUBG: BATTLEGROUNDS,220725,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-05
+403,403.0,,,,4,2622380,ELDEN RING NIGHTREIGN,191869,,39.99,"Action, RPG",2025.0,,2025-06-05
+404,404.0,,,,5,252490,Rust,187049,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-05
+405,405.0,,,,6,3419430,Bongo Cat,145499,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-05
+406,406.0,,,,7,1172470,Apex Legends,115038,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-05
+407,407.0,,,,8,2923300,Banana,108011,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-05
+408,408.0,,,,9,2767030,Marvel Rivals,99559,,0.0,"Action, Free To Play",2024.0,,2025-06-05
+409,409.0,,,,10,271590,Grand Theft Auto V Legacy,90189,,0.0,"Action, Adventure",2015.0,96.0,2025-06-05
+410,410.0,,,,11,1938090,Call of Duty®,73503,,0.0,Action,2022.0,,2025-06-05
+411,411.0,,,,12,236390,War Thunder,72877,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-05
+412,412.0,,,,13,2252570,Football Manager 2024,70866,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-05
+413,413.0,,,,14,1086940,Baldur's Gate 3,68646,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-05
+414,414.0,,,,15,553850,HELLDIVERS™ 2,67628,,39.99,Action,2024.0,,2025-06-05
+415,415.0,,,,16,480,Spacewar,64026,,,,,,2025-06-05
+416,416.0,,,,17,359550,Tom Clancy's Rainbow Six Siege,60087,,19.99,Action,2015.0,,2025-06-05
+417,417.0,,,,18,431960,Wallpaper Engine,58742,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-05
+418,418.0,,,,19,381210,Dead by Daylight,58675,,19.99,Action,2016.0,,2025-06-05
+419,419.0,,,,20,2669320,EA SPORTS FC 25,57949,,69.99,"Simulation, Sports",2024.0,,2025-06-05
+420,420.0,,,,21,1366800,Crosshair X,55178,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-05
+421,421.0,,,,22,221100,DayZ,54618,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-05
+422,422.0,,,,23,3241660,R.E.P.O.,52403,,9.99,"Action, Early Access",2025.0,,2025-06-05
+423,423.0,,,,24,440,Team Fortress 2,50078,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-05
+424,424.0,,,,25,2507950,Delta Force,49782,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-05
+425,425.0,,,,26,413150,Stardew Valley,48244,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-05
+426,426.0,,,,27,322170,Geometry Dash,45507,,4.99,"Action, Indie",2014.0,,2025-06-05
+427,427.0,,,,28,394360,Hearts of Iron IV,44358,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-05
+428,428.0,,,,29,230410,Warframe,44139,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-05
+429,429.0,,,,30,3240220,Grand Theft Auto V Enhanced,41356,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-05
+430,430.0,,,,31,1903340,Clair Obscur: Expedition 33,38640,,49.99,"Action, RPG",2025.0,91.0,2025-06-05
+431,431.0,,,,32,1174180,Red Dead Redemption 2,38622,,59.99,"Action, Adventure",2019.0,93.0,2025-06-05
+432,432.0,,,,33,438100,VRChat,38485,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-05
+433,433.0,,,,34,1245620,ELDEN RING,37443,,59.99,"Action, RPG",2022.0,94.0,2025-06-05
+434,434.0,,,,35,227300,Euro Truck Simulator 2,35159,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-05
+435,435.0,,,,36,218620,PAYDAY 2,31927,,3.29,"Action, RPG",2013.0,79.0,2025-06-05
+436,436.0,,,,37,1222670,The Sims™ 4,31293,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-05
+437,437.0,,,,38,489830,The Elder Scrolls V: Skyrim Special Edition,29843,,39.99,RPG,2016.0,74.0,2025-06-05
+438,438.0,,,,39,2300320,Farming Simulator 25,29704,,49.99,Simulation,2024.0,,2025-06-05
+439,439.0,,,,40,108600,Project Zomboid,29099,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-05
+440,440.0,,,,41,1091500,Cyberpunk 2077,29082,,59.99,RPG,2020.0,86.0,2025-06-05
+441,441.0,,,,42,2139460,Once Human,28350,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-05
+442,442.0,,,,43,4000,Garry's Mod,27837,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-05
+443,443.0,,,,44,289070,Sid Meier's Civilization VI,27494,,59.99,Strategy,2016.0,88.0,2025-06-05
+444,444.0,,,,45,3188910,Waifu,26606,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-05
+445,445.0,,,,46,105600,Terraria,26151,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-05
+446,446.0,,,,47,1281930,tModLoader,25954,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-05
+447,447.0,,,,48,346110,ARK: Survival Evolved,25765,,4.49,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-05
+448,448.0,,,,49,1085660,Destiny 2,25700,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-05
+449,449.0,,,,50,3164500,Schedule I,25655,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-05
+450,450.0,,,,51,1142710,Total War: WARHAMMER III,24367,,59.99,"Action, Strategy",2022.0,86.0,2025-06-05
+451,451.0,,,,52,252950,Rocket League,24310,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-05
+452,452.0,,,,53,629520,Soundpad,23859,,4.99,"Audio Production, Utilities",2017.0,,2025-06-05
+453,453.0,,,,54,2357570,Overwatch® 2,23786,,0.0,"Action, Free To Play",2023.0,,2025-06-05
+454,454.0,,,,55,550,Left 4 Dead 2,23587,,9.99,Action,2009.0,89.0,2025-06-05
+455,455.0,,,,56,294100,RimWorld,23077,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-05
+456,456.0,,,,57,251570,7 Days to Die,23065,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-05
+457,457.0,,,,58,284160,BeamNG.drive,23053,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-05
+458,458.0,,,,59,427520,Factorio,22938,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-05
+459,459.0,,,,60,2694490,Path of Exile 2,22711,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-05
+460,460.0,,,,61,292030,The Witcher 3: Wild Hunt,22379,,39.99,RPG,2015.0,93.0,2025-06-05
+461,461.0,,,,62,892970,Valheim,22074,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-05
+462,462.0,,,,63,306130,The Elder Scrolls Online,20966,,19.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-05
+463,463.0,,,,64,39210,FINAL FANTASY XIV Online,20868,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-05
+464,464.0,,,,65,250900,The Binding of Isaac: Rebirth,20236,,14.99,Action,2014.0,,2025-06-05
+465,465.0,,,,66,1599340,Lost Ark,19967,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-05
+466,466.0,,,,67,813780,Age of Empires II: Definitive Edition,19549,,34.99,Strategy,2019.0,84.0,2025-06-05
+467,467.0,,,,68,1203220,NARAKA: BLADEPOINT,19401,,0.0,"Action, Adventure, Massively Multiplayer",2021.0,,2025-06-05
+468,468.0,,,,69,1158310,Crusader Kings III,19360,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-05
+469,469.0,,,,70,2429640,THRONE AND LIBERTY,18810,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-05
+470,470.0,,,,71,236850,Europa Universalis IV,18648,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-05
+471,471.0,,,,72,281990,Stellaris,18460,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-05
+472,472.0,,,,73,2379780,Balatro,18090,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-05
+473,473.0,,,,74,1449850,Yu-Gi-Oh!  Master Duel,18072,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-05
+474,474.0,,,,75,2993780,FANTASY LIFE i: The Girl Who Steals Time,18016,,59.99,RPG,2025.0,,2025-06-05
+475,475.0,,,,76,1623730,Palworld,17840,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-05
+476,476.0,,,,77,1905180,OBS Studio,17648,,0.0,"Utilities, Video Production",2022.0,,2025-06-05
+477,477.0,,,,78,1973530,Limbus Company,17615,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-05
+478,478.0,,,,79,2878980,NBA 2K25,17576,,69.99,"Simulation, Sports",2024.0,,2025-06-05
+479,479.0,,,,80,526870,Satisfactory,17332,,27.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-05
+480,480.0,,,,81,1203620,Enshrouded,17097,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-05
+481,481.0,,,,82,261550,Mount & Blade II: Bannerlord,16421,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-05
+482,482.0,,,,83,2623190,The Elder Scrolls IV: Oblivion Remastered,16049,,49.99,RPG,2025.0,,2025-06-05
+483,483.0,,,,84,1665460,eFootball™,15935,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-05
+484,484.0,,,,85,1818450,STALCRAFT: X,15796,,0.0,"Action, Adventure, Massively Multiplayer, RPG",2022.0,,2025-06-05
+485,485.0,,,,86,291550,Brawlhalla,15743,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-05
+486,486.0,,,,87,8930,Sid Meier's Civilization V,15636,,29.99,Strategy,2010.0,90.0,2025-06-05
+487,487.0,,,,88,2073850,THE FINALS,15615,,0.0,"Action, Free To Play",2023.0,,2025-06-05
+488,488.0,,,,89,1604030,V Rising,15413,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-05
+489,489.0,,,,90,275850,No Man's Sky,15362,,23.99,"Action, Adventure",2016.0,61.0,2025-06-05
+490,490.0,,,,91,393380,Squad,15292,,49.99,"Action, Indie, Massively Multiplayer, Strategy",2020.0,,2025-06-05
+491,491.0,,,,92,322330,Don't Starve Together,15284,,14.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2016.0,83.0,2025-06-05
+492,492.0,,,,93,582660,Black Desert,15260,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-05
+493,493.0,,,,94,244210,Assetto Corsa,15244,,19.99,"Indie, Racing, Simulation, Sports",2014.0,85.0,2025-06-05
+494,494.0,,,,95,2763740,Revolution Idle,15140,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-05
+495,495.0,,,,96,1551360,Forza Horizon 5,15076,,59.99,"Action, Adventure, Racing, Simulation, Sports",2021.0,,2025-06-05
+496,496.0,,,,97,739630,Phasmophobia,15012,,19.99,"Action, Indie, Early Access",2020.0,,2025-06-05
+497,497.0,,,,98,2104890,RoadCraft,14484,,39.99,"Adventure, Simulation",2025.0,,2025-06-05
+498,498.0,,,,99,1364780,Street Fighter™ 6,14051,,39.99,"Action, Adventure",2023.0,92.0,2025-06-05
+499,499.0,,,,100,377160,Fallout 4,13500,,19.99,RPG,2015.0,84.0,2025-06-05
+500,,,,,1,730,Counter-Strike 2,1235771,,0.0,"Action, Free To Play",2012.0,,2025-06-06
+501,,,,,2,570,Dota 2,527589,,0.0,"Action, Strategy, Free To Play",2013.0,90.0,2025-06-06
+502,,,,,3,578080,PUBG: BATTLEGROUNDS,241111,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2017.0,,2025-06-06
+503,,,,,4,2622380,ELDEN RING NIGHTREIGN,193917,,39.99,"Action, RPG",2025.0,,2025-06-06
+504,,,,,5,252490,Rust,176842,,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",2018.0,69.0,2025-06-06
+505,,,,,6,3419430,Bongo Cat,170069,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-06
+506,,,,,7,1172470,Apex Legends,124395,,0.0,"Action, Adventure, Free To Play",2020.0,88.0,2025-06-06
+507,,,,,8,2767030,Marvel Rivals,114748,,0.0,"Action, Free To Play",2024.0,,2025-06-06
+508,,,,,9,2923300,Banana,111239,,0.0,"Adventure, Casual, Simulation, Strategy, Free To Play",2024.0,,2025-06-06
+509,,,,,10,271590,Grand Theft Auto V Legacy,92207,,0.0,"Action, Adventure",2015.0,96.0,2025-06-06
+510,,,,,11,1938090,Call of Duty®,73560,,0.0,Action,2022.0,,2025-06-06
+511,,,,,12,236390,War Thunder,73518,,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",2013.0,81.0,2025-06-06
+512,,,,,13,2669320,EA SPORTS FC 25,71188,,69.99,"Simulation, Sports",2024.0,,2025-06-06
+513,,,,,14,1086940,Baldur's Gate 3,69421,,59.99,"Adventure, RPG, Strategy",2023.0,96.0,2025-06-06
+514,,,,,15,431960,Wallpaper Engine,68739,,4.99,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",2018.0,,2025-06-06
+515,,,,,16,553850,HELLDIVERS™ 2,67364,,39.99,Action,2024.0,,2025-06-06
+516,,,,,17,2252570,Football Manager 2024,67142,,59.99,"Simulation, Sports, Strategy",2023.0,,2025-06-06
+517,,,,,18,1671210,DELTARUNE,66673,,24.99,"Indie, RPG",2025.0,,2025-06-06
+518,,,,,19,480,Spacewar,65332,,,,,,2025-06-06
+519,,,,,20,359550,Tom Clancy's Rainbow Six Siege,60163,,19.99,Action,2015.0,,2025-06-06
+520,,,,,21,2507950,Delta Force,58219,,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",2024.0,,2025-06-06
+521,,,,,22,381210,Dead by Daylight,57278,,19.99,Action,2016.0,,2025-06-06
+522,,,,,23,3241660,R.E.P.O.,56857,,9.99,"Action, Early Access",2025.0,,2025-06-06
+523,,,,,24,221100,DayZ,56529,,49.99,"Action, Adventure, Massively Multiplayer",2018.0,,2025-06-06
+524,,,,,25,1366800,Crosshair X,55403,,6.29,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",2020.0,,2025-06-06
+525,,,,,26,440,Team Fortress 2,51891,,0.0,"Action, Free To Play",2007.0,92.0,2025-06-06
+526,,,,,27,413150,Stardew Valley,50054,,14.99,"Indie, RPG, Simulation",2016.0,89.0,2025-06-06
+527,,,,,28,394360,Hearts of Iron IV,47677,,49.99,"Simulation, Strategy",2016.0,83.0,2025-06-06
+528,,,,,29,322170,Geometry Dash,46781,,4.99,"Action, Indie",2014.0,,2025-06-06
+529,,,,,30,230410,Warframe,45077,,0.0,"Action, RPG, Free To Play",2013.0,69.0,2025-06-06
+530,,,,,31,3240220,Grand Theft Auto V Enhanced,43881,,29.99,"Action, Adventure, Racing",2025.0,,2025-06-06
+531,,,,,32,438100,VRChat,42953,,0.0,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",2017.0,,2025-06-06
+532,,,,,33,1245620,ELDEN RING,38711,,59.99,"Action, RPG",2022.0,94.0,2025-06-06
+533,,,,,34,1174180,Red Dead Redemption 2,38472,,59.99,"Action, Adventure",2019.0,93.0,2025-06-06
+534,,,,,35,1903340,Clair Obscur: Expedition 33,38354,,49.99,"Action, RPG",2025.0,91.0,2025-06-06
+535,,,,,36,218620,PAYDAY 2,37966,,3.29,"Action, RPG",2013.0,79.0,2025-06-06
+536,,,,,37,227300,Euro Truck Simulator 2,34711,,19.99,"Indie, Simulation",2012.0,79.0,2025-06-06
+537,,,,,38,1222670,The Sims™ 4,32476,,0.0,"Adventure, Casual, Simulation, Free To Play",2020.0,,2025-06-06
+538,,,,,39,346110,ARK: Survival Evolved,31320,,4.49,"Action, Adventure, Indie, Massively Multiplayer, RPG",2017.0,70.0,2025-06-06
+539,,,,,40,1091500,Cyberpunk 2077,30229,,59.99,RPG,2020.0,86.0,2025-06-06
+540,,,,,41,289070,Sid Meier's Civilization VI,30216,,59.99,Strategy,2016.0,88.0,2025-06-06
+541,,,,,42,2300320,Farming Simulator 25,29908,,49.99,Simulation,2024.0,,2025-06-06
+542,,,,,43,108600,Project Zomboid,29418,,19.99,"Indie, RPG, Simulation, Early Access",2013.0,,2025-06-06
+543,,,,,44,2139460,Once Human,29198,,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",2024.0,,2025-06-06
+544,,,,,45,489830,The Elder Scrolls V: Skyrim Special Edition,29185,,39.99,RPG,2016.0,74.0,2025-06-06
+545,,,,,46,4000,Garry's Mod,28861,,5.99,"Casual, Indie, Simulation",2006.0,,2025-06-06
+546,,,,,47,1085660,Destiny 2,28408,,0.0,"Action, Adventure, Free To Play",2019.0,83.0,2025-06-06
+547,,,,,48,1281930,tModLoader,28172,,0.0,"Action, Adventure, Indie, RPG, Free To Play",2020.0,,2025-06-06
+548,,,,,49,2357570,Overwatch® 2,27416,,0.0,"Action, Free To Play",2023.0,,2025-06-06
+549,,,,,50,105600,Terraria,27250,,9.99,"Action, Adventure, Indie, RPG",2011.0,83.0,2025-06-06
+550,,,,,51,3188910,Waifu,27004,,0.0,"Casual, Indie, RPG, Simulation, Free To Play",2024.0,,2025-06-06
+551,,,,,52,2694490,Path of Exile 2,26341,,29.99,"Action, Adventure, Massively Multiplayer, RPG, Early Access",2024.0,,2025-06-06
+552,,,,,53,550,Left 4 Dead 2,25871,,9.99,Action,2009.0,89.0,2025-06-06
+553,,,,,54,1142710,Total War: WARHAMMER III,25336,,59.99,"Action, Strategy",2022.0,86.0,2025-06-06
+554,,,,,55,3164500,Schedule I,25005,,19.99,"Action, Indie, Simulation, Strategy, Early Access",2025.0,,2025-06-06
+555,,,,,56,251570,7 Days to Die,24780,,44.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2024.0,,2025-06-06
+556,,,,,57,294100,RimWorld,24514,,34.99,"Indie, Simulation, Strategy",2018.0,87.0,2025-06-06
+557,,,,,58,1203220,NARAKA: BLADEPOINT,24402,,0.0,"Action, Adventure, Massively Multiplayer",2021.0,,2025-06-06
+558,,,,,59,629520,Soundpad,24071,,4.99,"Audio Production, Utilities",2017.0,,2025-06-06
+559,,,,,60,427520,Factorio,23905,,35.0,"Casual, Indie, Simulation, Strategy",2020.0,90.0,2025-06-06
+560,,,,,61,252950,Rocket League,23580,,0.0,"Action, Indie, Racing, Sports",2015.0,86.0,2025-06-06
+561,,,,,62,1599340,Lost Ark,23487,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2022.0,,2025-06-06
+562,,,,,63,284160,BeamNG.drive,23314,,24.99,"Racing, Simulation, Early Access",2015.0,,2025-06-06
+563,,,,,64,292030,The Witcher 3: Wild Hunt,22151,,39.99,RPG,2015.0,93.0,2025-06-06
+564,,,,,65,2878980,NBA 2K25,22051,,69.99,"Simulation, Sports",2024.0,,2025-06-06
+565,,,,,66,892970,Valheim,21973,,19.99,"Action, Adventure, Indie, RPG, Early Access",2021.0,,2025-06-06
+566,,,,,67,39210,FINAL FANTASY XIV Online,20545,,19.99,"Massively Multiplayer, RPG",2014.0,83.0,2025-06-06
+567,,,,,68,250900,The Binding of Isaac: Rebirth,20285,,14.99,Action,2014.0,,2025-06-06
+568,,,,,69,306130,The Elder Scrolls Online,20156,,19.99,"Action, Adventure, Massively Multiplayer, RPG",2017.0,80.0,2025-06-06
+569,,,,,70,1158310,Crusader Kings III,20042,,49.99,"RPG, Simulation, Strategy",2020.0,91.0,2025-06-06
+570,,,,,71,2993780,FANTASY LIFE i: The Girl Who Steals Time,19963,,59.99,RPG,2025.0,,2025-06-06
+571,,,,,72,813780,Age of Empires II: Definitive Edition,19717,,34.99,Strategy,2019.0,84.0,2025-06-06
+572,,,,,73,526870,Satisfactory,19488,,27.99,"Adventure, Indie, Simulation, Strategy",2024.0,91.0,2025-06-06
+573,,,,,74,281990,Stellaris,19310,,39.99,"Simulation, Strategy",2016.0,78.0,2025-06-06
+574,,,,,75,1623730,Palworld,19058,,29.99,"Action, Adventure, Indie, RPG, Early Access",2024.0,,2025-06-06
+575,,,,,76,236850,Europa Universalis IV,19026,,49.99,"Simulation, Strategy",2013.0,87.0,2025-06-06
+576,,,,,77,322330,Don't Starve Together,18633,,14.99,"Action, Adventure, Indie, RPG, Simulation, Strategy",2016.0,83.0,2025-06-06
+577,,,,,78,2429640,THRONE AND LIBERTY,18468,,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",2024.0,,2025-06-06
+578,,,,,79,1905180,OBS Studio,18446,,0.0,"Utilities, Video Production",2022.0,,2025-06-06
+579,,,,,80,2379780,Balatro,18162,,14.99,"Casual, Indie, Strategy",2024.0,90.0,2025-06-06
+580,,,,,81,1449850,Yu-Gi-Oh!  Master Duel,17929,,0.0,"Simulation, Strategy, Free To Play",2022.0,,2025-06-06
+581,,,,,82,2399830,ARK: Survival Ascended,17887,,44.99,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",2023.0,,2025-06-06
+582,,,,,83,49520,Borderlands 2,17762,,0.0,"Action, RPG",2012.0,89.0,2025-06-06
+583,,,,,84,1203620,Enshrouded,17445,,29.99,"Action, Adventure, RPG, Early Access",2024.0,,2025-06-06
+584,,,,,85,261550,Mount & Blade II: Bannerlord,17088,,49.99,"Action, Indie, RPG, Simulation, Strategy",2022.0,77.0,2025-06-06
+585,,,,,86,582660,Black Desert,17084,,9.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",2017.0,80.0,2025-06-06
+586,,,,,87,1364780,Street Fighter™ 6,16708,,39.99,"Action, Adventure",2023.0,92.0,2025-06-06
+587,,,,,88,8930,Sid Meier's Civilization V,16435,,29.99,Strategy,2010.0,90.0,2025-06-06
+588,,,,,89,275850,No Man's Sky,16121,,23.99,"Action, Adventure",2016.0,61.0,2025-06-06
+589,,,,,90,1973530,Limbus Company,15682,,0.0,"Action, RPG, Strategy",2023.0,,2025-06-06
+590,,,,,91,2073850,THE FINALS,15626,,0.0,"Action, Free To Play",2023.0,,2025-06-06
+591,,,,,92,2623190,The Elder Scrolls IV: Oblivion Remastered,15605,,49.99,RPG,2025.0,,2025-06-06
+592,,,,,93,1604030,V Rising,15537,,34.99,"Action, Adventure, Massively Multiplayer",2024.0,,2025-06-06
+593,,,,,94,291550,Brawlhalla,15466,,0.0,"Action, Indie, Free To Play",2017.0,,2025-06-06
+594,,,,,95,739630,Phasmophobia,15416,,14.99,"Action, Indie, Early Access",2020.0,,2025-06-06
+595,,,,,96,393380,Squad,15382,,49.99,"Action, Indie, Massively Multiplayer, Strategy",2020.0,,2025-06-06
+596,,,,,97,244210,Assetto Corsa,15365,,19.99,"Indie, Racing, Simulation, Sports",2014.0,85.0,2025-06-06
+597,,,,,98,2763740,Revolution Idle,15350,,0.0,"Casual, Indie, Simulation, Free To Play",2025.0,,2025-06-06
+598,,,,,99,1665460,eFootball™,15067,,0.0,"Simulation, Sports, Free To Play",2021.0,,2025-06-06
+599,,,,,100,1818450,STALCRAFT: X,14936,,0.0,"Action, Adventure, Massively Multiplayer, RPG",2022.0,,2025-06-06
