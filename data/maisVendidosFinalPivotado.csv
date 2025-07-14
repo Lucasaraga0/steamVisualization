@@ -1,0 +1,305 @@
+name,metacritic_metascore,metacritic_user_score,app_id,owners,price_usd,release_year,genres,country
+Dota 2,90.0,65.0,570,"200,000,000 .. 500,000,000",0.0,2013,Action,United States of America
+Dota 2,90.0,65.0,570,"200,000,000 .. 500,000,000",0.0,2013,Strategy,United States of America
+Dota 2,90.0,65.0,570,"200,000,000 .. 500,000,000",0.0,2013,Free To Play,United States of America
+Counter-Strike: Global Offensive,83.0,73.0,730,"100,000,000 .. 200,000,000",0.0,2012,Action,United States of America
+Counter-Strike: Global Offensive,83.0,73.0,730,"100,000,000 .. 200,000,000",0.0,2012,Free To Play,United States of America
+PUBG: BATTLEGROUNDS,86.0,49.0,578080,"50,000,000 .. 100,000,000",0.0,2017,Action,South Korea
+PUBG: BATTLEGROUNDS,86.0,49.0,578080,"50,000,000 .. 100,000,000",0.0,2017,Adventure,South Korea
+PUBG: BATTLEGROUNDS,86.0,49.0,578080,"50,000,000 .. 100,000,000",0.0,2017,Massively Multiplayer,South Korea
+PUBG: BATTLEGROUNDS,86.0,49.0,578080,"50,000,000 .. 100,000,000",0.0,2017,Free To Play,South Korea
+Palworld,,,1623730,"50,000,000 .. 100,000,000",29.99,2024,Action,Japan
+Palworld,,,1623730,"50,000,000 .. 100,000,000",29.99,2024,Adventure,Japan
+Palworld,,,1623730,"50,000,000 .. 100,000,000",29.99,2024,Indie,Japan
+Palworld,,,1623730,"50,000,000 .. 100,000,000",29.99,2024,RPG,Japan
+Palworld,,,1623730,"50,000,000 .. 100,000,000",29.99,2024,Early Access,Japan
+Apex Legends,88.0,59.0,1172470,"50,000,000 .. 100,000,000",0.0,2020,Action,United States of America
+Apex Legends,88.0,59.0,1172470,"50,000,000 .. 100,000,000",0.0,2020,Adventure,United States of America
+Apex Legends,88.0,59.0,1172470,"50,000,000 .. 100,000,000",0.0,2020,Free To Play,United States of America
+New World: Aeternum,75.0,68.0,1063730,"50,000,000 .. 100,000,000",59.99,2021,Action,United States of America
+New World: Aeternum,75.0,68.0,1063730,"50,000,000 .. 100,000,000",59.99,2021,Adventure,United States of America
+New World: Aeternum,75.0,68.0,1063730,"50,000,000 .. 100,000,000",59.99,2021,Massively Multiplayer,United States of America
+New World: Aeternum,75.0,68.0,1063730,"50,000,000 .. 100,000,000",59.99,2021,RPG,United States of America
+Black Myth: Wukong,81.0,82.0,2358720,"50,000,000 .. 100,000,000",59.99,2024,Action,China
+Black Myth: Wukong,81.0,82.0,2358720,"50,000,000 .. 100,000,000",59.99,2024,Adventure,China
+Black Myth: Wukong,81.0,82.0,2358720,"50,000,000 .. 100,000,000",59.99,2024,RPG,China
+Call of Duty: Modern Warfare II,79.0,46.0,1938090,"50,000,000 .. 100,000,000",0.0,2022,Action,United States of America
+Grand Theft Auto V Legacy,96.0,79.0,271590,"50,000,000 .. 100,000,000",0.0,2015,Action,United States of America
+Grand Theft Auto V Legacy,96.0,79.0,271590,"50,000,000 .. 100,000,000",0.0,2015,Adventure,United States of America
+Left 4 Dead 2,89.0,84.0,550,"50,000,000 .. 100,000,000",0.99,2009,Action,United States of America
+HELLDIVERS 2,83.0,66.0,553850,"50,000,000 .. 100,000,000",39.99,2024,Action,Sweden
+Lost Ark,81.0,47.0,1599340,"50,000,000 .. 100,000,000",0.0,2022,Action,South Korea
+Lost Ark,81.0,47.0,1599340,"50,000,000 .. 100,000,000",0.0,2022,Adventure,South Korea
+Lost Ark,81.0,47.0,1599340,"50,000,000 .. 100,000,000",0.0,2022,Massively Multiplayer,South Korea
+Lost Ark,81.0,47.0,1599340,"50,000,000 .. 100,000,000",0.0,2022,RPG,South Korea
+Lost Ark,81.0,47.0,1599340,"50,000,000 .. 100,000,000",0.0,2022,Free To Play,South Korea
+Unturned,,72.0,304930,"50,000,000 .. 100,000,000",0.0,2017,Action,Canada
+Unturned,,72.0,304930,"50,000,000 .. 100,000,000",0.0,2017,Adventure,Canada
+Unturned,,72.0,304930,"50,000,000 .. 100,000,000",0.0,2017,Casual,Canada
+Unturned,,72.0,304930,"50,000,000 .. 100,000,000",0.0,2017,Indie,Canada
+Unturned,,72.0,304930,"50,000,000 .. 100,000,000",0.0,2017,Free To Play,Canada
+War Thunder,81.0,38.0,236390,"20,000,000 .. 50,000,000",0.0,2013,Action,Russia
+War Thunder,81.0,38.0,236390,"20,000,000 .. 50,000,000",0.0,2013,Massively Multiplayer,Russia
+War Thunder,81.0,38.0,236390,"20,000,000 .. 50,000,000",0.0,2013,Simulation,Russia
+War Thunder,81.0,38.0,236390,"20,000,000 .. 50,000,000",0.0,2013,Free To Play,Russia
+ELDEN RING,94.0,74.0,1245620,"20,000,000 .. 50,000,000",59.99,2022,Action,Japan
+ELDEN RING,94.0,74.0,1245620,"20,000,000 .. 50,000,000",59.99,2022,RPG,Japan
+Terraria,83.0,88.0,105600,"20,000,000 .. 50,000,000",9.99,2011,Action,United States of America
+Terraria,83.0,88.0,105600,"20,000,000 .. 50,000,000",9.99,2011,Adventure,United States of America
+Terraria,83.0,88.0,105600,"20,000,000 .. 50,000,000",9.99,2011,Indie,United States of America
+Terraria,83.0,88.0,105600,"20,000,000 .. 50,000,000",9.99,2011,RPG,United States of America
+Team Fortress 2,92.0,86.0,440,"20,000,000 .. 50,000,000",0.0,2007,Action,United States of America
+Team Fortress 2,92.0,86.0,440,"20,000,000 .. 50,000,000",0.0,2007,Free To Play,United States of America
+Brawlhalla,,68.0,291550,"20,000,000 .. 50,000,000",0.0,2017,Action,United States of America
+Brawlhalla,,68.0,291550,"20,000,000 .. 50,000,000",0.0,2017,Indie,United States of America
+Brawlhalla,,68.0,291550,"20,000,000 .. 50,000,000",0.0,2017,Free To Play,United States of America
+Baldur's Gate 3,96.0,92.0,1086940,"20,000,000 .. 50,000,000",59.99,2023,Adventure,Belgium
+Baldur's Gate 3,96.0,92.0,1086940,"20,000,000 .. 50,000,000",59.99,2023,RPG,Belgium
+Baldur's Gate 3,96.0,92.0,1086940,"20,000,000 .. 50,000,000",59.99,2023,Strategy,Belgium
+Wallpaper Engine,,,431960,"20,000,000 .. 50,000,000",4.99,2018,Casual,Germany
+Wallpaper Engine,,,431960,"20,000,000 .. 50,000,000",4.99,2018,Indie,Germany
+Wallpaper Engine,,,431960,"20,000,000 .. 50,000,000",4.99,2018,Animation & Modeling,Germany
+Wallpaper Engine,,,431960,"20,000,000 .. 50,000,000",4.99,2018,Design & Illustration,Germany
+Wallpaper Engine,,,431960,"20,000,000 .. 50,000,000",4.99,2018,Photo Editing,Germany
+Wallpaper Engine,,,431960,"20,000,000 .. 50,000,000",4.99,2018,Utilities,Germany
+Garry's Mod,,88.0,4000,"20,000,000 .. 50,000,000",5.99,2006,Casual,United Kingdom
+Garry's Mod,,88.0,4000,"20,000,000 .. 50,000,000",5.99,2006,Indie,United Kingdom
+Garry's Mod,,88.0,4000,"20,000,000 .. 50,000,000",5.99,2006,Simulation,United Kingdom
+Tom Clancy's Rainbow Six Siege,79.0,70.0,359550,"20,000,000 .. 50,000,000",7.99,2015,Action,France
+Destiny 2,83.0,44.0,1085660,"20,000,000 .. 50,000,000",0.0,2019,Action,United States of America
+Destiny 2,83.0,44.0,1085660,"20,000,000 .. 50,000,000",0.0,2019,Adventure,United States of America
+Destiny 2,83.0,44.0,1085660,"20,000,000 .. 50,000,000",0.0,2019,Free To Play,United States of America
+Rust,69.0,66.0,252490,"20,000,000 .. 50,000,000",39.99,2018,Action,United Kingdom
+Rust,69.0,66.0,252490,"20,000,000 .. 50,000,000",39.99,2018,Adventure,United Kingdom
+Rust,69.0,66.0,252490,"20,000,000 .. 50,000,000",39.99,2018,Indie,United Kingdom
+Rust,69.0,66.0,252490,"20,000,000 .. 50,000,000",39.99,2018,Massively Multiplayer,United Kingdom
+Rust,69.0,66.0,252490,"20,000,000 .. 50,000,000",39.99,2018,RPG,United Kingdom
+ARK: Survival Evolved,70.0,65.0,346110,"20,000,000 .. 50,000,000",14.99,2017,Action,United States of America
+ARK: Survival Evolved,70.0,65.0,346110,"20,000,000 .. 50,000,000",14.99,2017,Adventure,United States of America
+ARK: Survival Evolved,70.0,65.0,346110,"20,000,000 .. 50,000,000",14.99,2017,Indie,United States of America
+ARK: Survival Evolved,70.0,65.0,346110,"20,000,000 .. 50,000,000",14.99,2017,Massively Multiplayer,United States of America
+ARK: Survival Evolved,70.0,65.0,346110,"20,000,000 .. 50,000,000",14.99,2017,RPG,United States of America
+Valheim,,,892970,"20,000,000 .. 50,000,000",19.99,2021,Action,Sweden
+Valheim,,,892970,"20,000,000 .. 50,000,000",19.99,2021,Adventure,Sweden
+Valheim,,,892970,"20,000,000 .. 50,000,000",19.99,2021,Indie,Sweden
+Valheim,,,892970,"20,000,000 .. 50,000,000",19.99,2021,RPG,Sweden
+Valheim,,,892970,"20,000,000 .. 50,000,000",19.99,2021,Early Access,Sweden
+Cyberpunk 2077,86.0,73.0,1091500,"20,000,000 .. 50,000,000",59.99,2020,RPG,Poland
+PAYDAY 2,79.0,42.0,218620,"20,000,000 .. 50,000,000",9.99,2013,Action,Sweden
+PAYDAY 2,79.0,42.0,218620,"20,000,000 .. 50,000,000",9.99,2013,RPG,Sweden
+Grand Theft Auto IV: Complete Edition,90.0,78.0,901583,"20,000,000 .. 50,000,000",0.0,2020,Action,United States of America
+Grand Theft Auto IV: Complete Edition,90.0,78.0,901583,"20,000,000 .. 50,000,000",0.0,2020,Adventure,United States of America
+Path of Exile,86.0,78.0,238960,"20,000,000 .. 50,000,000",0.0,2013,Action,New Zealand
+Path of Exile,86.0,78.0,238960,"20,000,000 .. 50,000,000",0.0,2013,Adventure,New Zealand
+Path of Exile,86.0,78.0,238960,"20,000,000 .. 50,000,000",0.0,2013,Indie,New Zealand
+Path of Exile,86.0,78.0,238960,"20,000,000 .. 50,000,000",0.0,2013,Massively Multiplayer,New Zealand
+Path of Exile,86.0,78.0,238960,"20,000,000 .. 50,000,000",0.0,2013,RPG,New Zealand
+Path of Exile,86.0,78.0,238960,"20,000,000 .. 50,000,000",0.0,2013,Free To Play,New Zealand
+The Forest,83.0,75.0,242760,"20,000,000 .. 50,000,000",19.99,2018,Action,Canada
+The Forest,83.0,75.0,242760,"20,000,000 .. 50,000,000",19.99,2018,Adventure,Canada
+The Forest,83.0,75.0,242760,"20,000,000 .. 50,000,000",19.99,2018,Indie,Canada
+The Forest,83.0,75.0,242760,"20,000,000 .. 50,000,000",19.99,2018,Simulation,Canada
+Don't Starve Together,83.0,79.0,322330,"20,000,000 .. 50,000,000",14.99,2016,Action,Canada
+Don't Starve Together,83.0,79.0,322330,"20,000,000 .. 50,000,000",14.99,2016,Adventure,Canada
+Don't Starve Together,83.0,79.0,322330,"20,000,000 .. 50,000,000",14.99,2016,Indie,Canada
+Don't Starve Together,83.0,79.0,322330,"20,000,000 .. 50,000,000",14.99,2016,RPG,Canada
+Don't Starve Together,83.0,79.0,322330,"20,000,000 .. 50,000,000",14.99,2016,Simulation,Canada
+Don't Starve Together,83.0,79.0,322330,"20,000,000 .. 50,000,000",14.99,2016,Strategy,Canada
+NARAKA: BLADEPOINT,71.0,59.0,1203220,"20,000,000 .. 50,000,000",0.0,2021,Action,China
+NARAKA: BLADEPOINT,71.0,59.0,1203220,"20,000,000 .. 50,000,000",0.0,2021,Adventure,China
+NARAKA: BLADEPOINT,71.0,59.0,1203220,"20,000,000 .. 50,000,000",0.0,2021,Massively Multiplayer,China
+Last Epoch,80.0,61.0,899770,"20,000,000 .. 50,000,000",34.99,2024,Action,United States of America
+Last Epoch,80.0,61.0,899770,"20,000,000 .. 50,000,000",34.99,2024,Adventure,United States of America
+Last Epoch,80.0,61.0,899770,"20,000,000 .. 50,000,000",34.99,2024,Indie,United States of America
+Last Epoch,80.0,61.0,899770,"20,000,000 .. 50,000,000",34.99,2024,RPG,United States of America
+Stardew Valley,89.0,88.0,413150,"20,000,000 .. 50,000,000",14.99,2016,Indie,United States of America
+Stardew Valley,89.0,88.0,413150,"20,000,000 .. 50,000,000",14.99,2016,RPG,United States of America
+Stardew Valley,89.0,88.0,413150,"20,000,000 .. 50,000,000",14.99,2016,Simulation,United States of America
+Half-Life 2: Lost Coast,,78.0,340,"20,000,000 .. 50,000,000",0.0,2005,Action,United States of America
+Dead by Daylight,71.0,55.0,381210,"20,000,000 .. 50,000,000",19.99,2016,Action,Canada
+Among Us,85.0,69.0,945360,"20,000,000 .. 50,000,000",4.99,2018,Casual,United States of America
+Fall Guys: Ultimate Knockout,80.0,70.0,1097150,"20,000,000 .. 50,000,000",0.0,2020,Action,United Kingdom
+Fall Guys: Ultimate Knockout,80.0,70.0,1097150,"20,000,000 .. 50,000,000",0.0,2020,Casual,United Kingdom
+Fall Guys: Ultimate Knockout,80.0,70.0,1097150,"20,000,000 .. 50,000,000",0.0,2020,Indie,United Kingdom
+Fall Guys: Ultimate Knockout,80.0,70.0,1097150,"20,000,000 .. 50,000,000",0.0,2020,Massively Multiplayer,United Kingdom
+Fall Guys: Ultimate Knockout,80.0,70.0,1097150,"20,000,000 .. 50,000,000",0.0,2020,Sports,United Kingdom
+The Witcher 3: Wild Hunt,93.0,91.0,292030,"10,000,000 .. 20,000,000",39.99,2015,RPG,Poland
+Euro Truck Simulator 2,79.0,86.0,227300,"10,000,000 .. 20,000,000",19.99,2012,Indie,Czechia
+Euro Truck Simulator 2,79.0,86.0,227300,"10,000,000 .. 20,000,000",19.99,2012,Simulation,Czechia
+Paladins,83.0,72.0,444090,"10,000,000 .. 20,000,000",0.0,2018,Action,United States of America
+Paladins,83.0,72.0,444090,"10,000,000 .. 20,000,000",0.0,2018,Adventure,United States of America
+Paladins,83.0,72.0,444090,"10,000,000 .. 20,000,000",0.0,2018,Massively Multiplayer,United States of America
+Paladins,83.0,72.0,444090,"10,000,000 .. 20,000,000",0.0,2018,Strategy,United States of America
+Paladins,83.0,72.0,444090,"10,000,000 .. 20,000,000",0.0,2018,Free To Play,United States of America
+World of Warships,81.0,55.0,552990,"10,000,000 .. 20,000,000",0.0,2017,Action,Cyprus
+World of Warships,81.0,55.0,552990,"10,000,000 .. 20,000,000",0.0,2017,Massively Multiplayer,Cyprus
+World of Warships,81.0,55.0,552990,"10,000,000 .. 20,000,000",0.0,2017,Simulation,Cyprus
+World of Warships,81.0,55.0,552990,"10,000,000 .. 20,000,000",0.0,2017,Strategy,Cyprus
+World of Warships,81.0,55.0,552990,"10,000,000 .. 20,000,000",0.0,2017,Free To Play,Cyprus
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Adventure,United States of America
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Casual,United States of America
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Massively Multiplayer,United States of America
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Simulation,United States of America
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Sports,United States of America
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Free To Play,United States of America
+VRChat,,64.0,438100,"10,000,000 .. 20,000,000",0.0,2017,Early Access,United States of America
+Half-Life 2: Deathmatch,,73.0,320,"10,000,000 .. 20,000,000",0.0,2004,Action,United States of America
+Serena,,66.0,272060,"10,000,000 .. 20,000,000",0.0,2014,Adventure,Argentina
+Serena,,66.0,272060,"10,000,000 .. 20,000,000",0.0,2014,Indie,Argentina
+Phasmophobia,,,739630,"10,000,000 .. 20,000,000",19.99,2020,Action,United Kingdom
+Phasmophobia,,,739630,"10,000,000 .. 20,000,000",19.99,2020,Indie,United Kingdom
+Phasmophobia,,,739630,"10,000,000 .. 20,000,000",19.99,2020,Early Access,United Kingdom
+Hogwarts Legacy,83.0,78.0,990080,"10,000,000 .. 20,000,000",59.99,2023,Action,United States of America
+Hogwarts Legacy,83.0,78.0,990080,"10,000,000 .. 20,000,000",59.99,2023,Adventure,United States of America
+Hogwarts Legacy,83.0,78.0,990080,"10,000,000 .. 20,000,000",59.99,2023,RPG,United States of America
+Portal 2,95.0,89.0,620,"10,000,000 .. 20,000,000",9.99,2011,Action,United States of America
+Portal 2,95.0,89.0,620,"10,000,000 .. 20,000,000",9.99,2011,Adventure,United States of America
+Heroes & Generals,,55.0,227940,"10,000,000 .. 20,000,000",0.0,2016,Action,Denmark
+Heroes & Generals,,55.0,227940,"10,000,000 .. 20,000,000",0.0,2016,Free To Play,Denmark
+Heroes & Generals,,55.0,227940,"10,000,000 .. 20,000,000",0.0,2016,Indie,Denmark
+Heroes & Generals,,55.0,227940,"10,000,000 .. 20,000,000",0.0,2016,Massively Multiplayer,Denmark
+Heroes & Generals,,55.0,227940,"10,000,000 .. 20,000,000",0.0,2016,Strategy,Denmark
+Half-Life,96.0,89.0,70,"10,000,000 .. 20,000,000",9.99,1998,Action,United States of America
+Rocket League,86.0,75.0,252950,"10,000,000 .. 20,000,000",0.0,2015,Action,United States of America
+Rocket League,86.0,75.0,252950,"10,000,000 .. 20,000,000",0.0,2015,Indie,United States of America
+Rocket League,86.0,75.0,252950,"10,000,000 .. 20,000,000",0.0,2015,Racing,United States of America
+Rocket League,86.0,75.0,252950,"10,000,000 .. 20,000,000",0.0,2015,Sports,United States of America
+Lethal Company,,,1966720,"10,000,000 .. 20,000,000",9.99,2023,Action,United States of America
+Lethal Company,,,1966720,"10,000,000 .. 20,000,000",9.99,2023,Adventure,United States of America
+Lethal Company,,,1966720,"10,000,000 .. 20,000,000",9.99,2023,Indie,United States of America
+Lethal Company,,,1966720,"10,000,000 .. 20,000,000",9.99,2023,Early Access,United States of America
+Battlefield 2042,68.0,23.0,1517290,"10,000,000 .. 20,000,000",59.99,2021,Action,Sweden
+Battlefield 2042,68.0,23.0,1517290,"10,000,000 .. 20,000,000",59.99,2021,Adventure,Sweden
+Battlefield 2042,68.0,23.0,1517290,"10,000,000 .. 20,000,000",59.99,2021,Casual,Sweden
+Halo Infinite,80.0,70.0,1240440,"10,000,000 .. 20,000,000",0.0,2021,Action,United States of America
+Halo Infinite,80.0,70.0,1240440,"10,000,000 .. 20,000,000",0.0,2021,Free To Play,United States of America
+Monster Hunter: World,88.0,69.0,582010,"10,000,000 .. 20,000,000",29.99,2018,Action,Japan
+Counter-Strike: Source,88.0,82.0,240,"10,000,000 .. 20,000,000",9.99,2004,Action,United States of America
+Project Zomboid,,76.0,108600,"10,000,000 .. 20,000,000",13.39,2013,Indie,United Kingdom
+Project Zomboid,,76.0,108600,"10,000,000 .. 20,000,000",13.39,2013,RPG,United Kingdom
+Project Zomboid,,76.0,108600,"10,000,000 .. 20,000,000",13.39,2013,Simulation,United Kingdom
+Project Zomboid,,76.0,108600,"10,000,000 .. 20,000,000",13.39,2013,Early Access,United Kingdom
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,Action,United States of America
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,Adventure,United States of America
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,Casual,United States of America
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,Massively Multiplayer,United States of America
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,RPG,United States of America
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,Strategy,United States of America
+SMITE,83.0,79.0,386360,"10,000,000 .. 20,000,000",0.0,2015,Free To Play,United States of America
+Counter-Strike,88.0,85.0,10,"10,000,000 .. 20,000,000",9.99,2000,Action,United States of America
+Raft,,74.0,648800,"10,000,000 .. 20,000,000",19.99,2022,Adventure,Sweden
+Raft,,74.0,648800,"10,000,000 .. 20,000,000",19.99,2022,Indie,Sweden
+Raft,,74.0,648800,"10,000,000 .. 20,000,000",19.99,2022,Simulation,Sweden
+鬼谷八荒 Tale of Immortal,,78.0,1468810,"10,000,000 .. 20,000,000",19.99,2023,Action,China
+鬼谷八荒 Tale of Immortal,,78.0,1468810,"10,000,000 .. 20,000,000",19.99,2023,Adventure,China
+鬼谷八荒 Tale of Immortal,,78.0,1468810,"10,000,000 .. 20,000,000",19.99,2023,Indie,China
+鬼谷八荒 Tale of Immortal,,78.0,1468810,"10,000,000 .. 20,000,000",19.99,2023,RPG,China
+鬼谷八荒 Tale of Immortal,,78.0,1468810,"10,000,000 .. 20,000,000",19.99,2023,Simulation,China
+World of Tanks Blitz,,,444200,"10,000,000 .. 20,000,000",0.0,2016,Action,Cyprus
+World of Tanks Blitz,,,444200,"10,000,000 .. 20,000,000",0.0,2016,Massively Multiplayer,Cyprus
+World of Tanks Blitz,,,444200,"10,000,000 .. 20,000,000",0.0,2016,Simulation,Cyprus
+World of Tanks Blitz,,,444200,"10,000,000 .. 20,000,000",0.0,2016,Strategy,Cyprus
+World of Tanks Blitz,,,444200,"10,000,000 .. 20,000,000",0.0,2016,Free To Play,Cyprus
+Ring of Elysium,,64.0,755790,"10,000,000 .. 20,000,000",0.0,2019,Action,China
+Ring of Elysium,,64.0,755790,"10,000,000 .. 20,000,000",0.0,2019,Free To Play,China
+Ring of Elysium,,64.0,755790,"10,000,000 .. 20,000,000",0.0,2019,Massively Multiplayer,China
+Red Dead Redemption 2,93.0,72.0,1174180,"10,000,000 .. 20,000,000",14.99,2019,Action,United States of America
+Red Dead Redemption 2,93.0,72.0,1174180,"10,000,000 .. 20,000,000",14.99,2019,Adventure,United States of America
+The Binding of Isaac: Rebirth,84.0,83.0,250900,"10,000,000 .. 20,000,000",14.99,2014,Action,United States of America
+Black Squad,,47.0,550650,"10,000,000 .. 20,000,000",0.0,2019,Action,Thailand
+Black Squad,,47.0,550650,"10,000,000 .. 20,000,000",0.0,2019,Free To Play,Thailand
+Hollow Knight,87.0,91.0,367520,"10,000,000 .. 20,000,000",14.99,2017,Action,Australia
+Hollow Knight,87.0,91.0,367520,"10,000,000 .. 20,000,000",14.99,2017,Adventure,Australia
+Hollow Knight,87.0,91.0,367520,"10,000,000 .. 20,000,000",14.99,2017,Indie,Australia
+Robocraft,,47.0,301520,"10,000,000 .. 20,000,000",0.0,2017,Action,England
+Robocraft,,47.0,301520,"10,000,000 .. 20,000,000",0.0,2017,Indie,England
+Robocraft,,47.0,301520,"10,000,000 .. 20,000,000",0.0,2017,Massively Multiplayer,England
+Robocraft,,47.0,301520,"10,000,000 .. 20,000,000",0.0,2017,RPG,England
+Robocraft,,47.0,301520,"10,000,000 .. 20,000,000",0.0,2017,Simulation,England
+Robocraft,,47.0,301520,"10,000,000 .. 20,000,000",0.0,2017,Free To Play,England
+Dying Light,80.0,74.0,239140,"10,000,000 .. 20,000,000",8.99,2025,Action,Poland
+Dying Light,80.0,74.0,239140,"10,000,000 .. 20,000,000",8.99,2025,RPG,Poland
+Human Fall Flat,70.0,73.0,477160,"10,000,000 .. 20,000,000",19.99,2016,Adventure,Lithuania
+Human Fall Flat,70.0,73.0,477160,"10,000,000 .. 20,000,000",19.99,2016,Casual,Lithuania
+Human Fall Flat,70.0,73.0,477160,"10,000,000 .. 20,000,000",19.99,2016,Indie,Lithuania
+Human Fall Flat,70.0,73.0,477160,"10,000,000 .. 20,000,000",19.99,2016,Simulation,Lithuania
+7 Days to Die,,82.0,251570,"10,000,000 .. 20,000,000",44.99,2024,Action,United States of America
+7 Days to Die,,82.0,251570,"10,000,000 .. 20,000,000",44.99,2024,Adventure,United States of America
+7 Days to Die,,82.0,251570,"10,000,000 .. 20,000,000",44.99,2024,Indie,United States of America
+7 Days to Die,,82.0,251570,"10,000,000 .. 20,000,000",44.99,2024,RPG,United States of America
+7 Days to Die,,82.0,251570,"10,000,000 .. 20,000,000",44.99,2024,Simulation,United States of America
+7 Days to Die,,82.0,251570,"10,000,000 .. 20,000,000",44.99,2024,Strategy,United States of America
+Sekiro: Shadows Die Twice - GOTY Edition,88.0,83.0,814380,"10,000,000 .. 20,000,000",59.99,2019,Action,Japan
+Sekiro: Shadows Die Twice - GOTY Edition,88.0,83.0,814380,"10,000,000 .. 20,000,000",59.99,2019,Adventure,Japan
+The Sims 4,70.0,44.0,1222670,"10,000,000 .. 20,000,000",0.0,2020,Adventure,United States of America
+The Sims 4,70.0,44.0,1222670,"10,000,000 .. 20,000,000",0.0,2020,Casual,United States of America
+The Sims 4,70.0,44.0,1222670,"10,000,000 .. 20,000,000",0.0,2020,Simulation,United States of America
+The Sims 4,70.0,44.0,1222670,"10,000,000 .. 20,000,000",0.0,2020,Free To Play,United States of America
+Street Warriors Online,,,417910,"10,000,000 .. 20,000,000",1.99,2016,Action,Poland
+Street Warriors Online,,,417910,"10,000,000 .. 20,000,000",1.99,2016,Massively Multiplayer,Poland
+Street Warriors Online,,,417910,"10,000,000 .. 20,000,000",1.99,2016,Simulation,Poland
+Street Warriors Online,,,417910,"10,000,000 .. 20,000,000",1.99,2016,Sports,Poland
+H1Z1 Battle Royale,70.0,41.0,433850,"10,000,000 .. 20,000,000",0.0,2018,Action,United States of America
+H1Z1 Battle Royale,70.0,41.0,433850,"10,000,000 .. 20,000,000",0.0,2018,Adventure,United States of America
+H1Z1 Battle Royale,70.0,41.0,433850,"10,000,000 .. 20,000,000",0.0,2018,Free To Play,United States of America
+H1Z1 Battle Royale,70.0,41.0,433850,"10,000,000 .. 20,000,000",0.0,2018,Massively Multiplayer,United States of America
+Hunt: Showdown 1896,81.0,72.0,594650,"10,000,000 .. 20,000,000",29.99,2019,Action,Germany
+Half-Life 2,96.0,91.0,220,"10,000,000 .. 20,000,000",9.99,2004,Action,United States of America
+Warframe,69.0,82.0,230410,"10,000,000 .. 20,000,000",0.0,2013,Action,Canada
+Warframe,69.0,82.0,230410,"10,000,000 .. 20,000,000",0.0,2013,RPG,Canada
+Warframe,69.0,82.0,230410,"10,000,000 .. 20,000,000",0.0,2013,Free To Play,Canada
+Grim Dawn,83.0,84.0,219990,"10,000,000 .. 20,000,000",24.99,2016,Action,United States of America
+Grim Dawn,83.0,84.0,219990,"10,000,000 .. 20,000,000",24.99,2016,Adventure,United States of America
+Grim Dawn,83.0,84.0,219990,"10,000,000 .. 20,000,000",24.99,2016,Indie,United States of America
+Grim Dawn,83.0,84.0,219990,"10,000,000 .. 20,000,000",24.99,2016,RPG,United States of America
+Mount & Blade II: Bannerlord,77.0,80.0,261550,"10,000,000 .. 20,000,000",49.99,2022,Action,Turkey
+Mount & Blade II: Bannerlord,77.0,80.0,261550,"10,000,000 .. 20,000,000",49.99,2022,Indie,Turkey
+Mount & Blade II: Bannerlord,77.0,80.0,261550,"10,000,000 .. 20,000,000",49.99,2022,RPG,Turkey
+Mount & Blade II: Bannerlord,77.0,80.0,261550,"10,000,000 .. 20,000,000",49.99,2022,Simulation,Turkey
+Mount & Blade II: Bannerlord,77.0,80.0,261550,"10,000,000 .. 20,000,000",49.99,2022,Strategy,Turkey
+Sid Meier's Civilization V,90.0,81.0,8930,"10,000,000 .. 20,000,000",29.99,2010,Strategy,United States of America
+Trove,,69.0,304050,"10,000,000 .. 20,000,000",0.0,2015,Action,United States of America
+Trove,,69.0,304050,"10,000,000 .. 20,000,000",0.0,2015,Adventure,United States of America
+Trove,,69.0,304050,"10,000,000 .. 20,000,000",0.0,2015,Casual,United States of America
+Trove,,69.0,304050,"10,000,000 .. 20,000,000",0.0,2015,Massively Multiplayer,United States of America
+Trove,,69.0,304050,"10,000,000 .. 20,000,000",0.0,2015,RPG,United States of America
+Trove,,69.0,304050,"10,000,000 .. 20,000,000",0.0,2015,Free To Play,United States of America
+Arma 3,74.0,76.0,107410,"10,000,000 .. 20,000,000",29.99,2013,Action,Czechia
+Arma 3,74.0,76.0,107410,"10,000,000 .. 20,000,000",29.99,2013,Simulation,Czechia
+Arma 3,74.0,76.0,107410,"10,000,000 .. 20,000,000",29.99,2013,Strategy,Czechia
+Fallout 4,84.0,57.0,377160,"10,000,000 .. 20,000,000",19.99,2015,RPG,United States of America
+Life is Strange 2,70.0,62.0,532210,"10,000,000 .. 20,000,000",0.0,2018,Adventure,France
+Cities: Skylines,85.0,86.0,255710,"10,000,000 .. 20,000,000",29.99,2015,Simulation,Finland
+Cities: Skylines,85.0,86.0,255710,"10,000,000 .. 20,000,000",29.99,2015,Strategy,Finland
+Sons Of The Forest,86.0,73.0,1326470,"10,000,000 .. 20,000,000",29.99,2024,Action,Canada
+Sons Of The Forest,86.0,73.0,1326470,"10,000,000 .. 20,000,000",29.99,2024,Adventure,Canada
+Sons Of The Forest,86.0,73.0,1326470,"10,000,000 .. 20,000,000",29.99,2024,Indie,Canada
+Sons Of The Forest,86.0,73.0,1326470,"10,000,000 .. 20,000,000",29.99,2024,Simulation,Canada
+Sid Meier’s Civilization VI,88.0,72.0,289070,"10,000,000 .. 20,000,000",59.99,2016,Strategy,United States of America
+Satisfactory,91.0,88.0,526870,"5,000,000 .. 10,000,000",39.99,2024,Adventure,Sweden
+Satisfactory,91.0,88.0,526870,"5,000,000 .. 10,000,000",39.99,2024,Indie,Sweden
+Satisfactory,91.0,88.0,526870,"5,000,000 .. 10,000,000",39.99,2024,Simulation,Sweden
+Satisfactory,91.0,88.0,526870,"5,000,000 .. 10,000,000",39.99,2024,Strategy,Sweden
+Battlefield V,81.0,35.0,1238810,"5,000,000 .. 10,000,000",49.99,2020,Action,Sweden
+Ricochet,,,60,"5,000,000 .. 10,000,000",4.99,2000,Action,United States of America
+DayZ,,53.0,221100,"5,000,000 .. 10,000,000",24.99,2018,Action,Czechia
+DayZ,,53.0,221100,"5,000,000 .. 10,000,000",24.99,2018,Adventure,Czechia
+DayZ,,53.0,221100,"5,000,000 .. 10,000,000",24.99,2018,Massively Multiplayer,Czechia
+NBA 2K20,74.0,14.0,1089350,"5,000,000 .. 10,000,000",0.0,2019,Simulation,United States of America
+NBA 2K20,74.0,14.0,1089350,"5,000,000 .. 10,000,000",0.0,2019,Sports,United States of America
+Castle Crashers,,84.0,204360,"5,000,000 .. 10,000,000",14.99,2012,Action,United States of America
+Castle Crashers,,84.0,204360,"5,000,000 .. 10,000,000",14.99,2012,Adventure,United States of America
+Castle Crashers,,84.0,204360,"5,000,000 .. 10,000,000",14.99,2012,Casual,United States of America
+Castle Crashers,,84.0,204360,"5,000,000 .. 10,000,000",14.99,2012,Indie,United States of America
+Castle Crashers,,84.0,204360,"5,000,000 .. 10,000,000",14.99,2012,RPG,United States of America
+Risk of Rain 2,85.0,83.0,632360,"5,000,000 .. 10,000,000",24.99,2020,Action,United States of America
+Risk of Rain 2,85.0,83.0,632360,"5,000,000 .. 10,000,000",24.99,2020,Indie,United States of America
+The Tiny Bang Story,63.0,70.0,96000,"5,000,000 .. 10,000,000",4.99,2011,Adventure,Germany
+The Tiny Bang Story,63.0,70.0,96000,"5,000,000 .. 10,000,000",4.99,2011,Casual,Germany
+The Tiny Bang Story,63.0,70.0,96000,"5,000,000 .. 10,000,000",4.99,2011,Indie,Germany
+No Man's Sky,61.0,41.0,275850,"5,000,000 .. 10,000,000",23.99,2016,Action,United Kingdom
+No Man's Sky,61.0,41.0,275850,"5,000,000 .. 10,000,000",23.99,2016,Adventure,United Kingdom
+EA SPORTS FIFA 23,77.0,22.0,1811260,"5,000,000 .. 10,000,000",0.0,2022,Simulation,United States of America
+EA SPORTS FIFA 23,77.0,22.1,1811260,"5,000,000 .. 10,000,000",0.0,2022,Sports,United States of America
+Geometry Dash,,84.0,322170,"5,000,000 .. 10,000,000",4.99,2014,Action,Sweden
+Geometry Dash,,84.0,322170,"5,000,000 .. 10,000,000",4.99,2014,Indie,Sweden

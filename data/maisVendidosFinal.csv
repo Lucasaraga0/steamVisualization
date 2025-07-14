@@ -1,0 +1,101 @@
+app_id,name,metacritic_metascore,metacritic_user_score,owners,price_usd,release_year,country,genres
+10,Counter-Strike,88.0,85.0,"10,000,000 .. 20,000,000",9.99,2000,United States of America,Action
+60,Ricochet,,,"5,000,000 .. 10,000,000",4.99,2000,United States of America,Action
+70,Half-Life,96.0,89.0,"10,000,000 .. 20,000,000",9.99,1998,United States of America,Action
+220,Half-Life 2,96.0,91.0,"10,000,000 .. 20,000,000",9.99,2004,United States of America,Action
+240,Counter-Strike: Source,88.0,82.0,"10,000,000 .. 20,000,000",9.99,2004,United States of America,Action
+320,Half-Life 2: Deathmatch,,73.0,"10,000,000 .. 20,000,000",0.0,2004,United States of America,Action
+340,Half-Life 2: Lost Coast,,78.0,"20,000,000 .. 50,000,000",0.0,2005,United States of America,Action
+440,Team Fortress 2,92.0,86.0,"20,000,000 .. 50,000,000",0.0,2007,United States of America,"Action, Free To Play"
+550,Left 4 Dead 2,89.0,84.0,"50,000,000 .. 100,000,000",0.99,2009,United States of America,Action
+570,Dota 2,90.0,65.0,"200,000,000 .. 500,000,000",0.0,2013,United States of America,"Action, Free To Play, Strategy"
+620,Portal 2,95.0,89.0,"10,000,000 .. 20,000,000",9.99,2011,United States of America,"Action, Adventure"
+730,Counter-Strike: Global Offensive,83.0,73.0,"100,000,000 .. 200,000,000",0.0,2012,United States of America,"Action, Free To Play"
+4000,Garry's Mod,,88.0,"20,000,000 .. 50,000,000",5.99,2006,United Kingdom,"Casual, Indie, Simulation"
+8930,Sid Meier's Civilization V,90.0,81.0,"10,000,000 .. 20,000,000",29.99,2010,United States of America,Strategy
+96000,The Tiny Bang Story,63.0,70.0,"5,000,000 .. 10,000,000",4.99,2011,Germany,"Adventure, Casual, Indie"
+105600,Terraria,83.0,88.0,"20,000,000 .. 50,000,000",9.99,2011,United States of America,"Action, Adventure, Indie, RPG"
+107410,Arma 3,74.0,76.0,"10,000,000 .. 20,000,000",29.99,2013,Czechia,"Action, Simulation, Strategy"
+108600,Project Zomboid,,76.0,"10,000,000 .. 20,000,000",13.39,2013,United Kingdom,"Early Access, Indie, RPG, Simulation"
+204360,Castle Crashers,,84.0,"5,000,000 .. 10,000,000",14.99,2012,United States of America,"Action, Adventure, Casual, Indie, RPG"
+218620,PAYDAY 2,79.0,42.0,"20,000,000 .. 50,000,000",9.99,2013,Sweden,"Action, RPG"
+219990,Grim Dawn,83.0,84.0,"10,000,000 .. 20,000,000",24.99,2016,United States of America,"Action, Adventure, Indie, RPG"
+221100,DayZ,,53.0,"5,000,000 .. 10,000,000",24.99,2018,Czechia,"Action, Adventure, Massively Multiplayer"
+227300,Euro Truck Simulator 2,79.0,86.0,"10,000,000 .. 20,000,000",19.99,2012,Czechia,"Indie, Simulation"
+227940,Heroes & Generals,,55.0,"10,000,000 .. 20,000,000",0.0,2016,Denmark,"Action, Free To Play, Indie, Massively Multiplayer, Strategy"
+230410,Warframe,69.0,82.0,"10,000,000 .. 20,000,000",0.0,2013,Canada,"Action, Free To Play, RPG"
+236390,War Thunder,81.0,38.0,"20,000,000 .. 50,000,000",0.0,2013,Russia,"Action, Free To Play, Massively Multiplayer, Simulation"
+238960,Path of Exile,86.0,78.0,"20,000,000 .. 50,000,000",0.0,2013,New Zealand,"Action, Adventure, Free To Play, Indie, Massively Multiplayer, RPG"
+239140,Dying Light,80.0,74.0,"10,000,000 .. 20,000,000",8.99,2025,Poland,"Action, RPG"
+242760,The Forest,83.0,75.0,"20,000,000 .. 50,000,000",19.99,2018,Canada,"Action, Adventure, Indie, Simulation"
+250900,The Binding of Isaac: Rebirth,84.0,83.0,"10,000,000 .. 20,000,000",14.99,2014,United States of America,Action
+251570,7 Days to Die,,82.0,"10,000,000 .. 20,000,000",44.99,2024,United States of America,"Action, Adventure, Indie, RPG, Simulation, Strategy"
+252490,Rust,69.0,66.0,"20,000,000 .. 50,000,000",39.99,2018,United Kingdom,"Action, Adventure, Indie, Massively Multiplayer, RPG"
+252950,Rocket League,86.0,75.0,"10,000,000 .. 20,000,000",0.0,2015,United States of America,"Action, Indie, Racing, Sports"
+255710,Cities: Skylines,85.0,86.0,"10,000,000 .. 20,000,000",29.99,2015,Finland,"Simulation, Strategy"
+261550,Mount & Blade II: Bannerlord,77.0,80.0,"10,000,000 .. 20,000,000",49.99,2022,Turkey,"Action, Indie, RPG, Simulation, Strategy"
+271590,Grand Theft Auto V Legacy,96.0,79.0,"50,000,000 .. 100,000,000",0.0,2015,United States of America,"Action, Adventure"
+272060,Serena,,66.0,"10,000,000 .. 20,000,000",0.0,2014,Argentina,"Adventure, Indie"
+275850,No Man's Sky,61.0,41.0,"5,000,000 .. 10,000,000",23.99,2016,United Kingdom,"Action, Adventure"
+289070,Sid Meier’s Civilization VI,88.0,72.0,"10,000,000 .. 20,000,000",59.99,2016,United States of America,Strategy
+291550,Brawlhalla,,68.0,"20,000,000 .. 50,000,000",0.0,2017,United States of America,"Action, Free To Play, Indie"
+292030,The Witcher 3: Wild Hunt,93.0,91.0,"10,000,000 .. 20,000,000",39.99,2015,Poland,RPG
+301520,Robocraft,,47.0,"10,000,000 .. 20,000,000",0.0,2017,England,"Action, Free To Play, Indie, Massively Multiplayer, RPG, Simulation"
+304050,Trove,,69.0,"10,000,000 .. 20,000,000",0.0,2015,United States of America,"Action, Adventure, Casual, Free To Play, Massively Multiplayer, RPG"
+304930,Unturned,,72.0,"50,000,000 .. 100,000,000",0.0,2017,Canada,"Action, Adventure, Casual, Free To Play, Indie"
+322170,Geometry Dash,,84.0,"5,000,000 .. 10,000,000",4.99,2014,Sweden,"Action, Indie"
+322330,Don't Starve Together,83.0,79.0,"20,000,000 .. 50,000,000",14.99,2016,Canada,"Action, Adventure, Indie, RPG, Simulation, Strategy"
+346110,ARK: Survival Evolved,70.0,65.0,"20,000,000 .. 50,000,000",14.99,2017,United States of America,"Action, Adventure, Indie, Massively Multiplayer, RPG"
+359550,Tom Clancy's Rainbow Six Siege,79.0,70.0,"20,000,000 .. 50,000,000",7.99,2015,France,Action
+367520,Hollow Knight,87.0,91.0,"10,000,000 .. 20,000,000",14.99,2017,Australia,"Action, Adventure, Indie"
+377160,Fallout 4,84.0,57.0,"10,000,000 .. 20,000,000",19.99,2015,United States of America,RPG
+381210,Dead by Daylight,71.0,55.0,"20,000,000 .. 50,000,000",19.99,2016,Canada,Action
+386360,SMITE,83.0,79.0,"10,000,000 .. 20,000,000",0.0,2015,United States of America,"Action, Adventure, Casual, Free To Play, Massively Multiplayer, RPG, Strategy"
+413150,Stardew Valley,89.0,88.0,"20,000,000 .. 50,000,000",14.99,2016,United States of America,"Indie, RPG, Simulation"
+417910,Street Warriors Online,,,"10,000,000 .. 20,000,000",1.99,2016,Poland,"Action, Massively Multiplayer, Simulation, Sports"
+431960,Wallpaper Engine,,,"20,000,000 .. 50,000,000",4.99,2018,Germany,"Animation & Modeling, Casual, Design & Illustration, Indie, Photo Editing, Utilities"
+433850,H1Z1 Battle Royale,70.0,41.0,"10,000,000 .. 20,000,000",0.0,2018,United States of America,"Action, Adventure, Free To Play, Massively Multiplayer"
+438100,VRChat,,64.0,"10,000,000 .. 20,000,000",0.0,2017,United States of America,"Adventure, Casual, Early Access, Free To Play, Massively Multiplayer, Simulation, Sports"
+444090,Paladins,83.0,72.0,"10,000,000 .. 20,000,000",0.0,2018,United States of America,"Action, Adventure, Free To Play, Massively Multiplayer, Strategy"
+444200,World of Tanks Blitz,,,"10,000,000 .. 20,000,000",0.0,2016,Cyprus,"Action, Free To Play, Massively Multiplayer, Simulation, Strategy"
+477160,Human Fall Flat,70.0,73.0,"10,000,000 .. 20,000,000",19.99,2016,Lithuania,"Adventure, Casual, Indie, Simulation"
+526870,Satisfactory,91.0,88.0,"5,000,000 .. 10,000,000",39.99,2024,Sweden,"Adventure, Indie, Simulation, Strategy"
+532210,Life is Strange 2,70.0,62.0,"10,000,000 .. 20,000,000",0.0,2018,France,Adventure
+550650,Black Squad,,47.0,"10,000,000 .. 20,000,000",0.0,2019,Thailand,"Action, Free To Play"
+552990,World of Warships,81.0,55.0,"10,000,000 .. 20,000,000",0.0,2017,Cyprus,"Action, Free To Play, Massively Multiplayer, Simulation, Strategy"
+553850,HELLDIVERS 2,83.0,66.0,"50,000,000 .. 100,000,000",39.99,2024,Sweden,Action
+578080,PUBG: BATTLEGROUNDS,86.0,49.0,"50,000,000 .. 100,000,000",0.0,2017,South Korea,"Action, Adventure, Free To Play, Massively Multiplayer"
+582010,Monster Hunter: World,88.0,69.0,"10,000,000 .. 20,000,000",29.99,2018,Japan,Action
+594650,Hunt: Showdown 1896,81.0,72.0,"10,000,000 .. 20,000,000",29.99,2019,Germany,Action
+632360,Risk of Rain 2,85.0,83.0,"5,000,000 .. 10,000,000",24.99,2020,United States of America,"Action, Indie"
+648800,Raft,,74.0,"10,000,000 .. 20,000,000",19.99,2022,Sweden,"Adventure, Indie, Simulation"
+739630,Phasmophobia,,,"10,000,000 .. 20,000,000",19.99,2020,United Kingdom,"Action, Early Access, Indie"
+755790,Ring of Elysium,,64.0,"10,000,000 .. 20,000,000",0.0,2019,China,"Action, Free To Play, Massively Multiplayer"
+814380,Sekiro: Shadows Die Twice - GOTY Edition,88.0,83.0,"10,000,000 .. 20,000,000",59.99,2019,Japan,"Action, Adventure"
+892970,Valheim,,,"20,000,000 .. 50,000,000",19.99,2021,Sweden,"Action, Adventure, Early Access, Indie, RPG"
+899770,Last Epoch,80.0,61.0,"20,000,000 .. 50,000,000",34.99,2024,United States of America,"Action, Adventure, Indie, RPG"
+901583,Grand Theft Auto IV: Complete Edition,90.0,78.0,"20,000,000 .. 50,000,000",0.0,2020,United States of America,"Action, Adventure"
+945360,Among Us,85.0,69.0,"20,000,000 .. 50,000,000",4.99,2018,United States of America,Casual
+990080,Hogwarts Legacy,83.0,78.0,"10,000,000 .. 20,000,000",59.99,2023,United States of America,"Action, Adventure, RPG"
+1063730,New World: Aeternum,75.0,68.0,"50,000,000 .. 100,000,000",59.99,2021,United States of America,"Action, Adventure, Massively Multiplayer, RPG"
+1085660,Destiny 2,83.0,44.0,"20,000,000 .. 50,000,000",0.0,2019,United States of America,"Action, Adventure, Free To Play"
+1086940,Baldur's Gate 3,96.0,92.0,"20,000,000 .. 50,000,000",59.99,2023,Belgium,"Adventure, RPG, Strategy"
+1089350,NBA 2K20,74.0,14.0,"5,000,000 .. 10,000,000",0.0,2019,United States of America,"Simulation, Sports"
+1091500,Cyberpunk 2077,86.0,73.0,"20,000,000 .. 50,000,000",59.99,2020,Poland,RPG
+1097150,Fall Guys: Ultimate Knockout,80.0,70.0,"20,000,000 .. 50,000,000",0.0,2020,United Kingdom,"Action, Casual, Indie, Massively Multiplayer, Sports"
+1172470,Apex Legends,88.0,59.0,"50,000,000 .. 100,000,000",0.0,2020,United States of America,"Action, Adventure, Free To Play"
+1174180,Red Dead Redemption 2,93.0,72.0,"10,000,000 .. 20,000,000",14.99,2019,United States of America,"Action, Adventure"
+1203220,NARAKA: BLADEPOINT,71.0,59.0,"20,000,000 .. 50,000,000",0.0,2021,China,"Action, Adventure, Massively Multiplayer"
+1222670,The Sims 4,70.0,44.0,"10,000,000 .. 20,000,000",0.0,2020,United States of America,"Adventure, Casual, Free To Play, Simulation"
+1238810,Battlefield V,81.0,35.0,"5,000,000 .. 10,000,000",49.99,2020,Sweden,Action
+1240440,Halo Infinite,80.0,70.0,"10,000,000 .. 20,000,000",0.0,2021,United States of America,"Action, Free To Play"
+1245620,ELDEN RING,94.0,74.0,"20,000,000 .. 50,000,000",59.99,2022,Japan,"Action, RPG"
+1326470,Sons Of The Forest,86.0,73.0,"10,000,000 .. 20,000,000",29.99,2024,Canada,"Action, Adventure, Indie, Simulation"
+1468810,鬼谷八荒 Tale of Immortal,,78.0,"10,000,000 .. 20,000,000",19.99,2023,China,"Action, Adventure, Indie, RPG, Simulation"
+1517290,Battlefield 2042,68.0,23.0,"10,000,000 .. 20,000,000",59.99,2021,Sweden,"Action, Adventure, Casual"
+1599340,Lost Ark,81.0,47.0,"50,000,000 .. 100,000,000",0.0,2022,South Korea,"Action, Adventure, Free To Play, Massively Multiplayer, RPG"
+1623730,Palworld,,,"50,000,000 .. 100,000,000",29.99,2024,Japan,"Action, Adventure, Early Access, Indie, RPG"
+1811260,EA SPORTS FIFA 23,77.0,22.0,"5,000,000 .. 10,000,000",0.0,2022,United States of America,"Simulation, Sports"
+1938090,Call of Duty: Modern Warfare II,79.0,46.0,"50,000,000 .. 100,000,000",0.0,2022,United States of America,Action
+1966720,Lethal Company,,,"10,000,000 .. 20,000,000",9.99,2023,United States of America,"Action, Adventure, Early Access, Indie"
+2358720,Black Myth: Wukong,81.0,82.0,"50,000,000 .. 100,000,000",59.99,2024,China,"Action, Adventure, RPG"

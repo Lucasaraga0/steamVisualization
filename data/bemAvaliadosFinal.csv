@@ -1,0 +1,101 @@
+app_id,name,metacritic_metascore,metacritic_user_score,reviews_count,price_usd,release_year,country,genres
+10,Counter-Strike,88.0,85.0,160058,9.99,2000,United States of America,Action
+70,Half-Life,96.0,89.0,104850,9.99,1998,United States of America,Action
+220,Half-Life 2,96.0,91.0,180470,9.99,2004,United States of America,Action
+240,Counter-Strike: Source,88.0,82.0,126166,9.99,2004,United States of America,Action
+400,Portal,90.0,88.0,153074,1.99,2007,United States of America,Action
+550,Left 4 Dead 2,89.0,84.0,732428,0.99,2009,United States of America,Action
+620,Portal 2,95.0,89.0,359554,1.99,2011,United States of America,"Action, Adventure"
+3590,Plants vs. Zombies GOTY Edition,87.0,86.0,128250,4.99,2009,United States of America,Strategy
+4000,Garry's Mod,,88.0,996840,5.99,2006,United Kingdom,"Casual, Indie, Simulation"
+8930,Sid Meier's Civilization® V,90.0,81.0,123870,29.99,2010,United States of America,Strategy
+22380,Fallout: New Vegas,84.0,88.0,182667,9.99,2010,United States of America,"Action, RPG"
+48700,Mount & Blade: Warband,78.0,88.0,130809,19.99,2010,Turkey,"Action, RPG"
+105600,Terraria,83.0,88.0,1120927,9.99,2011,United States of America,"Action, Adventure, Indie, RPG"
+203160,Tomb Raider,86.0,84.0,155265,14.99,2013,United States of America,"Action, Adventure"
+204360,Castle Crashers®,,84.0,96422,14.99,2012,United States of America,"Action, Adventure, Casual, Indie, RPG"
+205100,Dishonored,91.0,85.0,62357,9.99,2012,France,"Action, Adventure"
+206440,To the Moon,81.0,89.0,63543,2.99,2012,Canada,"Adventure, Indie, RPG"
+219150,Hotline Miami,85.0,85.0,90010,1.99,2012,Sweden,"Action, Indie"
+219740,Don't Starve,79.0,82.0,93359,9.99,2013,Canada,"Adventure, Indie, Simulation"
+220200,Kerbal Space Program,88.0,83.0,103281,39.99,2015,Brazil,"Indie, Simulation"
+221380,Age of Empires II (Retired),92.0,90.0,83417,19.99,2013,United States of America,Strategy
+223470,POSTAL 2,50.0,81.0,98660,9.99,2012,United States of America,"Action, Adventure, Indie"
+227300,Euro Truck Simulator 2,79.0,86.0,685799,19.99,2012,Czechia,"Indie, Simulation"
+233860,Kenshi,75.0,84.0,82424,29.99,2018,United Kingdom,"Action, Indie, RPG, Simulation, Strategy"
+235460,METAL GEAR RISING: REVENGEANCE,83.0,83.0,64782,29.99,2014,Japan,Action
+238320,Outlast,80.0,81.0,92631,19.99,2013,Canada,"Action, Adventure, Indie"
+239030,"Papers, Please",85.0,85.0,67364,9.99,2013,United States of America,"Adventure, Indie"
+239140,Dying Light,80.0,74.0,342204,8.99,2025,Poland,"Action, RPG"
+242760,The Forest,83.0,75.0,533126,19.99,2018,Canada,"Action, Adventure, Indie, Simulation"
+250900,The Binding of Isaac: Rebirth,84.0,83.0,310107,14.99,2014,United States of America,Action
+264710,Subnautica,87.0,86.0,282436,29.99,2018,United States of America,"Adventure, Indie"
+268910,Cuphead,88.0,84.0,166421,19.99,2017,Canada,"Action, Indie"
+270880,American Truck Simulator,76.0,75.0,146231,19.99,2016,Czechia,"Indie, Simulation"
+284160,BeamNG.drive,,89.0,296115,24.99,2015,Germany,"Early Access, Racing, Simulation"
+292030,The Witcher 3: Wild Hunt,93.0,91.0,771818,39.99,2015,Poland,RPG
+294100,RimWorld,87.0,88.0,177928,34.99,2018,Canada,"Indie, Simulation, Strategy"
+311690,Enter the Gungeon,84.0,80.0,75496,14.99,2016,United States of America,"Action, Adventure, Indie"
+319630,Life is Strange - Episode 1,77.0,86.0,120101,0.0,2015,France,"Action, Adventure"
+322330,Don't Starve Together,83.0,79.0,341198,14.99,2016,Canada,"Action, Adventure, Indie, RPG, Simulation, Strategy"
+362890,Black Mesa,84.0,87.0,118304,19.99,2020,United States of America,"Action, Adventure, Indie"
+367520,Hollow Knight,87.0,91.0,369906,14.99,2017,Australia,"Action, Adventure, Indie"
+379720,DOOM,85.0,85.0,142324,19.99,2016,United States of America,Action
+391540,Undertale,92.0,86.0,242510,2.49,2015,United States of America,"Indie, RPG"
+413150,Stardew Valley,89.0,88.0,755165,14.99,2016,United States of America,"Indie, RPG, Simulation"
+418370,Resident Evil 7 Biohazard,83.0,82.0,66057,19.99,2017,Japan,"Action, Adventure"
+427520,Factorio,90.0,89.0,174841,35.0,2020,Czechia,"Casual, Indie, Simulation, Strategy"
+433340,Slime Rancher,81.0,81.0,122287,19.99,2017,United States of America,"Action, Adventure, Indie, Simulation"
+435150,Divinity: Original Sin 2 - Definitive Edition,93.0,88.0,166023,44.99,2017,Belgium,"Adventure, RPG, Strategy"
+457140,Oxygen Not Included,85.0,83.0,120198,24.99,2019,Canada,"Indie, Simulation"
+460950,Katana ZERO,83.0,88.0,62165,14.99,2019,United States of America,"Action, Indie"
+504230,Celeste,88.0,85.0,107789,19.99,2018,Canada,"Action, Adventure, Indie"
+508440,Totally Accurate Battle Simulator,,77.0,127112,19.99,2021,Sweden,"Indie, Simulation, Strategy"
+526870,Satisfactory,91.0,88.0,195714,39.99,2024,Sweden,"Adventure, Indie, Simulation, Strategy"
+546560,Half-Life: Alyx,93.0,91.0,85259,59.99,2020,United States of America,"Action, Adventure"
+548430,Deep Rock Galactic,85.0,84.0,273520,29.99,2020,Denmark,Action
+588650,Dead Cells,89.0,82.0,143307,24.99,2018,France,"Action, Adventure, Indie"
+601150,Devil May Cry 5,89.0,85.0,99217,29.99,2019,Japan,Action
+620980,Beat Saber,93.0,85.0,68171,29.99,2019,Czechia,Indie
+635260,CarX Drift Racing Online,,,77192,14.99,2017,Russia,"Massively Multiplayer, Racing, Simulation, Sports"
+636480,Ravenfield,,,70185,17.99,2017,Sweden,"Action, Early Access, Indie"
+646570,Slay the Spire,89.0,80.0,157412,8.49,2019,Canada,"Indie, Strategy"
+683320,GRIS,84.0,83.0,72231,14.99,2018,Spain,"Adventure, Indie"
+739630,Phasmophobia,,,625641,19.99,2020,United Kingdom,"Action, Early Access, Indie"
+753640,Outer Wilds,85.0,89.0,70623,16.49,2020,United States of America,"Action, Adventure"
+814380,Sekiro™: Shadows Die Twice - GOTY Edition,88.0,83.0,234002,59.99,2019,Japan,"Action, Adventure"
+881100,Noita,76.0,81.0,71701,19.99,2020,Finland,"Action, Adventure, Indie, RPG, Simulation"
+883710,Resident Evil 2,89.0,89.0,117990,39.99,2019,Japan,Action
+960090,Bloons TD 6,81.0,82.0,312497,13.99,2018,New Zealand,Strategy
+1057090,Ori and the Will of the Wisps,88.0,87.0,127065,29.99,2020,Austria,Action
+1086940,Baldur's Gate 3,96.0,92.0,669355,59.99,2023,Belgium,"Adventure, RPG, Strategy"
+1092790,Inscryption,85.0,85.0,120185,7.99,2021,Canada,"Adventure, Indie, Strategy"
+1113000,Persona 4 Golden,87.0,89.0,65281,19.99,2020,Japan,RPG
+1118200,People Playground,,84.0,263816,9.99,2019,Netherlands,"Action, Casual, Indie, Simulation"
+1145360,Hades,93.0,86.0,258254,24.99,2020,United States of America,"Action, Indie, RPG"
+1150690,OMORI,87.0,91.0,72101,19.99,2020,United States of America,"Adventure, Indie, RPG"
+1167630,Teardown,80.0,81.0,102073,29.99,2022,Sweden,"Action, Indie, Simulation, Strategy"
+1196590,Resident Evil Village,83.0,84.0,80741,39.99,2021,Japan,Action
+1222140,Detroit: Become Human,80.0,81.0,143762,11.99,2020,France,"Action, Adventure"
+1229490,ULTRAKILL,,91.0,148805,24.99,2020,Finland,"Action, Early Access, Indie"
+1237970,Titanfall® 2,86.0,85.0,226520,29.99,2020,United States of America,Action
+1313140,Cult of the Lamb,82.0,79.0,89517,24.99,2022,Australia,"Action, Adventure, Indie, Strategy"
+1332010,Stray,82.0,82.0,139235,17.99,2022,France,"Adventure, Indie"
+1366540,Dyson Sphere Program,,,77381,19.99,2021,China,"Early Access, Indie, Simulation, Strategy"
+1426210,It Takes Two,89.0,88.0,181055,39.99,2021,Sweden,"Action, Adventure"
+1454400,Cookie Clicker,,73.0,75021,4.99,2021,France,"Casual, Indie, Simulation, Strategy"
+1593500,God of War,93.0,85.0,110718,49.99,2022,United States of America,"Action, Adventure, RPG"
+1687950,Persona 5 Royal,95.0,85.0,68333,59.99,2022,Japan,RPG
+1794680,Vampire Survivors,86.0,82.0,237402,3.99,2022,United Kingdom,"Action, Casual, Indie, RPG"
+1817070,Marvel’s Spider-Man Remastered,87.0,83.0,79404,59.99,2022,United States of America,"Action, Adventure, Casual"
+1868140,DAVE THE DIVER,90.0,82.0,116459,19.99,2023,South Korea,"Adventure, Casual, RPG, Simulation"
+1903340,Clair Obscur: Expedition 33,93.0,97.0,70463,49.99,2025,France,"Action, RPG"
+1942280,Brotato,76.0,78.0,92191,2.99,2023,Switzerland,"Action, Casual, Indie, RPG"
+1966720,Lethal Company,,,392376,9.99,2023,United States of America,"Action, Adventure, Early Access, Indie"
+2050650,Resident Evil 4,91.0,84.0,117322,39.99,2023,Japan,"Action, Adventure"
+2358720,Black Myth: Wukong,81.0,82.0,834392,59.99,2024,China,"Action, Adventure, RPG"
+2379780,Balatro,90.0,83.0,122218,14.99,2024,Canada,"Casual, Indie, Strategy"
+2527500,MiSide,83.0,80.0,96682,14.99,2024,Russia,"Adventure, Indie, RPG, Simulation"
+2835570,Buckshot Roulette,85.0,77.0,83563,2.99,2024,Estonia,"Action, Indie, Simulation"
+3164500,Schedule I,,,184878,19.99,2025,Australia,"Action, Early Access, Indie, Simulation, Strategy"
+3241660,R.E.P.O.,,,148031,9.99,2025,Sweden,"Action, Early Access"

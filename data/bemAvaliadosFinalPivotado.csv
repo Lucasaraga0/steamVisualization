@@ -1,0 +1,253 @@
+name,metacritic_metascore,metacritic_user_score,app_id,reviews_count,price_usd,release_year,genres,country
+Terraria,83.0,88.0,105600,1120927,9.99,2011,Action,United States of America
+Terraria,83.0,88.0,105600,1120927,9.99,2011,Adventure,United States of America
+Terraria,83.0,88.0,105600,1120927,9.99,2011,Indie,United States of America
+Terraria,83.0,88.0,105600,1120927,9.99,2011,RPG,United States of America
+Garry's Mod,,88.0,4000,996840,5.99,2006,Casual,United Kingdom
+Garry's Mod,,88.0,4000,996840,5.99,2006,Indie,United Kingdom
+Garry's Mod,,88.0,4000,996840,5.99,2006,Simulation,United Kingdom
+Black Myth: Wukong,81.0,82.0,2358720,834392,59.99,2024,Action,China
+Black Myth: Wukong,81.0,82.0,2358720,834392,59.99,2024,Adventure,China
+Black Myth: Wukong,81.0,82.0,2358720,834392,59.99,2024,RPG,China
+The Witcher 3: Wild Hunt,93.0,91.0,292030,771818,39.99,2015,RPG,Poland
+Stardew Valley,89.0,88.0,413150,755165,14.99,2016,Indie,United States of America
+Stardew Valley,89.0,88.0,413150,755165,14.99,2016,RPG,United States of America
+Stardew Valley,89.0,88.0,413150,755165,14.99,2016,Simulation,United States of America
+Left 4 Dead 2,89.0,84.0,550,732428,0.99,2009,Action,United States of America
+Euro Truck Simulator 2,79.0,86.0,227300,685799,19.99,2012,Indie,Czechia
+Euro Truck Simulator 2,79.0,86.0,227300,685799,19.99,2012,Simulation,Czechia
+Baldur's Gate 3,96.0,92.0,1086940,669355,59.99,2023,Adventure,Belgium
+Baldur's Gate 3,96.0,92.0,1086940,669355,59.99,2023,RPG,Belgium
+Baldur's Gate 3,96.0,92.0,1086940,669355,59.99,2023,Strategy,Belgium
+Phasmophobia,,,739630,625641,19.99,2020,Action,United Kingdom
+Phasmophobia,,,739630,625641,19.99,2020,Indie,United Kingdom
+Phasmophobia,,,739630,625641,19.99,2020,Early Access,United Kingdom
+The Forest,83.0,75.0,242760,533126,19.99,2018,Action,Canada
+The Forest,83.0,75.0,242760,533126,19.99,2018,Adventure,Canada
+The Forest,83.0,75.0,242760,533126,19.99,2018,Indie,Canada
+The Forest,83.0,75.0,242760,533126,19.99,2018,Simulation,Canada
+Lethal Company,,,1966720,392376,9.99,2023,Action,United States of America
+Lethal Company,,,1966720,392376,9.99,2023,Adventure,United States of America
+Lethal Company,,,1966720,392376,9.99,2023,Indie,United States of America
+Lethal Company,,,1966720,392376,9.99,2023,Early Access,United States of America
+Hollow Knight,87.0,91.0,367520,369906,14.99,2017,Action,Australia
+Hollow Knight,87.0,91.0,367520,369906,14.99,2017,Adventure,Australia
+Hollow Knight,87.0,91.0,367520,369906,14.99,2017,Indie,Australia
+Portal 2,95.0,89.0,620,359554,1.99,2011,Action,United States of America
+Portal 2,95.0,89.0,620,359554,1.99,2011,Adventure,United States of America
+Dying Light,80.0,74.0,239140,342204,8.99,2025,Action,Poland
+Dying Light,80.0,74.0,239140,342204,8.99,2025,RPG,Poland
+Don't Starve Together,83.0,79.0,322330,341198,14.99,2016,Action,Canada
+Don't Starve Together,83.0,79.0,322330,341198,14.99,2016,Adventure,Canada
+Don't Starve Together,83.0,79.0,322330,341198,14.99,2016,Indie,Canada
+Don't Starve Together,83.0,79.0,322330,341198,14.99,2016,RPG,Canada
+Don't Starve Together,83.0,79.0,322330,341198,14.99,2016,Simulation,Canada
+Don't Starve Together,83.0,79.0,322330,341198,14.99,2016,Strategy,Canada
+Bloons TD 6,81.0,82.0,960090,312497,13.99,2018,Strategy,New Zealand
+The Binding of Isaac: Rebirth,84.0,83.0,250900,310107,14.99,2014,Action,United States of America
+BeamNG.drive,,89.0,284160,296115,24.99,2015,Racing,Germany
+BeamNG.drive,,89.0,284160,296115,24.99,2015,Simulation,Germany
+BeamNG.drive,,89.0,284160,296115,24.99,2015,Early Access,Germany
+Subnautica,87.0,86.0,264710,282436,29.99,2018,Adventure,United States of America
+Subnautica,87.0,86.0,264710,282436,29.99,2018,Indie,United States of America
+Deep Rock Galactic,85.0,84.0,548430,273520,29.99,2020,Action,Denmark
+People Playground,,84.0,1118200,263816,9.99,2019,Action,Netherlands
+People Playground,,84.0,1118200,263816,9.99,2019,Casual,Netherlands
+People Playground,,84.0,1118200,263816,9.99,2019,Indie,Netherlands
+People Playground,,84.0,1118200,263816,9.99,2019,Simulation,Netherlands
+Hades,93.0,86.0,1145360,258254,24.99,2020,Action,United States of America
+Hades,93.0,86.0,1145360,258254,24.99,2020,Indie,United States of America
+Hades,93.0,86.0,1145360,258254,24.99,2020,RPG,United States of America
+Undertale,92.0,86.0,391540,242510,2.49,2015,Indie,United States of America
+Undertale,92.0,86.0,391540,242510,2.49,2015,RPG,United States of America
+Vampire Survivors,86.0,82.0,1794680,237402,3.99,2022,Action,United Kingdom
+Vampire Survivors,86.0,82.0,1794680,237402,3.99,2022,Casual,United Kingdom
+Vampire Survivors,86.0,82.0,1794680,237402,3.99,2022,Indie,United Kingdom
+Vampire Survivors,86.0,82.0,1794680,237402,3.99,2022,RPG,United Kingdom
+Sekiro™: Shadows Die Twice - GOTY Edition,88.0,83.0,814380,234002,59.99,2019,Action,Japan
+Sekiro™: Shadows Die Twice - GOTY Edition,88.0,83.0,814380,234002,59.99,2019,Adventure,Japan
+Titanfall® 2,86.0,85.0,1237970,226520,29.99,2020,Action,United States of America
+Satisfactory,91.0,88.0,526870,195714,39.99,2024,Adventure,Sweden
+Satisfactory,91.0,88.0,526870,195714,39.99,2024,Indie,Sweden
+Satisfactory,91.0,88.0,526870,195714,39.99,2024,Simulation,Sweden
+Satisfactory,91.0,88.0,526870,195714,39.99,2024,Strategy,Sweden
+Schedule I,,,3164500,184878,19.99,2025,Action,Australia
+Schedule I,,,3164500,184878,19.99,2025,Indie,Australia
+Schedule I,,,3164500,184878,19.99,2025,Simulation,Australia
+Schedule I,,,3164500,184878,19.99,2025,Strategy,Australia
+Schedule I,,,3164500,184878,19.99,2025,Early Access,Australia
+Fallout: New Vegas,84.0,88.0,22380,182667,9.99,2010,Action,United States of America
+Fallout: New Vegas,84.0,88.0,22380,182667,9.99,2010,RPG,United States of America
+It Takes Two,89.0,88.0,1426210,181055,39.99,2021,Action,Sweden
+It Takes Two,89.0,88.0,1426210,181055,39.99,2021,Adventure,Sweden
+Half-Life 2,96.0,91.0,220,180470,9.99,2004,Action,United States of America
+RimWorld,87.0,88.0,294100,177928,34.99,2018,Indie,Canada
+RimWorld,87.0,88.0,294100,177928,34.99,2018,Simulation,Canada
+RimWorld,87.0,88.0,294100,177928,34.99,2018,Strategy,Canada
+Factorio,90.0,89.0,427520,174841,35.0,2020,Casual,Czechia
+Factorio,90.0,89.0,427520,174841,35.0,2020,Indie,Czechia
+Factorio,90.0,89.0,427520,174841,35.0,2020,Simulation,Czechia
+Factorio,90.0,89.0,427520,174841,35.0,2020,Strategy,Czechia
+Cuphead,88.0,84.0,268910,166421,19.99,2017,Action,Canada
+Cuphead,88.0,84.0,268910,166421,19.99,2017,Indie,Canada
+Divinity: Original Sin 2 - Definitive Edition,93.0,88.0,435150,166023,44.99,2017,Adventure,Belgium
+Divinity: Original Sin 2 - Definitive Edition,93.0,88.0,435150,166023,44.99,2017,RPG,Belgium
+Divinity: Original Sin 2 - Definitive Edition,93.0,88.0,435150,166023,44.99,2017,Strategy,Belgium
+Counter-Strike,88.0,85.0,10,160058,9.99,2000,Action,United States of America
+Slay the Spire,89.0,80.0,646570,157412,8.49,2019,Indie,Canada
+Slay the Spire,89.0,80.0,646570,157412,8.49,2019,Strategy,Canada
+Tomb Raider,86.0,84.0,203160,155265,14.99,2013,Action,United States of America
+Tomb Raider,86.0,84.0,203160,155265,14.99,2013,Adventure,United States of America
+Portal,90.0,88.0,400,153074,1.99,2007,Action,United States of America
+ULTRAKILL,,91.0,1229490,148805,24.99,2020,Action,Finland
+ULTRAKILL,,91.0,1229490,148805,24.99,2020,Indie,Finland
+ULTRAKILL,,91.0,1229490,148805,24.99,2020,Early Access,Finland
+R.E.P.O.,,,3241660,148031,9.99,2025,Action,Sweden
+R.E.P.O.,,,3241660,148031,9.99,2025,Early Access,Sweden
+American Truck Simulator,76.0,75.0,270880,146231,19.99,2016,Indie,Czechia
+American Truck Simulator,76.0,75.0,270880,146231,19.99,2016,Simulation,Czechia
+Detroit: Become Human,80.0,81.0,1222140,143762,11.99,2020,Action,France
+Detroit: Become Human,80.0,81.0,1222140,143762,11.99,2020,Adventure,France
+Dead Cells,89.0,82.0,588650,143307,24.99,2018,Action,France
+Dead Cells,89.0,82.0,588650,143307,24.99,2018,Adventure,France
+Dead Cells,89.0,82.0,588650,143307,24.99,2018,Indie,France
+DOOM,85.0,85.0,379720,142324,19.99,2016,Action,United States of America
+Stray,82.0,82.0,1332010,139235,17.99,2022,Adventure,France
+Stray,82.0,82.0,1332010,139235,17.99,2022,Indie,France
+Mount & Blade: Warband,78.0,88.0,48700,130809,19.99,2010,Action,Turkey
+Mount & Blade: Warband,78.0,88.0,48700,130809,19.99,2010,RPG,Turkey
+Plants vs. Zombies GOTY Edition,87.0,86.0,3590,128250,4.99,2009,Strategy,United States of America
+Totally Accurate Battle Simulator,,77.0,508440,127112,19.99,2021,Indie,Sweden
+Totally Accurate Battle Simulator,,77.0,508440,127112,19.99,2021,Simulation,Sweden
+Totally Accurate Battle Simulator,,77.0,508440,127112,19.99,2021,Strategy,Sweden
+Ori and the Will of the Wisps,88.0,87.0,1057090,127065,29.99,2020,Action,Austria
+Counter-Strike: Source,88.0,82.0,240,126166,9.99,2004,Action,United States of America
+Sid Meier's Civilization® V,90.0,81.0,8930,123870,29.99,2010,Strategy,United States of America
+Slime Rancher,81.0,81.0,433340,122287,19.99,2017,Action,United States of America
+Slime Rancher,81.0,81.0,433340,122287,19.99,2017,Adventure,United States of America
+Slime Rancher,81.0,81.0,433340,122287,19.99,2017,Indie,United States of America
+Slime Rancher,81.0,81.0,433340,122287,19.99,2017,Simulation,United States of America
+Balatro,90.0,83.0,2379780,122218,14.99,2024,Casual,Canada
+Balatro,90.0,83.0,2379780,122218,14.99,2024,Indie,Canada
+Balatro,90.0,83.0,2379780,122218,14.99,2024,Strategy,Canada
+Oxygen Not Included,85.0,83.0,457140,120198,24.99,2019,Indie,Canada
+Oxygen Not Included,85.0,83.0,457140,120198,24.99,2019,Simulation,Canada
+Inscryption,85.0,85.0,1092790,120185,7.99,2021,Adventure,Canada
+Inscryption,85.0,85.0,1092790,120185,7.99,2021,Indie,Canada
+Inscryption,85.0,85.0,1092790,120185,7.99,2021,Strategy,Canada
+Life is Strange - Episode 1,77.0,86.0,319630,120101,0.0,2015,Action,France
+Life is Strange - Episode 1,77.0,86.0,319630,120101,0.0,2015,Adventure,France
+Black Mesa,84.0,87.0,362890,118304,19.99,2020,Action,United States of America
+Black Mesa,84.0,87.0,362890,118304,19.99,2020,Adventure,United States of America
+Black Mesa,84.0,87.0,362890,118304,19.99,2020,Indie,United States of America
+Resident Evil 2,89.0,89.0,883710,117990,39.99,2019,Action,Japan
+Resident Evil 4,91.0,84.0,2050650,117322,39.99,2023,Action,Japan
+Resident Evil 4,91.0,84.0,2050650,117322,39.99,2023,Adventure,Japan
+DAVE THE DIVER,90.0,82.0,1868140,116459,19.99,2023,Adventure,South Korea
+DAVE THE DIVER,90.0,82.0,1868140,116459,19.99,2023,Casual,South Korea
+DAVE THE DIVER,90.0,82.0,1868140,116459,19.99,2023,RPG,South Korea
+DAVE THE DIVER,90.0,82.0,1868140,116459,19.99,2023,Simulation,South Korea
+God of War,93.0,85.0,1593500,110718,49.99,2022,Action,United States of America
+God of War,93.0,85.0,1593500,110718,49.99,2022,Adventure,United States of America
+God of War,93.0,85.0,1593500,110718,49.99,2022,RPG,United States of America
+Celeste,88.0,85.0,504230,107789,19.99,2018,Action,Canada
+Celeste,88.0,85.0,504230,107789,19.99,2018,Adventure,Canada
+Celeste,88.0,85.0,504230,107789,19.99,2018,Indie,Canada
+Half-Life,96.0,89.0,70,104850,9.99,1998,Action,United States of America
+Kerbal Space Program,88.0,83.0,220200,103281,39.99,2015,Indie,Brazil
+Kerbal Space Program,88.0,83.0,220200,103281,39.99,2015,Simulation,Brazil
+Teardown,80.0,81.0,1167630,102073,29.99,2022,Action,Sweden
+Teardown,80.0,81.0,1167630,102073,29.99,2022,Indie,Sweden
+Teardown,80.0,81.0,1167630,102073,29.99,2022,Simulation,Sweden
+Teardown,80.0,81.0,1167630,102073,29.99,2022,Strategy,Sweden
+Devil May Cry 5,89.0,85.0,601150,99217,29.99,2019,Action,Japan
+POSTAL 2,50.0,81.0,223470,98660,9.99,2012,Action,United States of America
+POSTAL 2,50.0,81.0,223470,98660,9.99,2012,Adventure,United States of America
+POSTAL 2,50.0,81.0,223470,98660,9.99,2012,Indie,United States of America
+MiSide,83.0,80.0,2527500,96682,14.99,2024,Adventure,Russia
+MiSide,83.0,80.0,2527500,96682,14.99,2024,Indie,Russia
+MiSide,83.0,80.0,2527500,96682,14.99,2024,RPG,Russia
+MiSide,83.0,80.0,2527500,96682,14.99,2024,Simulation,Russia
+Castle Crashers®,,84.0,204360,96422,14.99,2012,Action,United States of America
+Castle Crashers®,,84.0,204360,96422,14.99,2012,Adventure,United States of America
+Castle Crashers®,,84.0,204360,96422,14.99,2012,Casual,United States of America
+Castle Crashers®,,84.0,204360,96422,14.99,2012,Indie,United States of America
+Castle Crashers®,,84.0,204360,96422,14.99,2012,RPG,United States of America
+Don't Starve,79.0,82.0,219740,93359,9.99,2013,Adventure,Canada
+Don't Starve,79.0,82.0,219740,93359,9.99,2013,Indie,Canada
+Don't Starve,79.0,82.0,219740,93359,9.99,2013,Simulation,Canada
+Outlast,80.0,81.0,238320,92631,19.99,2013,Action,Canada
+Outlast,80.0,81.0,238320,92631,19.99,2013,Adventure,Canada
+Outlast,80.0,81.0,238320,92631,19.99,2013,Indie,Canada
+Brotato,76.0,78.0,1942280,92191,2.99,2023,Action,Switzerland
+Brotato,76.0,78.0,1942280,92191,2.99,2023,Casual,Switzerland
+Brotato,76.0,78.0,1942280,92191,2.99,2023,Indie,Switzerland
+Brotato,76.0,78.0,1942280,92191,2.99,2023,RPG,Switzerland
+Hotline Miami,85.0,85.0,219150,90010,1.99,2012,Action,Sweden
+Hotline Miami,85.0,85.0,219150,90010,1.99,2012,Indie,Sweden
+Cult of the Lamb,82.0,79.0,1313140,89517,24.99,2022,Action,Australia
+Cult of the Lamb,82.0,79.0,1313140,89517,24.99,2022,Adventure,Australia
+Cult of the Lamb,82.0,79.0,1313140,89517,24.99,2022,Indie,Australia
+Cult of the Lamb,82.0,79.0,1313140,89517,24.99,2022,Strategy,Australia
+Half-Life: Alyx,93.0,91.0,546560,85259,59.99,2020,Action,United States of America
+Half-Life: Alyx,93.0,91.0,546560,85259,59.99,2020,Adventure,United States of America
+Buckshot Roulette,85.0,77.0,2835570,83563,2.99,2024,Action,Estonia
+Buckshot Roulette,85.0,77.0,2835570,83563,2.99,2024,Indie,Estonia
+Buckshot Roulette,85.0,77.0,2835570,83563,2.99,2024,Simulation,Estonia
+Age of Empires II (Retired),92.0,90.0,221380,83417,19.99,2013,Strategy,United States of America
+Kenshi,75.0,84.0,233860,82424,29.99,2018,Action,United Kingdom
+Kenshi,75.0,84.0,233860,82424,29.99,2018,Indie,United Kingdom
+Kenshi,75.0,84.0,233860,82424,29.99,2018,RPG,United Kingdom
+Kenshi,75.0,84.0,233860,82424,29.99,2018,Simulation,United Kingdom
+Kenshi,75.0,84.0,233860,82424,29.99,2018,Strategy,United Kingdom
+Resident Evil Village,83.0,84.0,1196590,80741,39.99,2021,Action,Japan
+Marvel’s Spider-Man Remastered,87.0,83.0,1817070,79404,59.99,2022,Action,United States of America
+Marvel’s Spider-Man Remastered,87.0,83.0,1817070,79404,59.99,2022,Adventure,United States of America
+Marvel’s Spider-Man Remastered,87.0,83.0,1817070,79404,59.99,2022,Casual,United States of America
+Dyson Sphere Program,,,1366540,77381,19.99,2021,Indie,China
+Dyson Sphere Program,,,1366540,77381,19.99,2021,Simulation,China
+Dyson Sphere Program,,,1366540,77381,19.99,2021,Strategy,China
+Dyson Sphere Program,,,1366540,77381,19.99,2021,Early Access,China
+CarX Drift Racing Online,,,635260,77192,14.99,2017,Massively Multiplayer,Russia
+CarX Drift Racing Online,,,635260,77192,14.99,2017,Racing,Russia
+CarX Drift Racing Online,,,635260,77192,14.99,2017,Simulation,Russia
+CarX Drift Racing Online,,,635260,77192,14.99,2017,Sports,Russia
+Enter the Gungeon,84.0,80.0,311690,75496,14.99,2016,Action,United States of America
+Enter the Gungeon,84.0,80.0,311690,75496,14.99,2016,Adventure,United States of America
+Enter the Gungeon,84.0,80.0,311690,75496,14.99,2016,Indie,United States of America
+Cookie Clicker,,73.0,1454400,75021,4.99,2021,Casual,France
+Cookie Clicker,,73.0,1454400,75021,4.99,2021,Indie,France
+Cookie Clicker,,73.0,1454400,75021,4.99,2021,Simulation,France
+Cookie Clicker,,73.0,1454400,75021,4.99,2021,Strategy,France
+GRIS,84.0,83.0,683320,72231,14.99,2018,Adventure,Spain
+GRIS,84.0,83.0,683320,72231,14.99,2018,Indie,Spain
+OMORI,87.0,91.0,1150690,72101,19.99,2020,Adventure,United States of America
+OMORI,87.0,91.0,1150690,72101,19.99,2020,Indie,United States of America
+OMORI,87.0,91.0,1150690,72101,19.99,2020,RPG,United States of America
+Noita,76.0,81.0,881100,71701,19.99,2020,Action,Finland
+Noita,76.0,81.0,881100,71701,19.99,2020,Adventure,Finland
+Noita,76.0,81.0,881100,71701,19.99,2020,Indie,Finland
+Noita,76.0,81.0,881100,71701,19.99,2020,RPG,Finland
+Noita,76.0,81.0,881100,71701,19.99,2020,Simulation,Finland
+Outer Wilds,85.0,89.0,753640,70623,16.49,2020,Action,United States of America
+Outer Wilds,85.0,89.0,753640,70623,16.49,2020,Adventure,United States of America
+Clair Obscur: Expedition 33,93.0,97.0,1903340,70463,49.99,2025,Action,France
+Clair Obscur: Expedition 33,93.0,97.0,1903340,70463,49.99,2025,RPG,France
+Ravenfield,,,636480,70185,17.99,2017,Action,Sweden
+Ravenfield,,,636480,70185,17.99,2017,Indie,Sweden
+Ravenfield,,,636480,70185,17.99,2017,Early Access,Sweden
+Persona 5 Royal,95.0,85.0,1687950,68333,59.99,2022,RPG,Japan
+Beat Saber,93.0,85.0,620980,68171,29.99,2019,Indie,Czechia
+"Papers, Please",85.0,85.0,239030,67364,9.99,2013,Adventure,United States of America
+"Papers, Please",85.0,85.0,239030,67364,9.99,2013,Indie,United States of America
+Resident Evil 7 Biohazard,83.0,82.0,418370,66057,19.99,2017,Action,Japan
+Resident Evil 7 Biohazard,83.0,82.0,418370,66057,19.99,2017,Adventure,Japan
+Persona 4 Golden,87.0,89.0,1113000,65281,19.99,2020,RPG,Japan
+METAL GEAR RISING: REVENGEANCE,83.0,83.0,235460,64782,29.99,2014,Action,Japan
+To the Moon,81.0,89.0,206440,63543,2.99,2012,Adventure,Canada
+To the Moon,81.0,89.0,206440,63543,2.99,2012,Indie,Canada
+To the Moon,81.0,89.0,206440,63543,2.99,2012,RPG,Canada
+Dishonored,91.0,85.0,205100,62357,9.99,2012,Action,France
+Dishonored,91.0,85.0,205100,62357,9.99,2012,Adventure,France
+Katana ZERO,83.0,88.0,460950,62165,14.99,2019,Action,United States of America
+Katana ZERO,83.0,88.0,460950,62165,14.99,2019,Indie,United States of America
