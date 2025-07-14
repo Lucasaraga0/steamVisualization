@@ -5,7 +5,7 @@ A Steam é a maior loja virtual para jogos de computadores, tendo atualmente mai
 - Existem padrões de escolha dos usuários da Steam?
 - Se sim, quais são eles?
 
-![alt text](images/logo.png)
+![s](images/steam_promocoes.jpg)
 
 Essas e outras perguntas serão respondidas pela visualização de diferentes conjuntos de dados coletados sobre os jogos da steam. Para isso dividimos em três conjuntos de jogos diferentes:
 

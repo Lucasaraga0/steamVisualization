@@ -16,10 +16,12 @@ Adendo: por convenção, nas visualizações a seguir utilizaremos a terminologi
 
 Na visualização a seguir a distribuição dos gêneros nos jogos bem avaliados
 
+<iframe width="100%" height="555" frameborder="0"
+  src="https://observablehq.com/embed/341a0af66730c2da@648?cells=genBemAval2Layer"></iframe>
+
 Percebe-se que existe uma certa margem entre os três primeiros para os demais, sendo eles, Ação, Indie e Aventura. Ação e Aventura são gêneros consagrados na indústria e sua presença não é nenhuma surpresa.
 
-Jogos indie, por outro lado, aparecem como uma alternativa às frustrações recentes em relação as grandes empresas. Normalmente sendo feitos por equipes reduzidas, algumas vezes por uma única pessoa, esses jogos são procurados muitas vezes pois, segundo os jogadores, eles possuem *alma*.   
-
+Jogos indies, por outro lado, aparecem como uma alternativa às frustrações recentes em relação as grandes empresas. Normalmente sendo feitos por equipes reduzidas, algumas vezes por uma única pessoa, esses jogos são procurados muitas vezes pelos preços mais acessíveis, pelas escolhas criativas de design e por possuírem histórias únicas.
 
 ### Visualização final 
 <iframe width="100%" height="637" frameborder="0"
