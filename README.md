@@ -1,10 +1,14 @@
 # steamVisualization
-Visualização dos dados da steam 
 
-Os dados foram retirados de 3 fontes
+A Steam é a maior loja virtual para jogos de computadores, tendo atualmente mais de 100.000 itens em sua biblioteca, entre jogos e softwares alternativos, e mais de 30 milhões de usuários ativos. Criada em 2003, a plataforma da empresa Valve se popularizou tanto pelos seus títulos próprios, como os clássicos Half-Life e Portal, quanto pelo seu fácil acesso a jogos das mais diferentes empresas, desde pequenas desenvolvedoras, com menos de uma dezena de funcionários, até as grandes publishers, que movimentam centenas de milhões de dólares. Números tão altos e diversos nos fazem questionar:
 
-- Jogos mais vendidos foram retirados do SteamSpy
-- Jogos "em alta" estão sendo retirados do SteamCharts
-- Jogos mais bem avaliados, foram retirados via web scraping da loja virtual da Steam.
+- Existem padrões de escolha dos usuários da Steam?
+- Se sim, quais são eles?
 
-Mais detalhes podem ser encontrados no notebook [scrap](https://github.com/Lucasaraga0/steamVisualization/blob/main/scrap.ipynb)
+![alt text](images/logo.png)
+
+Essas e outras perguntas serão respondidas pela visualização de diferentes conjuntos de dados coletados sobre os jogos da steam. Para isso dividimos em três conjuntos de jogos diferentes:
+
+- [Os jogos mais vendidos da steam.]()
+- [Os jogos bem avaliados com maior número de análise](https://lucasaraga0.github.io/steamVisualization/bemAvaliados)
+- [Os jogos em alta durante o mês de junho.]()
