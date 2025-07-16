@@ -9,6 +9,6 @@ A Steam é a maior loja virtual para jogos de computadores, tendo atualmente mai
 
 Essas e outras perguntas serão respondidas pela visualização de diferentes conjuntos de dados coletados sobre os jogos da steam. Para isso dividimos em três conjuntos de jogos diferentes:
 
-- [Os jogos mais vendidos da steam.]()
-- [Os jogos bem avaliados com maior número de análise](https://lucasaraga0.github.io/steamVisualization/bemAvaliados)
-- [Os jogos em alta durante o mês de junho.]()
+- [Os jogos bem avaliados com maior número de análises.](https://lucasaraga0.github.io/steamVisualization/bemAvaliados)
+- [Os jogos mais vendidos da steam.](https://lucasaraga0.github.io/steamVisualization/maisVendidos)
+- [Os jogos em alta durante o mês de junho.](https://lucasaraga0.github.io/steamVisualization/emAlta)
