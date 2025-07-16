@@ -21,12 +21,12 @@ Na visualização a seguir a distribuição dos gêneros nos jogos bem avaliados
 
 Percebe-se que existe uma certa margem entre os três primeiros para os demais, sendo eles, Ação, Indie e Aventura. Ação e Aventura são gêneros consagrados na indústria e sua presença não é nenhuma surpresa. Jogos indies, por outro lado, aparecem como uma alternativa às frustrações recentes em relação as grandes empresas, representando os jogos de menor escala e feitos por pequenas equipes de desenvolvedores.
 
-Simulação, RPG e Estratégia formam um "segundo pelotão" de gênero, também tendo uma participação significativa. 
+Simulação, RPG e Estratégia formam um "segundo pelotão" de gêneros, também tendo uma participação significativa. 
 
 
 ### Crítica x Usuários
 
-Não faltam na história exemplos de obras rejeitadas pela crítica e amadas pelo público ou o caminho inverso. No entanto quando observamos os resultados do nosso comparativo, é perceptível que na grande maioria dos casos público e crítica concordaram sobre os jogos. Entretanto, existe apenas um *outlier*, [Postal 2](https://store.steampowered.com/app/223470/POSTAL_2/), conhecido pelo humor ácido e a violência extrema, um jogo polêmico e que divide opiniões, tendo esse comportamento refletido no scatterplot gerado abaixo.
+Não faltam, na história, exemplos de obras rejeitadas pela crítica e amadas pelo público ou o caminho inverso. No entanto quando observamos os resultados do nosso comparativo, é perceptível que na grande maioria dos casos, público e crítica concordaram sobre os jogos. Entretanto, existe apenas um *outlier*, [Postal 2](https://store.steampowered.com/app/223470/POSTAL_2/), conhecido pelo humor ácido e a violência extrema, um jogo polêmico e que divide opiniões, tendo esse comportamento refletido no scatterplot gerado abaixo.
 
 <iframe width="100%" height="577" frameborder="0"
   src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+scatBA"></iframe>

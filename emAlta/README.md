@@ -9,7 +9,7 @@ Durante um mês, quase diariamente, coletamos os dados do [steamcharts](https://
 A visualização a seguir mostra as variações no top 10, baseado em determinados dias de coleta.
 
 
-![s](../images/logo.png)
+[Visualização Especial]
 
 De cara já percebemos que, apenas 4 jogos dos 18 jogos que apareceram conseguiram se manter no top 10 durante todos os dias escolhidos, *Counter-Strike 2*, *Dota 2*, *PUBG: BATTLEGROUNDS* e *Rust*, todos multijogadores e gratuitos.
 
