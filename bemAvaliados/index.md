@@ -1,3 +1,10 @@
+
+<a href="https://lucasaraga0.github.io/steamVisualization/" style="display:inline-block; padding:8px 16px; background:#222; color:white; text-decoration:none; border-radius:4px; margin-bottom:1em;">
+  ⬅ Início
+</a>
+
+<link rel="stylesheet" href="/steamVisualization/assets/style.css">
+
 # Os jogos bem avaliados
 
 Para analisar os jogos mais bem avaliados fizemos o seguinte processo:
