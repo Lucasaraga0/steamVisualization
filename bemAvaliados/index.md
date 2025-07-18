@@ -3,7 +3,6 @@
   ⬅ Início
 </a>
 
-<link rel="stylesheet" href="/steamVisualization/assets/style.css">
 
 # Os jogos bem avaliados
 
