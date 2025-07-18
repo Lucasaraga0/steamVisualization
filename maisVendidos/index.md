@@ -10,10 +10,10 @@ Os dados coletados aqui foram retirados do [SteamSpy](https://steamspy.com/), on
 
 É perceptível que existe uma grande vantagem dos Estados Unidos para os demais países, o que não é surpreendente uma vez que são os maiores expoentes do mercado ocidental de jogos, público majoritário da Steam.
 
-<div style="width: 100vw; margin-left: -50vw; left: 50%; position: relative; padding: 0; margin-top: 0; margin-bottom: 0;">
+<div style="width: 850px; margin: 0 auto; padding: 0;">
   <iframe
     src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos"
-    style="width: 100vw; height: 700px; border: none; display: block; margin: 0; padding: 0;"
+    style="width: 100%; height: 500px; border: none; display: block; margin: 0; padding: 0;"
     scrolling="no"
     frameborder="0">
   </iframe>
@@ -23,14 +23,15 @@ Entretanto outros países também se destacam, como a Suécia, com 8 jogos, e Ca
 
 ### Distribuição de preço 
 
-<div style="width: 100vw; margin-left: -50vw; left: 50%; position: relative; padding: 0; margin-top: 0; margin-bottom: 0;">
+<div style="width: 850px; margin: 0 auto; padding: 0;">
   <iframe
     src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+histMV"
-    style="width: 100vw; height: 700px; border: none; display: block; margin: 0; padding: 0;"
+    style="width: 100%; height: 473.015625px; border: none; display: block; margin: 0; padding: 0;"
     scrolling="no"
     frameborder="0">
   </iframe>
 </div>
+
 
 - Mais 70% dos jogos custam menos de 20 dólares.
 - 55% menos de 10 dólares.
@@ -42,14 +43,16 @@ Entretanto, quando observamos o último intervalo, vemos que ainda sim, existem 
 
 Aqui temos as visualizações mostradas acima, juntamente de outras que abordam diferentes aspectos desses jogos.
 
-<div style="width: 100vw; margin-left: -50vw; left: 50%; position: relative; padding: 0; margin-top: 0; margin-bottom: 0;">
-  <iframe
-    src="https://observablehq.com/embed/341a0af66730c2da@1112?cells=mapaMaisVendidos%2Cviewof+dashboardMaisVend"
-    style="width: 100vw; height: 700px; border: none; display: block; margin: 0; padding: 0;"
-    scrolling="no"
+
+<div style="width: 850px; margin: 0 auto; padding: 0;">
+  <iframe 
+    src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos%2Cviewof+dashboardMaisVend" 
+    style="width: 100%; height: 1108.03125px; border: none; display: block; margin: 0; padding: 0;" 
+    scrolling="no" 
     frameborder="0">
   </iframe>
 </div>
+
 
 Diferentemente do scatterplot dos [bem avaliados](https://lucasaraga0.github.io/steamVisualization/bemAvaliados/), aqui crítica e usuários discordam bastante, em sua maioria, o público coloca a nota do jogo para baixo, sendo mais gritante no jogo [NBA 2K20](https://store.steampowered.com/app/1089350/NBA_2K20/). Mas por que isso acontece, se tantas pessoas compraram o jogo como elas podem avaliá-los de forma tão baixa? 
 
