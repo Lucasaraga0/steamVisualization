@@ -10,20 +10,20 @@ Para analisar os jogos mais bem avaliados fizemos o seguinte processo:
 - Iniciamos com o scraping da página de busca de jogos, obtendo todos os jogos classificados como **extremamente positivos**.
 - Desses jogos, filtramos para deixar apenas os 100 jogos com maior número número de avaliações.
 - Depois disso, obtivemos as informações dos jogos utilizando a API da Steam. 
-- Por fim, para ter as notas do [metacritic](https://www.metacritic.com/), das notas dos jogos, tanto de críticos quanto de usuários.
+- Por fim, para ter as notas do [metacritic](https://www.metacritic.com/), tanto de críticos quanto de usuários e, os países de origem dos jogos, fizemos o preenchimento manual dos conjuntos de dados.
 
 Com isso esclarecido, podemos prosseguir para as visualizações. Algumas perguntas que podemos fazer:
 - Existe um padrão de ocorrência dos gêneros desses jogos?
--  Quais os países de origem desses jogos?
+- Crítica e usuários tendem a concordar sobre os jogos bem avaliados?
 
-Adendo: por convenção, nas visualizações a seguir utilizaremos a terminologia "Mais bem avaliados" ou somente "Bem avaliados", mesmo que o mais correto seja "Jogos bem avaliados com maior número de avaliações", por questões de espaço.
+Adendo: por convenção, nas visualizações a seguir utilizaremos a terminologia "Mais bem avaliados" ou somente "Bem avaliados", pela praticidade, mesmo que o mais correto seja "Jogos bem avaliados com maior número de avaliações".
 
 ## Análise de gênero
 
-Na visualização a seguir a distribuição dos gêneros nos jogos bem avaliados
+Na visualização a seguir, temos a distribuição dos gêneros nos jogos bem avaliados
 
-<iframe width="100%" height="555" frameborder="0"
-  src="https://observablehq.com/embed/341a0af66730c2da@648?cells=genBemAval2Layer"></iframe>
+<iframe width="100%" height="468" frameborder="0"
+  src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+barrasBA"></iframe>
 
 Percebe-se que existe uma certa margem entre os três primeiros para os demais, sendo eles, Ação, Indie e Aventura. Ação e Aventura são gêneros consagrados na indústria e sua presença não é nenhuma surpresa. Jogos indies, por outro lado, aparecem como uma alternativa às frustrações recentes em relação as grandes empresas, representando os jogos de menor escala e feitos por pequenas equipes de desenvolvedores.
 
@@ -44,8 +44,8 @@ Não faltam, na história, exemplos de obras rejeitadas pela crítica e amadas p
 
 No painel abaixo agrupamos as visualizações já mostradas acima com outras que explorar demais aspectos dos jogos bem avaliados.
 
-<iframe width="100%" height="564" frameborder="0"
-  src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+dashboardBemAval2"></iframe>
+<iframe width="100%" height="1108.015625" frameborder="0"
+  src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaBemAvaliados%2Cviewof+dashboardBemAval2"></iframe>
 
 Voltando para a discussão sobre os gêneros ... Observamos que os jogos indie em sua maioria não passam de 20 dólares e tiveram um grande crescimento entre 2015 e 2020.
 
