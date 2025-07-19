@@ -1,0 +1,9 @@
+_site/
+vendor/
+.bundle/
+.cache/
+.sass-cache/
+
+Gemfile
+Gemfile.lock
+.yarn-integrity

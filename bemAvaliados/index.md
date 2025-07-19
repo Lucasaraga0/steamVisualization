@@ -22,8 +22,22 @@ Adendo: por convenção, nas visualizações a seguir utilizaremos a terminologi
 
 Na visualização a seguir, temos a distribuição dos gêneros nos jogos bem avaliados
 
-<iframe width="100%" height="468" frameborder="0"
-  src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+barrasBA"></iframe>
+
+<div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
+  <div style="width: 800px;">
+    <iframe 
+      src="https://observablehq.com/embed/341a0af66730c2da@1258?cells=viewof+barrasBA"
+      style="width:  800px; height: 470px; border: none; display: block; background: white;"
+      scrolling="no"
+      frameborder="0"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+
 
 Percebe-se que existe uma certa margem entre os três primeiros para os demais, sendo eles, Ação, Indie e Aventura. Ação e Aventura são gêneros consagrados na indústria e sua presença não é nenhuma surpresa. Jogos indies, por outro lado, aparecem como uma alternativa às frustrações recentes em relação as grandes empresas, representando os jogos de menor escala e feitos por pequenas equipes de desenvolvedores.
 
@@ -35,8 +49,18 @@ Simulação, RPG e Estratégia formam um "segundo pelotão" de gêneros, também
 
 Não faltam, na história, exemplos de obras rejeitadas pela crítica e amadas pelo público ou o caminho inverso. No entanto quando observamos os resultados do nosso comparativo, é perceptível que na grande maioria dos casos, público e crítica concordaram sobre os jogos. Entretanto, existe apenas um *outlier*, [Postal 2](https://store.steampowered.com/app/223470/POSTAL_2/), conhecido pelo humor ácido e a violência extrema, um jogo polêmico e que divide opiniões, tendo esse comportamento refletido no scatterplot gerado abaixo.
 
-<iframe width="100%" height="577" frameborder="0"
-  src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+scatBA"></iframe>
+<div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
+  <div style="width: 1100px;">
+    <iframe 
+      src="https://observablehq.com/embed/341a0af66730c2da@1261?cells=viewof+scatBA"
+      style="width: 1100px; height: 580px; border: none; display: block; background: white;"
+      scrolling="no"
+      frameborder="0"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 ---
 
@@ -44,8 +68,21 @@ Não faltam, na história, exemplos de obras rejeitadas pela crítica e amadas p
 
 No painel abaixo agrupamos as visualizações já mostradas acima com outras que explorar demais aspectos dos jogos bem avaliados.
 
-<iframe width="100%" height="1108.015625" frameborder="0"
-  src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaBemAvaliados%2Cviewof+dashboardBemAval2"></iframe>
+
+<div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
+  <div style="width: 1100px;">
+    <iframe 
+      src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaBemAvaliados%2Cviewof+dashboardBemAval2"
+      style="width:  1100px; height: 1158px; border: none; display: block; background: white;"
+      scrolling="no"
+      frameborder="0"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
 
 Voltando para a discussão sobre os gêneros ... Observamos que os jogos indie em sua maioria não passam de 20 dólares e tiveram um grande crescimento entre 2015 e 2020.
 

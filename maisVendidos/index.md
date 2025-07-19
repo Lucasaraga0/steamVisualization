@@ -15,40 +15,18 @@ Assim como nos jogos bem avaliados, podemos fazer algumas perguntas sobre esses 
 
 É perceptível que existe uma grande vantagem dos Estados Unidos para os demais países, o que não é surpreendente uma vez que são os maiores expoentes do mercado ocidental de jogos, público majoritário da Steam.
  
- <!-- versao antiga
-
-<div style="width: 850px; margin: 0 auto; padding: 0;">
-  <iframe
-    src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos"
-    style="width: 100%; height: 500px; border: none; display: block; margin: 0; padding: 0;"
-    scrolling="no"
-    frameborder="0">
-  </iframe>
+<div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
+  <div style="width: 1000px;">
+    <iframe 
+      src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos" 
+      style="width:  990px; height: 600px; border: none; display: block; background: white;"
+      scrolling="no"
+      frameborder="0"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
--->
-
-<div style="width: 100%; max-width: 1000px; margin: 2rem auto;">
-  <iframe
-    src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos"
-    style="width: 100%; height: 600px; border: none; display: block; background: white;"
-    scrolling="no"
-    frameborder="0"
-    loading="lazy"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div style="display: flex; justify-content: center; overflow-x: auto; margin: 2rem 0;">
-  <iframe
-    src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos"
-    style="width: 1000px; height: 600px; border: none; display: block; background: white;"
-    scrolling="no"
-    frameborder="0"
-    loading="lazy"
-    allowfullscreen>
-  </iframe>
-</div>
-
 
 
 Entretanto outros países também se destacam, como a Suécia, com 8 jogos, e Canadá e Reino Unido, ambos com 6.
@@ -56,16 +34,6 @@ Entretanto outros países também se destacam, como a Suécia, com 8 jogos, e Ca
 ---
 
 ## Distribuição de preço 
-<!-- 
-<div style="width: 850px; margin: 0 auto; padding: 0;">
-  <iframe
-    src="https://observablehq.com/embed/341a0af66730c2da?cells=viewof+histMV"
-    style="width: 100%; height: 473.015625px; border: none; display: block; margin: 0; padding: 0;"
-    scrolling="no"
-    frameborder="0">
-  </iframe>
-</div>
--->
 
 <div style="width: 100%; max-width: 1000px; margin: 2rem auto;">
   <iframe
@@ -93,26 +61,31 @@ Entretanto, quando observamos o último intervalo, vemos que ainda sim, existem 
 Aqui temos as visualizações mostradas acima, juntamente de outras que abordam diferentes aspectos desses jogos.
 
 <!--
-<div style="width: 850px; margin: 0 auto; padding: 0;">
+<div style="width: 1100px; display: flex; justify-content: center; margin: 2rem 0;">
   <iframe 
     src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos%2Cviewof+dashboardMaisVend" 
-    style="width: 100%; height: 1108.03125px; border: none; display: block; margin: 0; padding: 0;" 
-    scrolling="no" 
-    frameborder="0">
-  </iframe>
-</div>
--->
-
-<div style="width: 100vw; overflow-x: auto; margin: 2rem 0; display: flex; justify-content: center;">
-  <iframe 
-    src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos%2Cviewof+dashboardMaisVend" 
-    style="width: 1000px; height: 1200px; border: none; display: block; background: white;"
+    style="width: 100%; height: 1158px; border: none; display: block; background: white;"
     scrolling="no"
     frameborder="0"
     loading="lazy"
     allowfullscreen>
   </iframe>
 </div>
+-->
+
+<div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
+  <div style="width: 1100px;">
+    <iframe 
+      src="https://observablehq.com/embed/341a0af66730c2da?cells=mapaMaisVendidos%2Cviewof+dashboardMaisVend" 
+      style="width:  1100px; height: 1158px; border: none; display: block; background: white;"
+      scrolling="no"
+      frameborder="0"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 
 
 
